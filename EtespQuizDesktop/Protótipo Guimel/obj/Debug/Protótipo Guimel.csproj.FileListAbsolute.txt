@@ -1,0 +1,43 @@
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.exe.config
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.exe
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.pdb
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo Guimel.csprojAssemblyReference.cache
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmMenu.resources
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmParticpantes.resources
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.Properties.Resources.resources
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo Guimel.csproj.GenerateResource.cache
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo Guimel.csproj.CoreCompileInputs.cache
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo Guimel.exe
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo Guimel.pdb
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditPart.resources
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmMdi.resources
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddPart.resources
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.exe.config
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo Guimel.exe
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo Guimel.pdb
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.exe
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.pdb
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo Guimel.csprojResolveAssemblyReference.cache
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddPart.resources
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditPart.resources
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmMdi.resources
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmMenu.resources
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmParticpantes.resources
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.Properties.Resources.resources
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo Guimel.csproj.GenerateResource.Cache
+C:\Users\Computery\Downloads\Protótipo Guimel-20190817T210207Z-001\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.exe.config
+C:\Users\Computery\Downloads\Protótipo Guimel-20190817T210207Z-001\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.exe
+C:\Users\Computery\Downloads\Protótipo Guimel-20190817T210207Z-001\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.pdb
+C:\Users\Computery\Downloads\Protótipo Guimel-20190817T210207Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo Guimel.csprojAssemblyReference.cache
+C:\Users\Computery\Downloads\Protótipo Guimel-20190817T210207Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddPart.resources
+C:\Users\Computery\Downloads\Protótipo Guimel-20190817T210207Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditPart.resources
+C:\Users\Computery\Downloads\Protótipo Guimel-20190817T210207Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmMdi.resources
+C:\Users\Computery\Downloads\Protótipo Guimel-20190817T210207Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmMenu.resources
+C:\Users\Computery\Downloads\Protótipo Guimel-20190817T210207Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmParticpantes.resources
+C:\Users\Computery\Downloads\Protótipo Guimel-20190817T210207Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.Properties.Resources.resources
+C:\Users\Computery\Downloads\Protótipo Guimel-20190817T210207Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo Guimel.csproj.GenerateResource.cache
+C:\Users\Computery\Downloads\Protótipo Guimel-20190817T210207Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo Guimel.csproj.CoreCompileInputs.cache
+C:\Users\Computery\Downloads\Protótipo Guimel-20190817T210207Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo Guimel.exe
+C:\Users\Computery\Downloads\Protótipo Guimel-20190817T210207Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo Guimel.pdb
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditGroup.resources
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddGroup.resources

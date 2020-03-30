@@ -1,0 +1,102 @@
+﻿body {
+}
+
+.divCorpoGerenciarGrupo{
+    height:1350px;
+    width:100%;
+    float:left;
+    padding-top:50px;
+    padding-bottom:50px;
+}
+
+.divParticipantesGen{
+    height:1120px;
+    width:100%;
+    float:left;
+}
+
+.divPartGerenciar{
+    height:1050px;
+    width:90%;
+    align-items:center;
+    border: 1px solid #444;
+    border-radius: 10px 10px;
+    background-color: #FFF;
+    position: relative;
+    box-shadow: 10px 10px 10px #DDD;
+}
+
+.divPartGen {
+    height: 900px;
+    width: 90%;
+    align-items: center;
+    margin-top:50px;
+}
+
+@media(max-width:1300px){
+    .divCorpoGerenciarGrupo {
+        height: 1350px;
+        width: 100%;
+        float: left;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .divParticipantesGen {
+        height: 1120px;
+        width: 100%;
+        float: left;
+    }
+
+    .divPartGerenciar {
+        height: 1050px;
+        width: 90%;
+        align-items: center;
+        border: 1px solid #444;
+        border-radius: 10px 10px;
+        background-color: #FFF;
+        position: relative;
+        box-shadow: 10px 10px 10px #DDD;
+    }
+
+    .divPartGen {
+        height: 900px;
+        width: 90%;
+        align-items: center;
+        margin-top: 50px;
+    }
+}
+
+@media(max-width:630px) {
+    .divCorpoGerenciarGrupo {
+        height: 1700px;
+        width: 100%;
+        float: left;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .divParticipantesGen {
+        height: 1470px;
+        width: 100%;
+        float: left;
+    }
+
+    .divPartGerenciar {
+        height: 1400px;
+        width: 90%;
+        align-items: center;
+        border: 1px solid #444;
+        border-radius: 10px 10px;
+        background-color: #FFF;
+        position: relative;
+        box-shadow: 10px 10px 10px #DDD;
+    }
+
+    .divPartGen {
+        height: 1250px;
+        width: 90%;
+        align-items: center;
+        margin-top: 50px;
+    }
+}

@@ -1,0 +1,1267 @@
+
+/*Cadastro.aspx*/
+
+.corCima {
+    height: 50px;
+    width: 100%;
+    float: left;
+    background-color: #dedede;
+}
+
+.divCorpo {
+    width: 100%;
+    height: auto;
+    background-color: #efefef/*#dedede*/;
+    float: left;
+}
+    
+.cad {
+    height: 800px;
+    width: 70%;
+    align-items: center;
+    border: 1px groove #333;
+    box-shadow: #aaa 10px 10px 10px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.imgQuizCad {
+    height: 800px;
+    width: 50%;
+    float: left;
+}
+
+.imgQuiz {
+    height: 800px;
+    width: 100%;
+    float: left;
+}
+
+.preenche {
+    height: 800px;
+    width: 50%;
+    float: left;
+    background-color: #fff;
+}
+
+.titulo {
+    height: 70px;
+    float: left;
+    width: 100%;
+}
+
+.tit {
+    font-size: 26px;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.formulario1 {
+    height: 115px ;
+    width: 100%;
+    float: left;
+}
+
+.espacolabel {
+    height: 35px;
+    width: 100%;
+    float: left;
+}
+
+.espacotxt {
+    height: 50px;
+    width: 100%;
+    float: left;
+}
+        
+.espacoAviso {
+    height: 20px;
+    width: 100%;
+    float: left;
+}
+
+.lbl1 {
+    margin-left: 15px;
+    margin-top: 5px;
+    float: left;
+}
+
+.txt1 {
+    width: 50%;
+    height: 40px;
+    /*margin: 0 47%;*/
+    /*padding: 0 0.5%;*/
+    padding-left: 5px;
+    border: solid 1px #aaa;
+    float: left;
+    margin-left: 20px;
+    border-radius: 2px 2px;
+    font-size: 16px;
+    box-shadow: #aaa 1px 1px 1px;
+}
+
+.txt1:hover {
+    border: 2px solid #4c72ff;
+}
+
+.lblAviso {
+    margin-left: 20px;
+    float: left;
+    color: red;
+    font-size: 16px;
+    font-family: Cambria;
+}
+
+.txtbtn {
+    width: 60%;
+    height: 42px;
+    /*padding: 0 0.5%;*/
+    border: solid 1px #aaa;
+    float: left;
+    margin-left: 20px;
+    border-radius: 2px 2px;
+    box-shadow: #aaa 1px 1px 1px;
+    background-color: #fff;
+}
+
+.txtSenha {
+    width: 50%;
+    height: 40px;
+    /*margin: 0 47%;*/
+    padding-left: 5px;
+    border: 1px solid #aaa;
+    float: left;
+    margin-left: 20px;
+    border-radius: 2px 2px;
+    font-size: 16px;
+    box-shadow: #aaa 1px 1px 1px;
+    position: static;
+}
+.txtSenha:hover {
+    border: 2px solid #4c72ff;
+}
+
+.txtSenha:hover + #olho {
+    border-right: 2px solid #4c72ff;
+    border-top: 2px solid #4c72ff;
+    border-bottom: 2px solid #4c72ff;    
+}
+
+#olho {
+    height: 42px;
+    width: 10%;
+    float: left;
+    border-right: 1px solid #aaa;
+    border-top: 1px solid #aaa;
+    border-bottom: 1px solid #aaa;
+    box-shadow: #aaa 1px 1px 1px;
+    position: static;
+    cursor: pointer;
+    /*height: 40px;
+    width: 10% ;
+    float: left;
+    border: 1px solid #aaa;
+    margin-left: 1px;*/
+}
+
+#btnRevelar {
+    height: 42px;
+    width: 100%;
+    float: left;
+    background-image: url("../Imagens/olho2.png");
+    background-size: 100% 100%;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    /*margin-left: 10px;*/
+}
+
+.divRobo {
+    height: 30px;
+    width: 100%;
+    float: left;
+}
+
+.inputRobo {
+    height: 18px;
+    width: 18px;
+    float: left;
+    margin-left: 5px;
+    margin-top: 7px;
+}
+
+.botao {
+    height: 50px;
+    width: 40%;
+    float: left;
+    margin-left: 10px;
+    margin-top: 20px;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    border-style: none;
+    background-color: #0ac937;
+    color: #FFF;
+    font-weight:bold;
+}
+
+.txtbtn:hover {
+    border: 2px solid #4c72ff;
+}
+.txtbtn:hover > div#olho {
+    border-left: 2px solid #4c72ff;
+}
+
+
+
+
+
+@media(max-width: 1300px) {									/*MEDIA QUERY DE Cadastro.aspx*/
+
+    .corCima {
+        height: 50px;
+        width: 100%;
+        float: left;
+        background-color: #dedede;
+    }
+
+    .divCorpo {
+        width: 100%;
+        height: auto;
+        background-color: #efefef /*#dedede*/;
+        float: left;
+    }
+
+    .cad {
+        height: 730px;
+        width: 85%;
+        align-items: center;
+        border: 1px groove #333;
+        box-shadow: #aaa 10px 10px 10px;
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+
+    .imgQuizCad {
+        height: 730px;
+        width: 50%;
+        float: left;
+    }
+
+    .imgQuiz {
+        height: 730px;
+        width: 100%;
+        float: left;
+    }
+
+    .preenche {
+        height: 730px;
+        width: 50%;
+        float: left;
+        background-color: #fff;
+    }
+
+    .titulo {
+        height: 70px;
+        float: left;
+        width: 100%;
+    }
+
+    .tit {
+        font-size: 22px;
+        text-align: left;
+        margin-left: 20px;
+        margin-top: 15px;
+    }
+
+    .formulario1 {
+        height: 105px;
+        width: 100%;
+        float: left;
+    }
+
+    .espacolabel {
+        height: 35px;
+        width: 100%;
+        float: left;
+    }
+
+    .espacotxt {
+        height: 40px;
+        width: 100%;
+        float: left;
+    }
+
+    .espacoAviso {
+        height: 20px;
+        width: 100%;
+        float: left;
+    }
+
+    .lbl1 {
+        margin-left: 15px;
+        margin-top: 5px;
+        float: left;
+        font-size: 14px;
+    }
+
+    .txt1 {
+        width: 50%;
+        height: 30px;
+        /*margin: 0 47%;*/
+        /*padding: 0 0.5%;*/
+        padding-left: 5px;
+        border: solid 1px #aaa;
+        float: left;
+        margin-left: 20px;
+        border-radius: 2px 2px;
+        font-size: 14px;
+        box-shadow: #aaa 1px 1px 1px;
+    }
+
+        .txt1:hover {
+            border: 2px solid #4c72ff;
+        }
+
+    .lblAviso {
+        margin-left: 20px;
+        float: left;
+        color: red;
+        font-size: 14px;
+        /*font-family: Cambria;*/
+    }
+
+    .txtbtn {
+        width: 60%;
+        height: 42px;
+        /*padding: 0 0.5%;*/
+        border: solid 1px #aaa;
+        float: left;
+        margin-left: 20px;
+        border-radius: 2px 2px;
+        box-shadow: #aaa 1px 1px 1px;
+        background-color: #fff;
+    }
+
+    .txtSenha {
+        width: 50%;
+        height: 30px;
+        /*margin: 0 47%;*/
+        padding-left: 5px;
+        border: 1px solid #aaa;
+        float: left;
+        margin-left: 20px;
+        border-radius: 2px 2px;
+        font-size: 16px;
+        box-shadow: #aaa 1px 1px 1px;
+        position: static;
+    }
+
+        .txtSenha:hover {
+            border: 2px solid #4c72ff;
+        }
+
+            .txtSenha:hover + #olho {
+                border-right: 2px solid #4c72ff;
+                border-top: 2px solid #4c72ff;
+                border-bottom: 2px solid #4c72ff;
+            }
+
+    #olho {
+        height: 32px;
+        width: 10%;
+        float: left;
+        border-right: 1px solid #aaa;
+        border-top: 1px solid #aaa;
+        border-bottom: 1px solid #aaa;
+        box-shadow: #aaa 1px 1px 1px;
+        position: static;
+        cursor: pointer;
+        /*height: 40px;
+    width: 10% ;
+    float: left;
+    border: 1px solid #aaa;
+    margin-left: 1px;*/
+    }
+
+    #btnRevelar {
+        height: 32px;
+        width: 100%;
+        float: left;
+        background-image: url("../Imagens/olho2.png");
+        background-size: 100% 100%;
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+        /*margin-left: 10px;*/
+    }
+
+    .divRobo {
+        height: 30px;
+        width: 100%;
+        float: left;
+    }
+
+    .inputRobo {
+        height: 18px;
+        width: 18px;
+        float: left;
+        margin-left: 5px;
+        margin-top: 5px;
+    }
+
+    .botao {
+        height: 40px;
+        width: 40%;
+        float: left;
+        margin-left: 10px;
+        margin-top: 20px;
+        font-size: 14px;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #0ac937;
+        color: #FFF;
+        font-weight:bold;
+    }
+}
+
+
+
+
+@media(max-width: 810px) {									/*MEDIA QUERY DE Cadastro.aspx*/
+
+    .corCima {
+        height: 50px;
+        width: 100%;
+        float: left;
+        background-color: #dedede;
+    }
+
+    .divCorpo {
+        width: 100%;
+        height: auto;
+        background-color: #efefef /*#dedede*/;
+        float: left;
+    }
+
+    .cad {
+        height: 730px;
+        width: 90%;
+        align-items: center;
+        border: 1px groove #333;
+        box-shadow: #aaa 10px 10px 10px;
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+
+    .imgQuizCad {
+        height: 730px;
+        width: 50%;
+        float: left;
+    }
+
+    .imgQuiz {
+        height: 730px;
+        width: 100%;
+        float: left;
+    }
+
+    .preenche {
+        height: 730px;
+        width: 50%;
+        float: left;
+        background-color: #fff;
+    }
+
+    .titulo {
+        height: 70px;
+        float: left;
+        width: 100%;
+    }
+
+    .tit {
+        font-size: 18px;
+        text-align: left;
+        margin-left: 20px;
+        margin-top: 15px;
+    }
+
+    .formulario1 {
+        height: 95px;
+        width: 100%;
+        float: left;
+    }
+
+    .espacolabel {
+        height: 35px;
+        width: 100%;
+        float: left;
+    }
+
+    .espacotxt {
+        height: 40px;
+        width: 100%;
+        float: left;
+    }
+
+    .espacoAviso {
+        height: 20px;
+        width: 100%;
+        float: left;
+    }
+
+    .lbl1 {
+        margin-left: 15px;
+        margin-top: 5px;
+        float: left;
+        font-size: 12px;
+    }
+
+    .txt1 {
+        width: 50%;
+        height: 25px;
+        /*margin: 0 47%;*/
+        /*padding: 0 0.5%;*/
+        padding-left: 5px;
+        border: solid 1px #aaa;
+        float: left;
+        margin-left: 20px;
+        border-radius: 2px 2px;
+        font-size: 12px;
+        box-shadow: #aaa 1px 1px 1px;
+    }
+
+        .txt1:hover {
+            border: 2px solid #4c72ff;
+        }
+
+    .lblAviso {
+        margin-left: 20px;
+        float: left;
+        color: red;
+        font-size: 12px;
+        /*font-family: Cambria;*/
+    }
+
+    .txtbtn {
+        width: 60%;
+        height: 42px;
+        /*padding: 0 0.5%;*/
+        border: solid 1px #aaa;
+        float: left;
+        margin-left: 20px;
+        border-radius: 2px 2px;
+        box-shadow: #aaa 1px 1px 1px;
+        background-color: #fff;
+    }
+
+    .txtSenha {
+        width: 50%;
+        height: 25px;
+        /*margin: 0 47%;*/
+        padding-left: 5px;
+        border: 1px solid #aaa;
+        float: left;
+        margin-left: 20px;
+        border-radius: 2px 2px;
+        font-size: 12px;
+        box-shadow: #aaa 1px 1px 1px;
+        position: static;
+    }
+
+        .txtSenha:hover {
+            border: 2px solid #4c72ff;
+        }
+
+            .txtSenha:hover + #olho {
+                border-right: 2px solid #4c72ff;
+                border-top: 2px solid #4c72ff;
+                border-bottom: 2px solid #4c72ff;
+            }
+
+    #olho {
+        height: 27px;
+        width: 10%;
+        float: left;
+        border-right: 1px solid #aaa;
+        border-top: 1px solid #aaa;
+        border-bottom: 1px solid #aaa;
+        box-shadow: #aaa 1px 1px 1px;
+        position: static;
+        cursor: pointer;
+        /*height: 40px;
+    width: 10% ;
+    float: left;
+    border: 1px solid #aaa;
+    margin-left: 1px;*/
+    }
+
+    #btnRevelar {
+        height: 27px;
+        width: 100%;
+        float: left;
+        background-image: url("../Imagens/olho2.png");
+        background-size: 100% 100%;
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+        /*margin-left: 10px;*/
+    }
+
+    .divRobo {
+        height: 30px;
+        width: 100%;
+        float: left;
+    }
+
+    .inputRobo {
+        height: 18px;
+        width: 18px;
+        float: left;
+        margin-left: 5px;
+        margin-top: 3px;
+    }
+
+    .botao {
+        height: 40px;
+        width: 40%;
+        float: left;
+        margin-left: 10px;
+        margin-top: 20px;
+        font-size: 14px;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #0ac937;
+        color: #FFF;
+        font-weight:bold;
+    }
+}
+
+@media(max-width: 700px) {									/*MEDIA QUERY DE Cadastro.aspx*/
+
+    .corCima {
+        height: 50px;
+        width: 100%;
+        float: left;
+        background-color: #dedede;
+    }
+
+    .divCorpo {
+        width: 100%;
+        height: auto;
+        background-color: #efefef /*#dedede*/;
+        float: left;
+    }
+
+    .cad {
+        height: 730px;
+        width: 90%;
+        align-items: center;
+        border: 1px groove #333;
+        box-shadow: #aaa 10px 10px 10px;
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+
+    .imgQuizCad {
+        height: 730px;
+        width: 50%;
+        float: left;
+    }
+
+    .imgQuiz {
+        height: 730px;
+        width: 100%;
+        float: left;
+    }
+
+    .preenche {
+        height: 730px;
+        width: 50%;
+        float: left;
+        background-color: #fff;
+    }
+
+    .titulo {
+        height: 70px;
+        float: left;
+        width: 100%;
+    }
+
+    .tit {
+        font-size: 18px;
+        text-align: left;
+        margin-left: 20px;
+        margin-top: 15px;
+    }
+
+    .formulario1 {
+        height: 95px;
+        width: 100%;
+        float: left;
+    }
+
+    .espacolabel {
+        height: 35px;
+        width: 100%;
+        float: left;
+    }
+
+    .espacotxt {
+        height: 40px;
+        width: 100%;
+        float: left;
+    }
+
+    .espacoAviso {
+        height: 20px;
+        width: 100%;
+        float: left;
+    }
+
+    .lbl1 {
+        margin-left: 15px;
+        margin-top: 5px;
+        float: left;
+        font-size: 12px;
+    }
+
+    .txt1 {
+        width: 50%;
+        height: 25px;
+        /*margin: 0 47%;*/
+        /*padding: 0 0.5%;*/
+        padding-left: 5px;
+        border: solid 1px #aaa;
+        float: left;
+        margin-left: 20px;
+        border-radius: 2px 2px;
+        font-size: 12px;
+        box-shadow: #aaa 1px 1px 1px;
+    }
+
+        .txt1:hover {
+            border: 2px solid #4c72ff;
+        }
+
+    .lblAviso {
+        margin-left: 20px;
+        float: left;
+        color: red;
+        font-size: 12px;
+        /*font-family: Cambria;*/
+    }
+
+    .txtbtn {
+        width: 60%;
+        height: 42px;
+        /*padding: 0 0.5%;*/
+        border: solid 1px #aaa;
+        float: left;
+        margin-left: 20px;
+        border-radius: 2px 2px;
+        box-shadow: #aaa 1px 1px 1px;
+        background-color: #fff;
+    }
+
+    .txtSenha {
+        width: 50%;
+        height: 25px;
+        /*margin: 0 47%;*/
+        padding-left: 5px;
+        border: 1px solid #aaa;
+        float: left;
+        margin-left: 20px;
+        border-radius: 2px 2px;
+        font-size: 12px;
+        box-shadow: #aaa 1px 1px 1px;
+        position: static;
+    }
+
+        .txtSenha:hover {
+            border: 2px solid #4c72ff;
+        }
+
+            .txtSenha:hover + #olho {
+                border-right: 2px solid #4c72ff;
+                border-top: 2px solid #4c72ff;
+                border-bottom: 2px solid #4c72ff;
+            }
+
+    #olho {
+        height: 27px;
+        width: 10%;
+        float: left;
+        border-right: 1px solid #aaa;
+        border-top: 1px solid #aaa;
+        border-bottom: 1px solid #aaa;
+        box-shadow: #aaa 1px 1px 1px;
+        position: static;
+        cursor: pointer;
+        /*height: 40px;
+    width: 10% ;
+    float: left;
+    border: 1px solid #aaa;
+    margin-left: 1px;*/
+    }
+
+    #btnRevelar {
+        height: 27px;
+        width: 100%;
+        float: left;
+        background-image: url("../Imagens/olho2.png");
+        background-size: 100% 100%;
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+        /*margin-left: 10px;*/
+    }
+
+    .divRobo {
+        height: 30px;
+        width: 100%;
+        float: left;
+    }
+
+    .inputRobo {
+        height: 18px;
+        width: 18px;
+        float: left;
+        margin-left: 5px;
+        margin-top: 4px;
+    }
+
+    .botao {
+        height: 40px;
+        width: 40%;
+        float: left;
+        margin-left: 10px;
+        margin-top: 20px;
+        font-size: 14px;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #0ac937;
+        color: #FFF;
+        font-weight:bold;
+    }
+}
+
+@media(max-width: 600px) { /*MEDIA QUERY DE Cadastro.aspx*/
+
+    .corCima {
+        height: 50px;
+        width: 100%;
+        float: left;
+        background-color: #dedede;
+    }
+
+    .divCorpo {
+        width: 100%;
+        height: auto;
+        background-color: #efefef /*#dedede*/;
+        float: left;
+    }
+
+    .cad {
+        height: 700px;
+        width: 80%;
+        align-items: center;
+        border: 1px groove #333;
+        box-shadow: #aaa 10px 10px 10px;
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+
+    .imgQuizCad {
+        height: 730px;
+        width: 0%;
+        float: left;
+    }
+
+    .imgQuiz {
+        height: 730px;
+        width: 100%;
+        float: left;
+    }
+
+    .preenche {
+        height: 700px;
+        width: 100%;
+        float: left;
+        background-color: #fff;
+    }
+
+    .titulo {
+        height: 70px;
+        float: left;
+        width: 100%;
+    }
+
+    .tit {
+        font-size: 18px;
+        text-align: left;
+        margin-left: 20px;
+        margin-top: 15px;
+    }
+
+    .formulario1 {
+        height: 95px;
+        width: 100%;
+        float: left;
+    }
+
+    .espacolabel {
+        height: 35px;
+        width: 100%;
+        float: left;
+    }
+
+    .espacotxt {
+        height: 40px;
+        width: 100%;
+        float: left;
+    }
+
+    .espacoAviso {
+        height: 20px;
+        width: 100%;
+        float: left;
+    }
+
+    .lbl1 {
+        margin-left: 15px;
+        margin-top: 5px;
+        float: left;
+        font-size: 12px;
+    }
+
+    .txt1 {
+        width: 50%;
+        height: 25px;
+        /*margin: 0 47%;*/
+        /*padding: 0 0.5%;*/
+        padding-left: 5px;
+        border: solid 1px #aaa;
+        float: left;
+        margin-left: 20px;
+        border-radius: 2px 2px;
+        font-size: 12px;
+        box-shadow: #aaa 1px 1px 1px;
+    }
+
+        .txt1:hover {
+            border: 2px solid #4c72ff;
+        }
+
+    .lblAviso {
+        margin-left: 20px;
+        float: left;
+        color: red;
+        font-size: 12px;
+        /*font-family: Cambria;*/
+    }
+
+    .txtbtn {
+        width: 60%;
+        height: 42px;
+        /*padding: 0 0.5%;*/
+        border: solid 1px #aaa;
+        float: left;
+        margin-left: 20px;
+        border-radius: 2px 2px;
+        box-shadow: #aaa 1px 1px 1px;
+        background-color: #fff;
+    }
+
+    .txtSenha {
+        width: 50%;
+        height: 25px;
+        /*margin: 0 47%;*/
+        padding-left: 5px;
+        border: 1px solid #aaa;
+        float: left;
+        margin-left: 20px;
+        border-radius: 2px 2px;
+        font-size: 12px;
+        box-shadow: #aaa 1px 1px 1px;
+        position: static;
+    }
+
+        .txtSenha:hover {
+            border: 2px solid #4c72ff;
+        }
+
+            .txtSenha:hover + #olho {
+                border-right: 2px solid #4c72ff;
+                border-top: 2px solid #4c72ff;
+                border-bottom: 2px solid #4c72ff;
+            }
+
+    #olho {
+        height: 27px;
+        width: 10%;
+        float: left;
+        border-right: 1px solid #aaa;
+        border-top: 1px solid #aaa;
+        border-bottom: 1px solid #aaa;
+        box-shadow: #aaa 1px 1px 1px;
+        position: static;
+        cursor: pointer;
+        /*height: 40px;
+    width: 10% ;
+    float: left;
+    border: 1px solid #aaa;
+    margin-left: 1px;*/
+    }
+
+    #btnRevelar {
+        height: 27px;
+        width: 100%;
+        float: left;
+        background-image: url("../Imagens/olho2.png");
+        background-size: 100% 100%;
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+        /*margin-left: 10px;*/
+    }
+
+    .divRobo {
+        height: 30px;
+        width: 100%;
+        float: left;
+    }
+
+    .inputRobo {
+        height: 18px;
+        width: 18px;
+        float: left;
+        margin-left: 5px;
+        margin-top: 4px;
+    }
+
+    .botao {
+        height: 40px;
+        width: 40%;
+        float: left;
+        margin-left: 10px;
+        margin-top: 20px;
+        font-size: 14px;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #0ac937;
+        color: #FFF;
+        font-weight: bold;
+    }
+}
+
+@media(max-width: 450px) {									/*MEDIA QUERY DE Cadastro.aspx*/
+
+    .corCima {
+        height: 50px;
+        width: 100%;
+        float: left;
+        background-color: #dedede;
+    }
+
+    .divCorpo {
+        width: 100%;
+        height: auto;
+        background-color: #efefef /*#dedede*/;
+        float: left;
+    }
+
+    .cad {
+        height: 700px;
+        width: 80%;
+        align-items: center;
+        border: 1px groove #333;
+        box-shadow: 0px 0px 0px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .imgQuizCad {
+        height: 730px;
+        width: 0%;
+        float: left;
+        display: none;
+    }
+
+    .imgQuiz {
+        height: 730px;
+        width: 100%;
+        float: left;
+    }
+
+    .preenche {
+        height: 700px;
+        width: 100%;
+        float: left;
+        background-color: #fff;
+    }
+
+    .titulo {
+        height: 70px;
+        float: left;
+        width: 100%;
+    }
+
+    .tit {
+        font-size: 18px;
+        text-align: left;
+        margin-left: 20px;
+        margin-top: 15px;
+    }
+
+    .formulario1 {
+        height: 95px;
+        width: 100%;
+        float: left;
+    }
+
+    .espacolabel {
+        height: 35px;
+        width: 100%;
+        float: left;
+    }
+
+    .espacotxt {
+        height: 40px;
+        width: 100%;
+        float: left;
+    }
+
+    .espacoAviso {
+        height: 20px;
+        width: 100%;
+        float: left;
+    }
+
+    .lbl1 {
+        margin-left: 15px;
+        margin-top: 5px;
+        float: left;
+        font-size: 12px;
+    }
+
+    .txt1 {
+        width: 60%;
+        height: 25px;
+        /*margin: 0 47%;*/
+        /*padding: 0 0.5%;*/
+        padding-left: 5px;
+        border: solid 1px #aaa;
+        float: left;
+        margin-left: 20px;
+        border-radius: 2px 2px;
+        font-size: 12px;
+        box-shadow: #aaa 1px 1px 1px;
+    }
+
+        .txt1:hover {
+            border: 2px solid #4c72ff;
+        }
+
+    .lblAviso {
+        margin-left: 20px;
+        float: left;
+        color: red;
+        font-size: 12px;
+        /*font-family: Cambria;*/
+    }
+
+    .txtbtn {
+        width: 70%;
+        height: 42px;
+        /*padding: 0 0.5%;*/
+        border: solid 1px #aaa;
+        float: left;
+        margin-left: 20px;
+        border-radius: 2px 2px;
+        box-shadow: #aaa 1px 1px 1px;
+        background-color: #fff;
+    }
+
+    .txtSenha {
+        width: 60%;
+        height: 25px;
+        /*margin: 0 47%;*/
+        padding-left: 5px;
+        border: 1px solid #aaa;
+        float: left;
+        margin-left: 20px;
+        border-radius: 2px 2px;
+        font-size: 12px;
+        box-shadow: #aaa 1px 1px 1px;
+        position: static;
+    }
+
+        .txtSenha:hover {
+            border: 2px solid #4c72ff;
+        }
+
+            .txtSenha:hover + #olho {
+                border-right: 2px solid #4c72ff;
+                border-top: 2px solid #4c72ff;
+                border-bottom: 2px solid #4c72ff;
+            }
+
+    #olho {
+        height: 27px;
+        width: 10%;
+        float: left;
+        border-right: 1px solid #aaa;
+        border-top: 1px solid #aaa;
+        border-bottom: 1px solid #aaa;
+        box-shadow: #aaa 1px 1px 1px;
+        position: static;
+        cursor: pointer;
+    }
+
+    #btnRevelar {
+        height: 27px;
+        width: 100%;
+        float: left;
+        background-image: url("../Imagens/olho2.png");
+        background-size: 100% 100%;
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+        /*margin-left: 10px;*/
+    }
+
+    .divRobo {
+        height: 30px;
+        width: 100%;
+        float: left;
+    }
+
+    .inputRobo {
+        height: 18px;
+        width: 18px;
+        float: left;
+        margin-left: 5px;
+        margin-top: 4px;
+    }
+
+    .botao {
+        height: 40px;
+        width: 50%;
+        float: left;
+        margin-left: 10px;
+        margin-top: 20px;
+        font-size: 14px;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #0ac937;
+        color: #FFF;
+        font-weight:bold;
+    }
+}

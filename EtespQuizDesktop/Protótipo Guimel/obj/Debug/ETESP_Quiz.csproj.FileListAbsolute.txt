@@ -1,0 +1,604 @@
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.exe.config
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.exe
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.pdb
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.csprojAssemblyReference.cache
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddGroup.resources
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddPart.resources
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditGroup.resources
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditPart.resources
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmMdi.resources
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmMenu.resources
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmParticpantes.resources
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.Properties.Resources.resources
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.GenerateResource.cache
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.CoreCompileInputs.cache
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo Guimel.exe
+F:\ETESP Quiz\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo Guimel.pdb
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T104635Z-001\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.exe.config
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T104635Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo Guimel.exe
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T104635Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo Guimel.pdb
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T104635Z-001\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.exe
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T104635Z-001\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.pdb
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T104635Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T104635Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddGroup.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T104635Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddPart.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T104635Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditGroup.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T104635Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditPart.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T104635Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmMdi.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T104635Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmMenu.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T104635Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmParticpantes.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T104635Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.Properties.Resources.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T104635Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T135257Z-001\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.exe.config
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T135257Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo Guimel.exe
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T135257Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo Guimel.pdb
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T135257Z-001\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.exe
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T135257Z-001\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.pdb
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T135257Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T135257Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddDificuldade.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T135257Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddTopico.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T135257Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditDificuldade.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T135257Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditPerguntas.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T135257Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditTopico.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T135257Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmPerguntasTopicos.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T135257Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddGroup.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T135257Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddPart.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T135257Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditGroup.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T135257Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditPart.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T135257Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmMdi.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T135257Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmMenu.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T135257Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmParticipantes.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T135257Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.Properties.Resources.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T135257Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\Protótipo Guimel-20190821T135257Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddPergunta.resources
+C:\Users\Computery\Downloads\Protótipo Guimel-20190822T232929Z-001\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.exe.config
+C:\Users\Computery\Downloads\Protótipo Guimel-20190822T232929Z-001\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.exe
+C:\Users\Computery\Downloads\Protótipo Guimel-20190822T232929Z-001\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.pdb
+C:\Users\Computery\Downloads\Protótipo Guimel-20190822T232929Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.csprojAssemblyReference.cache
+C:\Users\Computery\Downloads\Protótipo Guimel-20190822T232929Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddDificuldade.resources
+C:\Users\Computery\Downloads\Protótipo Guimel-20190822T232929Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddTopico.resources
+C:\Users\Computery\Downloads\Protótipo Guimel-20190822T232929Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditDificuldade.resources
+C:\Users\Computery\Downloads\Protótipo Guimel-20190822T232929Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditPerguntas.resources
+C:\Users\Computery\Downloads\Protótipo Guimel-20190822T232929Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditTopico.resources
+C:\Users\Computery\Downloads\Protótipo Guimel-20190822T232929Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmPerguntasTopicos.resources
+C:\Users\Computery\Downloads\Protótipo Guimel-20190822T232929Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddGroup.resources
+C:\Users\Computery\Downloads\Protótipo Guimel-20190822T232929Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddPart.resources
+C:\Users\Computery\Downloads\Protótipo Guimel-20190822T232929Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditGroup.resources
+C:\Users\Computery\Downloads\Protótipo Guimel-20190822T232929Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditPart.resources
+C:\Users\Computery\Downloads\Protótipo Guimel-20190822T232929Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmMdi.resources
+C:\Users\Computery\Downloads\Protótipo Guimel-20190822T232929Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmMenu.resources
+C:\Users\Computery\Downloads\Protótipo Guimel-20190822T232929Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmParticipantes.resources
+C:\Users\Computery\Downloads\Protótipo Guimel-20190822T232929Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.Properties.Resources.resources
+C:\Users\Computery\Downloads\Protótipo Guimel-20190822T232929Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddPergunta.resources
+C:\Users\Computery\Downloads\Protótipo Guimel-20190822T232929Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.GenerateResource.cache
+C:\Users\Computery\Downloads\Protótipo Guimel-20190822T232929Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.CoreCompileInputs.cache
+C:\Users\Computery\Downloads\Protótipo Guimel-20190822T232929Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo Guimel.exe
+C:\Users\Computery\Downloads\Protótipo Guimel-20190822T232929Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo Guimel.pdb
+C:\Users\Computery\Downloads\Protótipo Guimel-20190822T232929Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditAlts.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.exe.config
+C:\Users\Lab\Desktop\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.exe
+C:\Users\Lab\Desktop\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.pdb
+C:\Users\Lab\Desktop\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddDificuldade.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddTopico.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditAlts.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditDificuldade.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditPerguntas.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditTopico.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmPerguntasTopicos.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddGroup.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddPart.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditGroup.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditPart.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmMdi.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmMenu.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmParticipantes.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.Properties.Resources.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddPergunta.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo Guimel.exe
+C:\Users\Lab\Desktop\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo Guimel.pdb
+C:\Users\Lab\Desktop\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmQuizConfig.resources
+C:\Users\Lab\Desktop\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmRoleta.resources
+F:\LPOO\C#\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.exe.config
+F:\LPOO\C#\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo Guimel.exe
+F:\LPOO\C#\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo Guimel.pdb
+F:\LPOO\C#\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.csprojResolveAssemblyReference.cache
+F:\LPOO\C#\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddDificuldade.resources
+F:\LPOO\C#\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddTopico.resources
+F:\LPOO\C#\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditAlts.resources
+F:\LPOO\C#\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditDificuldade.resources
+F:\LPOO\C#\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditPerguntas.resources
+F:\LPOO\C#\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditTopico.resources
+F:\LPOO\C#\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmPerguntasTopicos.resources
+F:\LPOO\C#\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddGroup.resources
+F:\LPOO\C#\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddPart.resources
+F:\LPOO\C#\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditGroup.resources
+F:\LPOO\C#\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmEditPart.resources
+F:\LPOO\C#\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmMdi.resources
+F:\LPOO\C#\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmMenu.resources
+F:\LPOO\C#\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmParticipantes.resources
+F:\LPOO\C#\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmQuizConfig.resources
+F:\LPOO\C#\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmRoleta.resources
+F:\LPOO\C#\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.Properties.Resources.resources
+F:\LPOO\C#\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\Protótipo_Guimel.frmAddPergunta.resources
+F:\LPOO\C#\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.GenerateResource.Cache
+F:\LPOO\C#\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.exe
+F:\LPOO\C#\Protótipo Guimel-20190823T121357Z-001\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.pdb
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\bin\Debug\Protótipo Guimel.exe
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.csprojAssemblyReference.cache
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.GenerateResource.cache
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.CoreCompileInputs.cache
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddDificuldade.resources
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddTopico.resources
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditAlts.resources
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditDificuldade.resources
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditPerguntas.resources
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditTopico.resources
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmPerguntasTopicos.resources
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddGroup.resources
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddPart.resources
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditGroup.resources
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditPart.resources
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmMenu.resources
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmParticipantes.resources
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmQuizConfig.resources
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmRoleta.resources
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddPergunta.resources
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmDebug.resources
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoPergunta.resources
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.Properties.Resources.resources
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\bin\Debug\ETESP Quiz.exe.config
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\bin\Debug\ETESP Quiz.exe.manifest
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\bin\Debug\ETESP Quiz.application
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\bin\Debug\ETESP Quiz.exe
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\bin\Debug\ETESP Quiz.pdb
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP Quiz.exe.manifest
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP Quiz.application
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP Quiz.exe
+C:\Users\guime\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP Quiz.pdb
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\bin\Debug\ETESP Quiz.exe.config
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\bin\Debug\ETESP Quiz.exe.manifest
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\bin\Debug\ETESP Quiz.application
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\bin\Debug\ETESP Quiz.exe
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\bin\Debug\ETESP Quiz.pdb
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.csprojAssemblyReference.cache
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddDificuldade.resources
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddTopico.resources
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmDebug.resources
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditAlts.resources
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditDificuldade.resources
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditPerguntas.resources
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditTopico.resources
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoPergunta.resources
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmPerguntasTopicos.resources
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddGroup.resources
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddPart.resources
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditGroup.resources
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditPart.resources
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmMenu.resources
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmParticipantes.resources
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmQuizConfig.resources
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmRoleta.resources
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.Properties.Resources.resources
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddPergunta.resources
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.GenerateResource.cache
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.CoreCompileInputs.cache
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP Quiz.exe.manifest
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP Quiz.application
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP Quiz.exe
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP Quiz.pdb
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.FrmJogoResposta.resources
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\Protótipo Guimel-20190824T233632Z-001\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoMostrarResposta.resources
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\bin\Debug\ETESP Quiz.exe.config
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP Quiz.exe
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP Quiz.pdb
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\bin\Debug\ETESP Quiz.exe.manifest
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\bin\Debug\ETESP Quiz.application
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\bin\Debug\ETESP Quiz.exe
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\bin\Debug\ETESP Quiz.pdb
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddDificuldade.resources
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddTopico.resources
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmDebug.resources
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditAlts.resources
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditDificuldade.resources
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditPerguntas.resources
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditTopico.resources
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoMostrarResposta.resources
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoPergunta.resources
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoResposta.resources
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoTelaFinal.resources
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmPerguntasTopicos.resources
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddGroup.resources
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddPart.resources
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditGroup.resources
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditPart.resources
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmMenu.resources
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmParticipantes.resources
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmQuizConfig.resources
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmRoleta.resources
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.Properties.Resources.resources
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddPergunta.resources
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP Quiz.exe.manifest
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP Quiz.application
+C:\Users\Lab\Desktop\Protótipo Guimel\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoRanking.resources
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe.config
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe.manifest
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.application
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.pdb
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csprojAssemblyReference.cache
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddDificuldade.resources
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddTopico.resources
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmDebug.resources
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditAlts.resources
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditDificuldade.resources
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditPerguntas.resources
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditTopico.resources
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoMostrarResposta.resources
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoPergunta.resources
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoRanking.resources
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoResposta.resources
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoTelaFinal.resources
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmPerguntasTopicos.resources
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddGroup.resources
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddPart.resources
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditGroup.resources
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditPart.resources
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmMenu.resources
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmParticipantes.resources
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmQuizConfig.resources
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmRoleta.resources
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.Properties.Resources.resources
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddPergunta.resources
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.GenerateResource.cache
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.CoreCompileInputs.cache
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.exe.manifest
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.application
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.exe
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.pdb
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe.config
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe.manifest
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.application
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.pdb
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csprojResolveAssemblyReference.cache
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddDificuldade.resources
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddTopico.resources
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmDebug.resources
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditAlts.resources
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditDificuldade.resources
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditPerguntas.resources
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditTopico.resources
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoMostrarResposta.resources
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoPergunta.resources
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoRanking.resources
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoResposta.resources
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoTelaFinal.resources
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmPerguntasTopicos.resources
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddGroup.resources
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddPart.resources
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditGroup.resources
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditPart.resources
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmMenu.resources
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmParticipantes.resources
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmQuizConfig.resources
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmRoleta.resources
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.Properties.Resources.resources
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddPergunta.resources
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.GenerateResource.Cache
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.exe.manifest
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.application
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.exe
+D:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.pdb
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe.config
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.exe
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.pdb
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe.manifest
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.application
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.pdb
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\bin\Debug\CircularProgressBar.dll
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\bin\Debug\WinFormAnimation.dll
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csprojResolveAssemblyReference.cache
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddDificuldade.resources
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddTopico.resources
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmDebug.resources
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditAlts.resources
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditDificuldade.resources
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditPerguntas.resources
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditTopico.resources
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoMostrarResposta.resources
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoPergunta.resources
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoRanking.resources
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoResposta.resources
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoTelaFinal.resources
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmPerguntasTopicos.resources
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddGroup.resources
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddPart.resources
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditGroup.resources
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditPart.resources
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmMenu.resources
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmParticipantes.resources
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmQuizConfig.resources
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmRoleta.resources
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.Properties.Resources.resources
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddPergunta.resources
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.GenerateResource.Cache
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.exe.manifest
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.application
+G:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmGroups.resources
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmGroups.resources
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\bin\Debug\CircularProgressBar.dll
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\bin\Debug\WinFormAnimation.dll
+C:\Users\guime\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.CopyComplete
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe.config
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe.manifest
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.application
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.pdb
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\bin\Debug\CircularProgressBar.dll
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\bin\Debug\WinFormAnimation.dll
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csprojAssemblyReference.cache
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddDificuldade.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddTopico.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmDebug.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditAlts.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditDificuldade.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditPerguntas.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditTopico.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmGroups.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoMostrarResposta.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoPergunta.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoRanking.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoResposta.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoTelaFinal.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmPerguntasTopicos.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddGroup.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddPart.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditGroup.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditPart.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmMenu.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmParticipantes.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmQuizConfig.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmRoleta.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.Properties.Resources.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddPergunta.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.GenerateResource.cache
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.CoreCompileInputs.cache
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.exe.manifest
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.application
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.CopyComplete
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.exe
+C:\Users\Computery\Desktop\EtespQuizDesktop-20190830T180001Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.pdb
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe.config
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe.manifest
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.application
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.pdb
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\bin\Debug\CircularProgressBar.dll
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\bin\Debug\WinFormAnimation.dll
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csprojResolveAssemblyReference.cache
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddDificuldade.resources
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddTopico.resources
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmDebug.resources
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditAlts.resources
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditDificuldade.resources
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditPerguntas.resources
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditTopico.resources
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmGroups.resources
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoMostrarResposta.resources
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoPergunta.resources
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoRanking.resources
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoResposta.resources
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoTelaFinal.resources
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmPerguntasTopicos.resources
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddGroup.resources
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddPart.resources
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditGroup.resources
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditPart.resources
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmMenu.resources
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmParticipantes.resources
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmQuizConfig.resources
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmRoleta.resources
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.Properties.Resources.resources
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddPergunta.resources
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.GenerateResource.Cache
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.exe.manifest
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.application
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.exe
+F:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.pdb
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe.config
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.exe
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.pdb
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe.manifest
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.application
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.pdb
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\bin\Debug\CircularProgressBar.dll
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\bin\Debug\WinFormAnimation.dll
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddDificuldade.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddTopico.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmDebug.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditAlts.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditDificuldade.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditPerguntas.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditTopico.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmGroups.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoMostrarResposta.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoPergunta.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoRanking.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoResposta.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoTelaFinal.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmPerguntasTopicos.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddGroup.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddPart.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditGroup.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditPart.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmMenu.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmParticipantes.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmQuizConfig.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmRoleta.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.Properties.Resources.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddPergunta.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.exe.manifest
+C:\Users\Lab\Desktop\EtespQuizDesktop-20190904T104209Z-001\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.application
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe.config
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.exe
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.pdb
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe.manifest
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.application
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.pdb
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\bin\Debug\CircularProgressBar.dll
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\bin\Debug\WinFormAnimation.dll
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csprojResolveAssemblyReference.cache
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddDificuldade.resources
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddTopico.resources
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmDebug.resources
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditAlts.resources
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditDificuldade.resources
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditPerguntas.resources
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditTopico.resources
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmGroups.resources
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoMostrarResposta.resources
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoPergunta.resources
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoRanking.resources
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoResposta.resources
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoTelaFinal.resources
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmPerguntasTopicos.resources
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddGroup.resources
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddPart.resources
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditGroup.resources
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditPart.resources
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmMenu.resources
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmParticipantes.resources
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmQuizConfig.resources
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmRoleta.resources
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.Properties.Resources.resources
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddPergunta.resources
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.GenerateResource.Cache
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.exe.manifest
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.application
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\bin\Debug\CircularProgressBar.dll
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\bin\Debug\WinFormAnimation.dll
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csprojAssemblyReference.cache
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddDificuldade.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddTopico.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmDebug.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditAlts.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditDificuldade.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditPerguntas.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditTopico.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmGroups.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoMostrarResposta.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoPergunta.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoRanking.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoResposta.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoTelaFinal.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmPerguntasTopicos.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddGroup.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddPart.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditGroup.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditPart.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmMenu.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmParticipantes.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmQuizConfig.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmRoleta.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.Properties.Resources.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddPergunta.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.GenerateResource.cache
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.CoreCompileInputs.cache
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.CopyComplete
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe.config
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.exe
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.pdb
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe.manifest
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.application
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.pdb
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\bin\Debug\CircularProgressBar.dll
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\bin\Debug\WinFormAnimation.dll
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddDificuldade.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddTopico.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmDebug.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditAlts.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditDificuldade.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditPerguntas.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditTopico.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmGroups.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoMostrarResposta.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoPergunta.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoRanking.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoResposta.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoTelaFinal.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmPerguntasTopicos.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddGroup.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddPart.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditGroup.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditPart.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmMenu.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmParticipantes.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmQuizConfig.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmRoleta.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.Properties.Resources.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddPergunta.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.exe.manifest
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.application
+E:\LPOO\C#\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.CoreCompileInputs.cache
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe.config
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.exe
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.pdb
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe.manifest
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.application
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.exe
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESP Quiz.pdb
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\bin\Debug\CircularProgressBar.dll
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\bin\Debug\WinFormAnimation.dll
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddDificuldade.resources
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddTopico.resources
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmDebug.resources
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditAlts.resources
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditDificuldade.resources
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditPerguntas.resources
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditTopico.resources
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmGroups.resources
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoMostrarResposta.resources
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoPergunta.resources
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoRanking.resources
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoResposta.resources
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmJogoTelaFinal.resources
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmPerguntasTopicos.resources
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddGroup.resources
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddPart.resources
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditGroup.resources
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmEditPart.resources
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmMenu.resources
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmParticipantes.resources
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmQuizConfig.resources
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmRoleta.resources
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.Properties.Resources.resources
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmAddPergunta.resources
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.exe.manifest
+C:\Users\Lab\Desktop\oi\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP Quiz.application
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmTopQuiz.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmTopQuiz.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmRepescagem.resources
+C:\Users\Lab\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESP_Quiz.frmRepescagem.resources
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESPQuiz.exe.config
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESPQuiz.exe.manifest
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESPQuiz.application
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESPQuiz.exe
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\bin\Debug\ETESPQuiz.pdb
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESPQuiz.exe.manifest
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESPQuiz.application
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESPQuiz.exe
+C:\Users\Computery\Desktop\EtespQuizDesktop\Protótipo Guimel\obj\Debug\ETESPQuiz.pdb

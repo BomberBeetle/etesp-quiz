@@ -1,0 +1,1542 @@
+
+/*Login.aspx*/
+
+.divLoginCorpo {
+    height: 800px; 
+    width: 100%;
+    float: left;
+}
+
+.divEspacoLogin {
+    height: 600px;
+    width: 35%;
+    align-items: center;
+    border: 1px solid #676767;
+    box-shadow: #aaa 10px 10px 10px;
+    margin-top: 130px;
+    margin-bottom: 130px;
+    background-color: #FFF;
+    border-radius: 20px 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    padding-top: 30px;
+    display: block;
+}
+.divTitulo {
+    height: 120px;
+    width: 100%;
+    float: left;
+}
+
+.divTituloLogin {
+    height: 120px;
+    width: 20%;
+    float: left;
+}
+
+.h1LoginAluno {
+    font-size: 36px;
+    margin-left: 30px;
+    margin-top: 20px;
+    color: #444;
+}
+
+.divImgCadeado {
+    height: 120px;
+    width: 80%;
+    float: left;
+}
+
+.imgCadeadoLogin {
+    height: 100px;
+    width: 30%;
+    float: right;
+    margin-right: 30px;
+    margin-top: 10px;
+}
+
+.formulario2 {
+    height: 50px;
+    width: 100%;
+    float: left;
+}
+
+.ddlLogin {
+    height: 30px;
+    width: 25%;
+    float: left;
+    margin-left: 15px;
+    font-size: 16px;
+}
+
+#btnRevelar2 {
+    height: 40px;
+    width: 100%;
+    float: left;
+    background-image: url("../Imagens/olho2.png");
+    background-size: 100% 100%;
+    background-color: transparent;
+    border: none;
+    /*margin-left: 10px;*/
+}
+
+.divEsqueciSenha {
+    height: 25px;
+    width: 100%;
+    float: left;
+}
+
+.pEsqueciSenha {
+    text-decoration: none;
+    font-size: 12px;
+    color: #000;
+    margin-left: 30px;
+    float: left;
+    cursor: pointer;
+}
+
+.divBtnLogin {
+    height: 70px;
+    width: 100%;
+    float: left;
+    margin-top: 20px;
+}
+
+.btnLogin {
+    height: 50px;
+    width: 25%;
+    float: left;
+    margin-left: 30px;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    border-style: none;
+    background-color: #0ac937;
+    color: #FFF;
+    font-weight:bold;
+}
+
+.aPrimeiraVez {
+    text-decoration: none;
+    font-size: 12px;
+    color: #000;
+    margin-left: 30px;
+    margin-top: 5px;
+    float: left;
+}
+
+.divEsqueceuSenha {
+    height: 600px;
+    width: 35%;
+    align-items: center;
+    border: 1px solid #676767;
+    box-shadow: #aaa 10px 10px 10px;
+    margin-top: 130px;
+    margin-bottom: 130px;
+    background-color: #FFF;
+    border-radius: 20px 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    padding-top: 30px;
+    display: none;
+}
+
+.divForgo {
+    height: 90px;
+    width: 100%;
+    float: left;
+}
+
+.h1ForgotPassword {
+    font-size: 32px;
+    margin-left: 30px;
+    margin-top: 10px;
+    color: #444;
+    line-height: 46px;
+}
+
+.divFormEsqueceuSenha {
+    height: 400px;
+    width: 60%;
+    float: left;
+}
+
+.pEsqSenha {
+    height: 90px;
+    text-align: justify;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    font-size: 14px;
+    line-height: 26px;
+}
+
+.lblEmailEsqueci {
+    width: 80%;
+    float: left;
+    margin-left: 30px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.divTxtEmailEsq{
+    height:40px;
+    width:100%;
+    float:left;
+    margin-bottom: 5px;
+}
+
+.txtEmailEsq {
+    height: 35px;
+    width: 80%;
+    float: left;
+    margin-left: 20px;    
+    padding-left: 5px;
+    border-radius: 2px 2px;
+    font-size: 16px;
+    box-shadow: #aaa 1px 1px 1px;
+    border: solid 1px #aaa;
+}
+
+.txtEmailEsq:hover{
+    border: 2px solid #4c72ff;
+}
+
+.lblAviso2 {
+    width: 100%;
+    margin-left: 20px;
+    float: left;
+    color: red;
+    font-size: 16px;
+    font-family: Cambria;
+}
+
+.btnEnviarSenha {
+    height: 40px;
+    width: 50%;
+    float: left;
+    margin-left: 20px;
+    margin-top: 35px;
+    font-size: 16px;
+    text-align: center;
+    border-radius:5px;
+    border-style: none;
+    background-color: #0ac937;
+    color: #FFF;
+    font-weight: bold;
+    cursor:pointer;
+}
+
+.pVoltarLogin {
+    width: 70%;
+    margin-top: 20px;
+    text-decoration: none;
+    font-size: 12px;
+    color: #000;
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+}
+
+.divImgForgo {
+    height: 240px;
+    width: 40%;
+    float: left;
+}
+
+.imgEsqueceuSenha {
+    height: 240px;
+    width: 100%;
+    float: left;
+}
+
+
+@media(max-width: 1300px) {								/*MEDIA QUERY DE Login.css*/
+
+    .divLoginCorpo {
+        height: 700px;
+        width: 100%;
+        float: left;
+    }
+
+    .divEspacoLogin {
+        height: 550px;
+        width: 50%;
+        align-items: center;
+        border: 1px solid #676767;
+        box-shadow: #aaa 10px 10px 10px;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        background-color: #FFF;
+        border-radius: 20px 20px;
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-bottom: 10px;
+        padding-top: 30px;
+        display: block;
+    }
+
+    .divTitulo {
+        height: 120px;
+        width: 100%;
+        float: left;
+    }
+
+    .divTituloLogin {
+        height: 120px;
+        width: 20%;
+        float: left;
+    }
+
+    .h1LoginAluno {
+        font-size: 30px;
+        margin-left: 30px;
+        margin-top: 20px;
+        color: #444;
+    }
+
+    .divImgCadeado {
+        height: 120px;
+        width: 80%;
+        float: left;
+    }
+
+    .imgCadeadoLogin {
+        height: 90px;
+        width: 30%;
+        float: right;
+        margin-right: 30px;
+        margin-top: 10px;
+    }
+
+    .formulario2 {
+        height: 50px;
+        width: 100%;
+        float: left;
+    }
+
+    .ddlLogin {
+        height: 25px;
+        width: 25%;
+        float: left;
+        margin-left: 15px;
+        font-size: 14px;
+        margin-top: 2px;
+    }
+
+    #btnRevelar2 {
+        height: 40px;
+        width: 100%;
+        float: left;
+        background-image: url("../Imagens/olho2.png");
+        background-size: 100% 100%;
+        background-color: transparent;
+        border: none;
+        /*margin-left: 10px;*/
+    }
+
+    .divEsqueciSenha {
+        height: 25px;
+        width: 100%;
+        float: left;
+    }
+
+    .pEsqueciSenha {
+        text-decoration: none;
+        font-size: 12px;
+        color: #000;
+        margin-left: 30px;
+        float: left;
+        cursor: pointer;
+    }
+
+    .divBtnLogin {
+        height: 65px;
+        width: 100%;
+        float: left;
+        margin-top: 20px;
+    }
+
+    .btnLogin {
+        height: 45px;
+        width: 25%;
+        float: left;
+        margin-left: 30px;
+        border-radius: 10px;
+        font-size: 16px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #0ac937;
+        color: #FFF;
+        font-weight:bold;
+    }
+
+    .aPrimeiraVez {
+        text-decoration: none;
+        font-size: 12px;
+        color: #000;
+        margin-left: 30px;
+        margin-top: 5px;
+        float: left;
+    }
+
+.divEsqueceuSenha {
+    height: 600px;
+    width: 50%;
+    align-items: center;
+    border: 1px solid #676767;
+    box-shadow: #aaa 10px 10px 10px;
+    margin-top: 130px;
+    margin-bottom: 130px;
+    background-color: #FFF;
+    border-radius: 20px 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    padding-top: 30px;
+    display: none;
+}
+
+.divForgo {
+    height: 90px;
+    width: 100%;
+    float: left;
+}
+
+.h1ForgotPassword {
+    font-size: 32px;
+    margin-left: 30px;
+    margin-top: 10px;
+    color: #444;
+    line-height: 46px;
+}
+
+.divFormEsqueceuSenha {
+    height: 400px;
+    width: 60%;
+    float: left;
+}
+
+.pEsqSenha {
+    height: 130px;
+    text-align: justify;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    font-size: 14px;
+    line-height: 26px;
+}
+
+.lblEmailEsqueci {
+    width: 80%;
+    float: left;
+    margin-left: 30px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.divTxtEmailEsq{
+    height:40px;
+    width:100%;
+    float:left;
+    margin-bottom: 5px;
+}
+
+.txtEmailEsq {
+    height: 35px;
+    width: 80%;
+    float: left;
+    margin-left: 20px;    
+    padding-left: 5px;
+    border-radius: 2px 2px;
+    font-size: 16px;
+    box-shadow: #aaa 1px 1px 1px;
+    border: solid 1px #aaa;
+}
+
+.txtEmailEsq:hover{
+    border: 2px solid #4c72ff;
+}
+
+.lblAviso2 {
+    width: 100%;
+    margin-left: 20px;
+    float: left;
+    color: red;
+    font-size: 16px;
+    font-family: Cambria;
+}
+
+.btnEnviarSenha {
+    height: 40px;
+    width: 60%;
+    float: left;
+    margin-left: 20px;
+    margin-top: 35px;
+    font-size: 16px;
+    text-align: center;
+    border-radius:5px;
+    border-style: none;
+    background-color: #0ac937;
+    color: #FFF;
+    font-weight: bold;
+    cursor:pointer;
+}
+
+.pVoltarLogin {
+    width: 70%;
+    margin-top: 20px;
+    text-decoration: none;
+    font-size: 12px;
+    color: #000;
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+}
+
+.divImgForgo {
+    height: 240px;
+    width: 40%;
+    float: left;
+}
+
+.imgEsqueceuSenha {
+    height: 240px;
+    width: 100%;
+    float: left;
+}
+}
+
+
+
+@media(max-width: 810px) {                           /*MEDIA QUERY DE Login.css*/
+
+    .divLoginCorpo {
+        height: 650px;
+        width: 100%;
+        float: left;
+    }
+
+    .divEspacoLogin {
+        height: 500px;
+        width: 60%;
+        align-items: center;
+        border: 1px solid #676767;
+        box-shadow: #aaa 10px 10px 10px;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        background-color: #FFF;
+        border-radius: 20px 20px;
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-bottom: 10px;
+        padding-top: 30px;
+        display: block;
+    }
+
+    .divTitulo {
+        height: 120px;
+        width: 100%;
+        float: left;
+    }
+
+    .divTituloLogin {
+        height: 120px;
+        width: 20%;
+        float: left;
+    }
+
+    .h1LoginAluno {
+        font-size: 24px;
+        margin-left: 30px;
+        margin-top: 20px;
+        color: #444;
+    }
+
+    .divImgCadeado {
+        height: 120px;
+        width: 80%;
+        float: left;
+    }
+
+    .imgCadeadoLogin {
+        height: 90px;
+        width: 30%;
+        float: right;
+        margin-right: 30px;
+        margin-top: 10px;
+    }
+
+    .formulario2 {
+        height: 45px;
+        width: 100%;
+        float: left;
+    }
+
+    .ddlLogin {
+        height: 25px;
+        width: 25%;
+        float: left;
+        margin-left: 15px;
+        font-size: 14px;
+        margin-top: 2px;
+    }
+
+    #btnRevelar2 {
+        height: 40px;
+        width: 100%;
+        float: left;
+        background-image: url("../Imagens/olho2.png");
+        background-size: 100% 100%;
+        background-color: transparent;
+        border: none;
+        /*margin-left: 10px;*/
+    }
+
+    .divEsqueciSenha {
+        height: 25px;
+        width: 100%;
+        float: left;
+    }
+
+    .pEsqueciSenha {
+        text-decoration: none;
+        font-size: 12px;
+        color: #000;
+        margin-left: 30px;
+        float: left;
+        cursor: pointer;
+    }
+
+    .divBtnLogin {
+        height: 65px;
+        width: 100%;
+        float: left;
+        margin-top: 20px;
+    }
+
+    .btnLogin {
+        height: 45px;
+        width: 25%;
+        float: left;
+        margin-left: 30px;
+        border-radius: 10px;
+        font-size: 16px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #0ac937;
+        color: #FFF;
+        font-weight:bold;
+    }
+
+    .aPrimeiraVez {
+        text-decoration: none;
+        font-size: 12px;
+        color: #000;
+        margin-left: 30px;
+        margin-top: 5px;
+        float: left;
+    }
+
+    .divEsqueceuSenha {
+    height: 600px;
+    width: 60%;
+    align-items: center;
+    border: 1px solid #676767;
+    box-shadow: #aaa 10px 10px 10px;
+    margin-top: 130px;
+    margin-bottom: 130px;
+    background-color: #FFF;
+    border-radius: 20px 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    padding-top: 30px;
+    display: none;
+}
+
+.divForgo {
+    height: 90px;
+    width: 100%;
+    float: left;
+}
+
+.h1ForgotPassword {
+    font-size: 24px;
+    margin-left: 30px;
+    margin-top: 10px;
+    color: #444;
+    line-height: 46px;
+}
+
+.divFormEsqueceuSenha {
+    height: 400px;
+    width: 60%;
+    float: left;
+}
+
+.pEsqSenha {
+    height: 90px;
+    text-align: justify;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    font-size: 12px;
+    line-height: 26px;
+}
+
+.lblEmailEsqueci {
+    width: 80%;
+    float: left;
+    margin-left: 20px;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.divTxtEmailEsq{
+    height:40px;
+    width:100%;
+    float:left;
+    margin-bottom: 5px;
+}
+
+.txtEmailEsq {
+    height: 35px;
+    width: 80%;
+    float: left;
+    margin-left: 20px;    
+    padding-left: 5px;
+    border-radius: 2px 2px;
+    font-size: 14px;
+    box-shadow: #aaa 1px 1px 1px;
+    border: solid 1px #aaa;
+}
+
+.txtEmailEsq:hover{
+    border: 2px solid #4c72ff;
+}
+
+.lblAviso2 {
+    width: 100%;
+    margin-left: 20px;
+    float: left;
+    color: red;
+    font-size: 14px;
+    font-family: Cambria;
+}
+
+.btnEnviarSenha {
+    height: 40px;
+    width: 60%;
+    float: left;
+    margin-left: 20px;
+    margin-top: 35px;
+    font-size: 14px;
+    text-align: center;
+    border-radius:5px;
+    border-style: none;
+    background-color: #0ac937;
+    color: #FFF;
+    font-weight: bold;
+    cursor:pointer;
+}
+
+.pVoltarLogin {
+    width: 70%;
+    margin-top: 20px;
+    text-decoration: none;
+    font-size: 12px;
+    color: #000;
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+}
+
+.divImgForgo {
+    height: 240px;
+    width: 40%;
+    float: left;
+}
+
+.imgEsqueceuSenha {
+    height: 240px;
+    width: 100%;
+    float: left;
+}
+}
+
+@media(max-width: 700px) {                           /*MEDIA QUERY DE Login.css*/
+
+    .divLoginCorpo {
+        height: 650px;
+        width: 100%;
+        float: left;
+    }
+
+    .divEspacoLogin {
+        height: 500px;
+        width: 60%;
+        align-items: center;
+        border: 1px solid #676767;
+        box-shadow: #aaa 10px 10px 10px;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        background-color: #FFF;
+        border-radius: 20px 20px;
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-bottom: 10px;
+        padding-top: 30px;
+        display: block;
+    }
+
+    .divTitulo {
+        height: 120px;
+        width: 100%;
+        float: left;
+    }
+
+    .divTituloLogin {
+        height: 120px;
+        width: 20%;
+        float: left;
+    }
+
+    .h1LoginAluno {
+        font-size: 24px;
+        margin-left: 30px;
+        margin-top: 20px;
+        color: #444;
+    }
+
+    .divImgCadeado {
+        height: 120px;
+        width: 80%;
+        float: left;
+    }
+
+    .imgCadeadoLogin {
+        height: 90px;
+        width: 30%;
+        float: right;
+        margin-right: 30px;
+        margin-top: 10px;
+    }
+
+    .formulario2 {
+        height: 35px;
+        width: 100%;
+        float: left;
+    }
+
+    .ddlLogin {
+        height: 25px;
+        width: 25%;
+        float: left;
+        margin-left: 15px;
+        font-size: 14px;
+        margin-top: 2px;
+    }
+
+    #btnRevelar2 {
+        height: 40px;
+        width: 100%;
+        float: left;
+        background-image: url("../Imagens/olho2.png");
+        background-size: 100% 100%;
+        background-color: transparent;
+        border: none;
+        /*margin-left: 10px;*/
+    }
+
+    .divEsqueciSenha {
+        height: 25px;
+        width: 100%;
+        float: left;
+    }
+
+    .pEsqueciSenha {
+        text-decoration: none;
+        font-size: 12px;
+        color: #000;
+        margin-left: 20px;
+        float: left;
+        cursor: pointer;
+    }
+
+    .divBtnLogin {
+        height: 65px;
+        width: 100%;
+        float: left;
+        margin-top: 20px;
+    }
+
+    .btnLogin {
+        height: 45px;
+        width: 25%;
+        float: left;
+        margin-left: 20px;
+        border-radius: 10px;
+        font-size: 14px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #0ac937;
+        color: #FFF;
+        font-weight:bold;
+    }
+
+    .aPrimeiraVez {
+        text-decoration: none;
+        font-size: 12px;
+        color: #000;
+        margin-left: 20px;
+        margin-top: 5px;
+        float: left;
+    }
+
+    .divEsqueceuSenha {
+        height: 600px;
+        width: 60%;
+        align-items: center;
+        border: 1px solid #676767;
+        box-shadow: #aaa 10px 10px 10px;
+        margin-top: 130px;
+        margin-bottom: 130px;
+        background-color: #FFF;
+        border-radius: 20px 20px;
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-bottom: 10px;
+        padding-top: 30px;
+        display: none;
+    }
+
+    .divForgo {
+        height: 90px;
+        width: 100%;
+        float: left;
+    }
+
+    .h1ForgotPassword {
+        font-size: 24px;
+        margin-left: 30px;
+        margin-top: 10px;
+        color: #444;
+        line-height: 46px;
+    }
+
+    .divFormEsqueceuSenha {
+        height: 400px;
+        width: 60%;
+        float: left;
+    }
+
+    .pEsqSenha {
+        height: 110px;
+        text-align: justify;
+        margin-top: 30px;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-bottom: 50px;
+        font-size: 12px;
+        line-height: 24px;
+    }
+
+    .lblEmailEsqueci {
+        width: 80%;
+        float: left;
+        margin-left: 20px;
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    .divTxtEmailEsq{
+        height:40px;
+        width:100%;
+        float:left;
+        margin-bottom: 5px;
+    }
+
+    .txtEmailEsq {
+        height: 35px;
+        width: 80%;
+        float: left;
+        margin-left: 20px;    
+        padding-left: 5px;
+        border-radius: 2px 2px;
+        font-size: 14px;
+        box-shadow: #aaa 1px 1px 1px;
+        border: solid 1px #aaa;
+    }
+
+    .txtEmailEsq:hover{
+        border: 2px solid #4c72ff;
+    }
+
+    .lblAviso2 {
+        width: 100%;
+        margin-left: 20px;
+        float: left;
+        color: red;
+        font-size: 14px;
+        font-family: Cambria;
+    }
+
+    .btnEnviarSenha {
+        height: 40px;
+        width: 60%;
+        float: left;
+        margin-left: 20px;
+        margin-top: 35px;
+        font-size: 14px;
+        text-align: center;
+        border-radius:5px;
+        border-style: none;
+        background-color: #0ac937;
+        color: #FFF;
+        font-weight: bold;
+        cursor:pointer;
+    }
+
+    .pVoltarLogin {
+        width: 70%;
+        margin-top: 20px;
+        text-decoration: none;
+        font-size: 12px;
+        color: #000;
+        margin-left: 20px;
+        float: left;
+        cursor: pointer;
+    }
+
+    .divImgForgo {
+        height: 240px;
+        width: 40%;
+        float: left;
+    }
+
+    .imgEsqueceuSenha {
+        height: 240px;
+        width: 100%;
+        float: left;
+    }
+}
+
+@media(max-width: 600px) { /*MEDIA QUERY DE Login.css*/
+
+    .divLoginCorpo {
+        height: 650px;
+        width: 100%;
+        float: left;
+    }
+
+    .divEspacoLogin {
+        height: 500px;
+        width: 80%;
+        align-items: center;
+        border: 1px solid #676767;
+        box-shadow: #aaa 10px 10px 10px;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        background-color: #FFF;
+        border-radius: 20px 20px;
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-bottom: 10px;
+        padding-top: 30px;
+        display: block;
+    }
+
+    .divTitulo {
+        height: 120px;
+        width: 100%;
+        float: left;
+    }
+
+    .divTituloLogin {
+        height: 120px;
+        width: 20%;
+        float: left;
+    }
+
+    .h1LoginAluno {
+        font-size: 24px;
+        margin-left: 30px;
+        margin-top: 20px;
+        color: #444;
+    }
+
+    .divImgCadeado {
+        height: 120px;
+        width: 80%;
+        float: left;
+    }
+
+    .imgCadeadoLogin {
+        height: 90px;
+        width: 30%;
+        float: right;
+        margin-right: 30px;
+        margin-top: 10px;
+    }
+
+    .formulario2 {
+        height: 35px;
+        width: 100%;
+        float: left;
+    }
+
+    .ddlLogin {
+        height: 25px;
+        width: 25%;
+        float: left;
+        margin-left: 15px;
+        font-size: 14px;
+        margin-top: 2px;
+    }
+
+    #btnRevelar2 {
+        height: 40px;
+        width: 100%;
+        float: left;
+        background-image: url("../Imagens/olho2.png");
+        background-size: 100% 100%;
+        background-color: transparent;
+        border: none;
+        /*margin-left: 10px;*/
+    }
+
+    .divEsqueciSenha {
+        height: 25px;
+        width: 100%;
+        float: left;
+    }
+
+    .pEsqueciSenha {
+        text-decoration: none;
+        font-size: 12px;
+        color: #000;
+        margin-left: 20px;
+        float: left;
+        cursor: pointer;
+    }
+
+    .divBtnLogin {
+        height: 65px;
+        width: 100%;
+        float: left;
+        margin-top: 20px;
+    }
+
+    .btnLogin {
+        height: 45px;
+        width: 25%;
+        float: left;
+        margin-left: 20px;
+        border-radius: 10px;
+        font-size: 14px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #0ac937;
+        color: #FFF;
+        font-weight: bold;
+    }
+
+    .aPrimeiraVez {
+        text-decoration: none;
+        font-size: 12px;
+        color: #000;
+        margin-left: 20px;
+        margin-top: 5px;
+        float: left;
+    }
+
+    .divEsqueceuSenha {
+        height: 600px;
+        width: 80%;
+        align-items: center;
+        border: 1px solid #676767;
+        box-shadow: #aaa 10px 10px 10px;
+        margin-top: 130px;
+        margin-bottom: 130px;
+        background-color: #FFF;
+        border-radius: 20px 20px;
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-bottom: 10px;
+        padding-top: 30px;
+        display: none;
+    }
+
+    .divForgo {
+        height: 90px;
+        width: 100%;
+        float: left;
+    }
+
+    .h1ForgotPassword {
+        font-size: 24px;
+        margin-left: 30px;
+        margin-top: 10px;
+        color: #444;
+        line-height: 46px;
+    }
+
+    .divFormEsqueceuSenha {
+        height: 400px;
+        width: 60%;
+        float: left;
+    }
+
+    .pEsqSenha {
+        height: 110px;
+        text-align: justify;
+        margin-top: 30px;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-bottom: 50px;
+        font-size: 12px;
+        line-height: 24px;
+    }
+
+    .lblEmailEsqueci {
+        width: 80%;
+        float: left;
+        margin-left: 20px;
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    .divTxtEmailEsq {
+        height: 40px;
+        width: 100%;
+        float: left;
+        margin-bottom: 5px;
+    }
+
+    .txtEmailEsq {
+        height: 35px;
+        width: 80%;
+        float: left;
+        margin-left: 20px;
+        padding-left: 5px;
+        border-radius: 2px 2px;
+        font-size: 14px;
+        box-shadow: #aaa 1px 1px 1px;
+        border: solid 1px #aaa;
+    }
+
+        .txtEmailEsq:hover {
+            border: 2px solid #4c72ff;
+        }
+
+    .lblAviso2 {
+        width: 100%;
+        margin-left: 20px;
+        float: left;
+        color: red;
+        font-size: 14px;
+        font-family: Cambria;
+    }
+
+    .btnEnviarSenha {
+        height: 40px;
+        width: 60%;
+        float: left;
+        margin-left: 20px;
+        margin-top: 35px;
+        font-size: 14px;
+        text-align: center;
+        border-radius: 5px;
+        border-style: none;
+        background-color: #0ac937;
+        color: #FFF;
+        font-weight: bold;
+        cursor: pointer;
+    }
+
+    .pVoltarLogin {
+        width: 70%;
+        margin-top: 20px;
+        text-decoration: none;
+        font-size: 12px;
+        color: #000;
+        margin-left: 20px;
+        float: left;
+        cursor: pointer;
+    }
+
+    .divImgForgo {
+        height: 240px;
+        width: 40%;
+        float: left;
+    }
+
+    .imgEsqueceuSenha {
+        height: 240px;
+        width: 100%;
+        float: left;
+    }
+}
+
+@media(max-width: 450px) {                           /*MEDIA QUERY DE Login.css*/
+
+    .divLoginCorpo {
+        height: 650px;
+        width: 100%;
+        float: left;
+    }
+
+    .divEspacoLogin {
+        height: 500px;
+        width: 85%;
+        align-items: center;
+        border: 1px solid #676767;
+        box-shadow: #aaa 2px 2px 2px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        background-color: #FFF;
+        border-radius: 20px 20px;
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-bottom: 10px;
+        padding-top: 30px;
+        display: block;
+    }
+
+    .divTitulo {
+        height: 110px;
+        width: 100%;
+        float: left;
+    }
+
+    .divTituloLogin {
+        height: 110px;
+        width: 20%;
+        float: left;
+    }
+
+    .h1LoginAluno {
+        font-size: 24px;
+        margin-left: 30px;
+        margin-top: 20px;
+        color: #444;
+    }
+
+    .divImgCadeado {
+        height: 110px;
+        width: 80%;
+        float: left;
+    }
+
+    .imgCadeadoLogin {
+        height: 80px;
+        width: 30%;
+        float: right;
+        margin-right: 30px;
+        margin-top: 10px;
+    }
+
+    .formulario2 {
+        height: 40px;
+        width: 100%;
+        float: left;
+    }
+
+    .ddlLogin {
+        height: 25px;
+        width: 25%;
+        float: left;
+        margin-left: 15px;
+        font-size: 14px;
+        margin-top: 2px;
+    }
+
+    #btnRevelar2 {
+        height: 40px;
+        width: 100%;
+        float: left;
+        background-image: url("../Imagens/olho2.png");
+        background-size: 100% 100%;
+        background-color: transparent;
+        border: none;
+        /*margin-left: 10px;*/
+    }
+
+    .divEsqueciSenha {
+        height: 25px;
+        width: 100%;
+        float: left;
+    }
+
+    .pEsqueciSenha {
+        text-decoration: none;
+        font-size: 10px;
+        color: #000;
+        margin-left: 20px;
+        float: left;
+        cursor: pointer;
+    }
+
+    .divBtnLogin {
+        height: 60px;
+        width: 100%;
+        float: left;
+        margin-top: 15px;
+    }
+
+    .btnLogin {
+        height: 45px;
+        width: 25%;
+        float: left;
+        margin-left: 20px;
+        border-radius: 10px;
+        font-size: 14px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #0ac937;
+        color: #FFF;
+        font-weight:bold;
+    }
+
+    .aPrimeiraVez {
+        text-decoration: none;
+        font-size: 10px;
+        color: #000;
+        margin-left: 20px;
+        margin-top: 5px;
+        float: left;
+    }
+
+    .divEsqueceuSenha {
+        height: 600px;
+        width: 85%;
+        align-items: center;
+        border: 1px solid #676767;
+        box-shadow: #aaa 10px 10px 10px;
+        margin-top: 130px;
+        margin-bottom: 130px;
+        background-color: #FFF;
+        border-radius: 20px 20px;
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-bottom: 10px;
+        padding-top: 30px;
+        display: none;
+    }
+
+    .divForgo {
+        height: 90px;
+        width: 100%;
+        float: left;
+    }
+
+    .h1ForgotPassword {
+        font-size: 24px;
+        margin-left: 30px;
+        margin-top: 10px;
+        color: #444;
+        line-height: 46px;
+    }
+
+    .divFormEsqueceuSenha {
+        height: 400px;
+        width: 60%;
+        float: left;
+    }
+
+    .pEsqSenha {
+        height: 150px;
+        text-align: justify;
+        margin-top: 30px;
+        margin-left: 10px;
+        margin-right: 20px;
+        margin-bottom: 40px;
+        font-size: 12px;
+        line-height: 24px;
+    }
+
+    .lblEmailEsqueci {
+        width: 80%;
+        float: left;
+        margin-left: 20px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .divTxtEmailEsq{
+        height:40px;
+        width:100%;
+        float:left;
+        margin-bottom: 5px;
+    }
+
+    .txtEmailEsq {
+        height: 35px;
+        width: 80%;
+        float: left;
+        margin-left: 20px;    
+        padding-left: 5px;
+        border-radius: 2px 2px;
+        font-size: 12px;
+        box-shadow: #aaa 1px 1px 1px;
+        border: solid 1px #aaa;
+    }
+
+    .txtEmailEsq:hover{
+        border: 2px solid #4c72ff;
+    }
+
+    .lblAviso2 {
+        width: 100%;
+        margin-left: 20px;
+        float: left;
+        color: red;
+        font-size: 12px;
+        font-family: Cambria;
+    }
+
+    .btnEnviarSenha {
+        height: 40px;
+        width: 60%;
+        float: left;
+        margin-left: 20px;
+        margin-top: 35px;
+        font-size: 12px;
+        text-align: center;
+        border-radius:5px;
+        border-style: none;
+        background-color: #0ac937;
+        color: #FFF;
+        font-weight: bold;
+        cursor:pointer;
+    }
+
+    .pVoltarLogin {
+        width: 70%;
+        margin-top: 20px;
+        text-decoration: none;
+        font-size: 10px;
+        color: #000;
+        margin-left: 20px;
+        float: left;
+        cursor: pointer;
+    }
+
+    .divImgForgo {
+        height: 240px;
+        width: 40%;
+        float: left;
+    }
+
+    .imgEsqueceuSenha {
+        height: 240px;
+        width: 100%;
+        float: left;
+    }
+}

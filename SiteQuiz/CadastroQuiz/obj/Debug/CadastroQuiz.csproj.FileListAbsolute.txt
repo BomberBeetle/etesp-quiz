@@ -1,0 +1,1093 @@
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\ApplicationInsights.config
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\roslyn\csc.exe
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\roslyn\vbc.exe
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.dll.config
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.dll
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.pdb
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Web.dll
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Web.xml
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.csprojResolveAssemblyReference.cache
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+c:\users\lab\documents\visual studio 2015\Projects\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\ApplicationInsights.config
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\roslyn\csc.exe
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\roslyn\vbc.exe
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.dll.config
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.dll
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.pdb
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Web.dll
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Web.xml
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+C:\Users\Lab\Documents\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\ApplicationInsights.config
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\roslyn\csc.exe
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\roslyn\vbc.exe
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.dll.config
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.pdb
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Web.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Web.xml
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.csprojAssemblyReference.cache
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CoreCompileInputs.cache
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CopyComplete
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+D:\CadastroQuiz\CadastroQuiz\bin\ApplicationInsights.config
+D:\CadastroQuiz\CadastroQuiz\bin\roslyn\csc.exe
+D:\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CadastroQuiz\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+D:\CadastroQuiz\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+D:\CadastroQuiz\CadastroQuiz\bin\roslyn\vbc.exe
+D:\CadastroQuiz\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+D:\CadastroQuiz\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+D:\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.dll.config
+D:\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.dll
+D:\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.pdb
+D:\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+D:\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+D:\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Web.dll
+D:\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+D:\CadastroQuiz\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+D:\CadastroQuiz\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+D:\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Web.xml
+D:\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+D:\CadastroQuiz\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+D:\CadastroQuiz\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.csprojAssemblyReference.cache
+D:\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CoreCompileInputs.cache
+D:\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CopyComplete
+D:\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+D:\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+G:\CadastroQuiz\CadastroQuiz\bin\ApplicationInsights.config
+G:\CadastroQuiz\CadastroQuiz\bin\roslyn\csc.exe
+G:\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\CadastroQuiz\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+G:\CadastroQuiz\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+G:\CadastroQuiz\CadastroQuiz\bin\roslyn\vbc.exe
+G:\CadastroQuiz\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+G:\CadastroQuiz\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+G:\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.dll.config
+G:\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.dll
+G:\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.pdb
+G:\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+G:\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+G:\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Web.dll
+G:\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+G:\CadastroQuiz\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+G:\CadastroQuiz\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+G:\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Web.xml
+G:\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+G:\CadastroQuiz\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+G:\CadastroQuiz\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.csprojResolveAssemblyReference.cache
+G:\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+G:\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+D:\Info\CadastroQuiz\CadastroQuiz\bin\ApplicationInsights.config
+D:\Info\CadastroQuiz\CadastroQuiz\bin\roslyn\csc.exe
+D:\Info\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Info\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Info\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Info\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Info\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Info\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Info\CadastroQuiz\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+D:\Info\CadastroQuiz\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+D:\Info\CadastroQuiz\CadastroQuiz\bin\roslyn\vbc.exe
+D:\Info\CadastroQuiz\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+D:\Info\CadastroQuiz\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+D:\Info\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.dll.config
+D:\Info\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.dll
+D:\Info\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.pdb
+D:\Info\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Info\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+D:\Info\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Info\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Info\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Web.dll
+D:\Info\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+D:\Info\CadastroQuiz\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+D:\Info\CadastroQuiz\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Info\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+D:\Info\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Info\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Web.xml
+D:\Info\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+D:\Info\CadastroQuiz\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+D:\Info\CadastroQuiz\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Info\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.csprojAssemblyReference.cache
+D:\Info\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CoreCompileInputs.cache
+D:\Info\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CopyComplete
+D:\Info\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+D:\Info\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\ApplicationInsights.config
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\roslyn\csc.exe
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\roslyn\vbc.exe
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.dll.config
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.dll
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.pdb
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Web.dll
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Web.xml
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.csprojAssemblyReference.cache
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CopyComplete
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+C:\Users\Computery\Desktop\Arquivos Escola (nao e porno eu juro)\CadastroQuiz-20190816T011612Z-001\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\ApplicationInsights.config
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\csc.exe
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\vbc.exe
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\CadastroQuiz.dll.config
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\CadastroQuiz.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\CadastroQuiz.pdb
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.Web.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.Web.xml
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\obj\Debug\CadastroQuiz.csprojAssemblyReference.cache
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CoreCompileInputs.cache
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CopyComplete
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+C:\Users\USER GAMER PC\Documents\CadastroQuiz Botao Editado\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\ApplicationInsights.config
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\csc.exe
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\vbc.exe
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\CadastroQuiz.dll.config
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\CadastroQuiz.dll
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\CadastroQuiz.pdb
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.Web.dll
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.Web.xml
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\obj\Debug\CadastroQuiz.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+C:\Users\Lab\Desktop\CadastroQuiz Botao Editado-20190820T162640Z-001\CadastroQuiz Botao Editado\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\ApplicationInsights.config
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\csc.exe
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\vbc.exe
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\CadastroQuiz.dll.config
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\CadastroQuiz.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\CadastroQuiz.pdb
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.Web.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.Web.xml
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\obj\Debug\CadastroQuiz.csprojResolveAssemblyReference.cache
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz\CadastroQuiz Botao Editado\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.csprojResolveAssemblyReference.cache
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\ApplicationInsights.config
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\roslyn\csc.exe
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\roslyn\vbc.exe
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.dll.config
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.pdb
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Web.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Web.xml
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+F:\2º Ano\AS\ETESP Quiz\ASP\SiteQuiz v2\CadastroQuiz\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\ApplicationInsights.config
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\roslyn\csc.exe
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\roslyn\vbc.exe
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.dll.config
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.dll
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.pdb
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Web.dll
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Web.xml
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+C:\Users\Lab\Documents\O SITE\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\ApplicationInsights.config
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\roslyn\csc.exe
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\roslyn\vbc.exe
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.dll.config
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.dll
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.pdb
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Web.dll
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Web.xml
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.csprojAssemblyReference.cache
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CoreCompileInputs.cache
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CopyComplete
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+C:\Users\USER GAMER PC\Documents\O SITE\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\ApplicationInsights.config
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\roslyn\csc.exe
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\roslyn\vbc.exe
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.dll.config
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.dll
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.pdb
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Web.dll
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Web.xml
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.csprojAssemblyReference.cache
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CopyComplete
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+C:\Users\ALEXANDRE\Downloads\CadastroQuiz\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\ApplicationInsights.config
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\roslyn\csc.exe
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\roslyn\vbc.exe
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.dll.config
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.dll
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.pdb
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Web.dll
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Web.xml
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.csprojResolveAssemblyReference.cache
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+G:\O SITE 2\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\ApplicationInsights.config
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\roslyn\csc.exe
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\roslyn\vbc.exe
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.dll.config
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.dll
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\CadastroQuiz.pdb
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Web.dll
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.Web.xml
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+C:\Users\Lab\Documents\O SITE 2\CadastroQuiz\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\ApplicationInsights.config
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\roslyn\csc.exe
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\roslyn\vbc.exe
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\CadastroQuiz.dll.config
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\CadastroQuiz.dll
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\CadastroQuiz.pdb
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.Web.dll
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.Web.xml
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\obj\Debug\CadastroQuiz.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+C:\Users\Lab\Documents\v.CSS_repartido\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\ApplicationInsights.config
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\roslyn\csc.exe
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\roslyn\vbc.exe
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\CadastroQuiz.dll.config
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\CadastroQuiz.dll
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\CadastroQuiz.pdb
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.Web.dll
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.Web.xml
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\obj\Debug\CadastroQuiz.csprojAssemblyReference.cache
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CoreCompileInputs.cache
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CopyComplete
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+C:\Users\USER GAMER PC\Documents\v.CSS_repartido\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\ApplicationInsights.config
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\roslyn\csc.exe
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\roslyn\vbc.exe
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\CadastroQuiz.dll.config
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\CadastroQuiz.dll
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\CadastroQuiz.pdb
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.Web.dll
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.Web.xml
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\obj\Debug\CadastroQuiz.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+C:\Users\Lab\Desktop\v.CSS_repartido\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\ApplicationInsights.config
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\roslyn\csc.exe
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\roslyn\vbc.exe
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\CadastroQuiz.dll.config
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\CadastroQuiz.dll
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\CadastroQuiz.pdb
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.Web.dll
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.Web.xml
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\obj\Debug\CadastroQuiz.csprojAssemblyReference.cache
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CopyComplete
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+C:\Users\ALEXANDRE\Downloads\v.CSS_repartido\v.CSS_repartido\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\ApplicationInsights.config
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\roslyn\vbc.exe
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\roslyn\csc.exe
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\CadastroQuiz.dll.config
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\CadastroQuiz.dll
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\CadastroQuiz.pdb
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\Microsoft.AI.Web.dll
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\Microsoft.AI.Web.xml
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\obj\Debug\CadastroQuiz.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+C:\Users\Lab\Pictures\v.CSS_repartido1\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\ApplicationInsights.config
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\roslyn\csc.exe
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\roslyn\vbc.exe
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\CadastroQuiz.dll.config
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\CadastroQuiz.dll
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\CadastroQuiz.pdb
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.Web.dll
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.Web.xml
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\obj\Debug\CadastroQuiz.csprojAssemblyReference.cache
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CoreCompileInputs.cache
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CopyComplete
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+C:\Users\USER GAMER PC\Documents\O SITE Repartido\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\ApplicationInsights.config
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\roslyn\csc.exe
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\roslyn\vbc.exe
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.Web.dll
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.Web.xml
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\obj\Debug\CadastroQuiz.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\CadastroQuiz.dll.config
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\CadastroQuiz.dll
+C:\Users\Lab\Documents\O SITE Repartido\CadastroQuiz\bin\CadastroQuiz.pdb
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\obj\Debug\CadastroQuiz.csprojAssemblyReference.cache
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CoreCompileInputs.cache
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\ApplicationInsights.config
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\roslyn\csc.exe
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\roslyn\vbc.exe
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\CadastroQuiz.dll.config
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\CadastroQuiz.dll
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\CadastroQuiz.pdb
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.Web.dll
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.Web.xml
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\2º Ano\AS\ETESP Quiz\ASP\O SITE Repartido\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CopyComplete
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\obj\Debug\CadastroQuiz.csprojResolveAssemblyReference.cache
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\ApplicationInsights.config
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\roslyn\csc.exe
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\roslyn\vbc.exe
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\CadastroQuiz.dll.config
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\CadastroQuiz.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\CadastroQuiz.pdb
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\Microsoft.AI.Web.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\Microsoft.AI.Web.xml
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+F:\2º Ano\AS\ETESP Quiz\ASP\O SITE C# 2\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\ApplicationInsights.config
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\csc.exe
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\vbc.exe
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\CadastroQuiz.dll.config
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\CadastroQuiz.dll
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\CadastroQuiz.pdb
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.Web.dll
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.Web.xml
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\obj\Debug\CadastroQuiz.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+C:\Users\Lab\Documents\O SITE C# 3\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\ApplicationInsights.config
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\csc.exe
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\vbc.exe
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\CadastroQuiz.dll.config
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\CadastroQuiz.dll
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\CadastroQuiz.pdb
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.Web.dll
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.Web.xml
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\obj\Debug\CadastroQuiz.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CopyComplete
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+C:\Users\Aluno\Documents\O SITE C# 3\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\ApplicationInsights.config
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\csc.exe
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\vbc.exe
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\CadastroQuiz.dll.config
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\CadastroQuiz.dll
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\CadastroQuiz.pdb
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.Web.dll
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.Web.xml
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\obj\Debug\CadastroQuiz.csprojAssemblyReference.cache
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CoreCompileInputs.cache
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CopyComplete
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+C:\Users\USER GAMER PC\Documents\O SITE C# 3\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\ApplicationInsights.config
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\roslyn\csc.exe
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\roslyn\vbc.exe
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\CadastroQuiz.dll.config
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\CadastroQuiz.dll
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\CadastroQuiz.pdb
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\Microsoft.AI.Web.dll
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\Microsoft.AI.Web.xml
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\obj\Debug\CadastroQuiz.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+C:\Users\Lab\Documents\O SITE C# 4\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\ApplicationInsights.config
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\roslyn\csc.exe
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\roslyn\vbc.exe
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\CadastroQuiz.dll.config
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\CadastroQuiz.dll
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\CadastroQuiz.pdb
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\Microsoft.AI.Web.dll
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\Microsoft.AI.Web.xml
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\obj\Debug\CadastroQuiz.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+C:\Users\Lab\Documents\O SITE C# Final - Falta CSS\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\ApplicationInsights.config
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\roslyn\csc.exe
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\roslyn\vbc.exe
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\CadastroQuiz.dll.config
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\CadastroQuiz.dll
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\CadastroQuiz.pdb
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\Microsoft.AI.Web.dll
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\Microsoft.AI.Web.xml
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\obj\Debug\CadastroQuiz.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+C:\Users\Lab\Documents\O SITE C# Quase Final\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\ApplicationInsights.config
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\roslyn\csc.exe
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\roslyn\vbc.exe
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\CadastroQuiz.dll.config
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\CadastroQuiz.dll
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\CadastroQuiz.pdb
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\Microsoft.AI.Web.dll
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\Microsoft.AI.Web.xml
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\obj\Debug\CadastroQuiz.csprojAssemblyReference.cache
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CopyComplete
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+C:\Users\Computery\Desktop\O SITE C# Quase Final\CadastroQuiz\obj\Debug\CadastroQuiz.pdb
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\ApplicationInsights.config
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\roslyn\csc.exe
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\roslyn\vbc.exe
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\CadastroQuiz.dll.config
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\CadastroQuiz.dll
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\CadastroQuiz.pdb
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\Microsoft.AI.Web.dll
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\Microsoft.AI.Web.xml
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\obj\Debug\CadastroQuiz.csprojAssemblyReference.cache
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\obj\Debug\CadastroQuiz.csproj.CopyComplete
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\obj\Debug\CadastroQuiz.dll
+C:\Users\ALEXANDRE\Downloads\O SITE TOPZEIRA\CadastroQuiz\obj\Debug\CadastroQuiz.pdb

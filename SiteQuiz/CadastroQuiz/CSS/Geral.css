@@ -1,0 +1,879 @@
+
+/*O Geral.css É PARA A PÁGINA MESTRA E MAIS TUDO O QUE SERVIR PARA TODO O SITE.*/
+
+* {margin: 0 auto; font-family: Verdana; text-decoration: none;}
+
+.headerCabecalho {
+    width: 100%;
+    height: 150px;
+    background-color: #294385; /*0e219e  #1128bd*/
+    /*background-color: #4c72ff ;*/
+    border-bottom: solid 1px #222;
+}
+
+    .cabEsq {
+        height: 150px;
+        width: 22%;
+        float: left;
+    }
+
+        .imgLogo {
+            height: 150px;
+            width: 100%;
+            float: left;
+        }
+
+    .divCentro {
+        height: 150px;
+        width: 48%;
+        float: left;
+    }
+
+        .divIndex {}
+
+            .aIndex, .aRegras, .aSuporte {
+                font-size: 24px;
+                text-align: center;
+                margin-top: 60px;    
+                color: #fff;
+                float: left;
+            }
+
+            .aIndex {margin-left: 80px;}
+            .aRegras, .aSuporte {margin-left: 60px;}
+
+    .cabDir {
+        height: 150px;
+        width: 30%;
+        float: left;
+    }
+
+        .divLogin {
+            height: 150px;
+            width: 70%;
+            float: left;
+        }
+
+            .divLoginSub {
+                height: 150px;
+                width: 30%;
+                float: left;
+            }
+
+                .aLoginImg {
+                    margin-top: 20px;
+                    float: left;
+                }
+
+                    .imgLogin {
+                        height: 120px;
+                        width: 100%;
+                        float: left;
+                        /*margin-top: 20px;*/
+                    }
+
+            .divTextoLogin {
+                height: 150px;
+                width: 70%;
+                float: left;
+            }
+
+
+                .aLogin {
+                    margin-top: 22px;
+                    font-size: 20px;
+                    color: #fff;
+                    float: left;
+                    margin-left: 12px;
+                }
+
+                .pCadastro {
+                    margin-top: 25px;
+                    font-size: 14px;
+                    color: #fff;
+                    float: left;
+                    margin-left: 12px;
+                    line-height: 20px;
+                }
+
+                .aCadastro {
+                    margin-top: 3px;
+                    float: left;
+                    color: #fefefe;
+                }
+
+                .aCadastro:hover {text-decoration: underline;}
+				
+		.aMenuHorizontal{
+            width:33%;
+            float:left;
+            text-align:center;
+            font-size:16px;
+            margin-top:10px;
+            color:white;
+            display:none;
+        }		
+				
+.footerRodape {
+    width: 100%;
+    height: 100px;
+    background-color: #294385 /*#4c72ff #0e219e*/;
+    border-top: solid 1px #222;
+    float: left;
+}
+
+    .footerRodape p {      
+        text-align: center;
+        font-size: 72px;
+        margin-top: 10px;
+        color: #fff;
+        font-style: italic;
+        font-weight: bold;
+        font-family: Arial;         
+    }
+		
+
+
+
+		
+@media(max-width: 1300px) {									/*MEDIA QUERY DE Geral.css*/
+    
+    .headerCabecalho {
+        height: 120px;
+    }
+
+        .cabEsq {
+            height: 120px;
+        }
+
+            .imgLogo {
+                height: 120px;
+            }
+
+        .divCentro {
+            height: 120px;
+        }
+
+            .divIndex {}
+
+                .aIndex, .aRegras, .aSuporte {
+                    font-size: 20px;
+                    margin-top: 50px;
+                }
+
+                .aIndex {margin-left: 30px;}
+                .aRegras, .aSuporte {margin-left: 50px;}
+
+        .cabDir {
+            height: 120px;
+        }
+
+            .divLogin {
+                height: 120px;
+                width:85%;
+            }
+
+                .divLoginSub {
+                    height: 120px;
+                }
+
+                    .aLoginImg { /*AQUI*/
+                        margin-top: 20px;
+                    }
+
+                        .imgLogin {
+                            height: 90px;
+                            /*margin-top: 20px;*/
+                        }
+
+                .divTextoLogin {
+                    height: 120px;
+                }
+
+                    .aLogin { /*AQUI*/
+                        margin-top: 16px;
+                        font-size: 16px;
+                        margin-left: 12px;
+                    }
+
+                    .pCadastro {
+                        margin-top: 25px;
+                        font-size: 12px;
+                        margin-left: 12px;
+                        line-height: 18px;
+                    }
+
+						.aCadastro {
+							margin-top: 3px;
+						}
+	
+     .aMenuHorizontal{
+            width:33%;
+            float:left;
+            text-align:center;
+            font-size:16px;
+            margin-top:10px;
+            color:white;
+            display:none;
+        }	
+					
+	.footerRodape {
+        width: 100%;
+        height: 100px;
+        background-color: #294385 /*#4c72ff #0e219e*/;
+        border-top: solid 1px #222;
+        float: left;
+    }
+
+    .footerRodape p {      
+        text-align: center;
+        font-size: 64px;
+        margin-top: 10px;
+        color: #fff;
+        font-style: italic;
+        font-weight: bold;
+        font-family: Arial;         
+    }
+}
+
+@media(max-width: 1050px) {									/*MEDIA QUERY DE Geral.css*/
+    
+    .headerCabecalho {
+        height: 120px;
+    }
+
+        .cabEsq {
+            height: 120px;
+        }
+
+            .imgLogo {
+                height: 120px;
+            }
+
+        .divCentro {
+            height: 120px;
+        }
+
+            .divIndex {}
+
+                .aIndex, .aRegras, .aSuporte {
+                    font-size: 18px;
+                    margin-top: 50px;
+                }
+
+                .aIndex {margin-left: 25px;}
+                .aRegras, .aSuporte {margin-left: 40px;}
+
+        .cabDir {
+            height: 120px;
+        }
+
+            .divLogin {
+                height: 120px;
+                width:90%;
+            }
+
+                .divLoginSub {
+                    height: 120px;
+                }
+
+                    .aLoginImg { /*AQUI*/
+                        margin-top: 20px;
+                    }
+
+                        .imgLogin {
+                            height: 90px;
+                            /*margin-top: 20px;*/
+                        }
+
+                .divTextoLogin {
+                    height: 120px;
+                }
+
+                    .aLogin { /*AQUI*/
+                        margin-top: 16px;
+                        font-size: 16px;
+                        margin-left: 12px;
+                    }
+
+                    .pCadastro {
+                        margin-top: 25px;
+                        font-size: 12px;
+                        margin-left: 12px;
+                        line-height: 18px;
+                    }
+
+						.aCadastro {
+							margin-top: 3px;
+						}
+
+        .aMenuHorizontal{
+            width:33%;
+            float:left;
+            text-align:center;
+            font-size:16px;
+            margin-top:10px;
+            color:white;
+            display:none;
+        }
+					
+					
+	.footerRodape {
+        width: 100%;
+        height: 100px;
+        background-color: #294385 /*#4c72ff #0e219e*/;
+        border-top: solid 1px #222;
+        float: left;
+    }
+
+    .footerRodape p {      
+        text-align: center;
+        font-size: 64px;
+        margin-top: 10px;
+        color: #fff;
+        font-style: italic;
+        font-weight: bold;
+        font-family: Arial;         
+    }
+}
+
+@media(max-width: 900px) {									/*MEDIA QUERY DE Geral.css*/
+    
+    .headerCabecalho {
+        height: 120px;
+    }
+
+        .cabEsq {
+            height: 120px;
+        }
+
+            .imgLogo {
+                height: 120px;
+            }
+
+        .divCentro {
+            height: 120px;
+        }
+
+            .divIndex {}
+
+                .aIndex, .aRegras, .aSuporte {
+                    font-size: 16px;
+                    margin-top: 50px;
+                }
+
+                .aIndex {margin-left: 20px;}
+                .aRegras, .aSuporte {margin-left: 30px;}
+
+        .cabDir {
+            height: 120px;
+        }
+
+            .divLogin {
+                height: 120px;
+                width:95%;
+            }
+
+                .divLoginSub {
+                    height: 120px;
+                }
+
+                    .aLoginImg { /*AQUI*/
+                        margin-top: 20px;
+                    }
+
+                        .imgLogin {
+                            height: 90px;
+                            /*margin-top: 20px;*/
+                        }
+
+                .divTextoLogin {
+                    height: 120px;
+                }
+
+                    .aLogin { /*AQUI*/
+                        margin-top: 16px;
+                        font-size: 16px;
+                        margin-left: 12px;
+                    }
+
+                    .pCadastro {
+                        margin-top: 25px;
+                        font-size: 12px;
+                        margin-left: 12px;
+                        line-height: 18px;
+                    }
+
+						.aCadastro {
+							margin-top: 3px;
+						}
+
+        .aMenuHorizontal{
+            width:33%;
+            float:left;
+            text-align:center;
+            font-size:16px;
+            margin-top:10px;
+            color:white;
+            display:none;
+        }
+					
+					
+	.footerRodape {
+        width: 100%;
+        height: 100px;
+        background-color: #294385 /*#4c72ff #0e219e*/;
+        border-top: solid 1px #222;
+        float: left;
+    }
+
+    .footerRodape p {      
+        text-align: center;
+        font-size: 64px;
+        margin-top: 10px;
+        color: #fff;
+        font-style: italic;
+        font-weight: bold;
+        font-family: Arial;         
+    }
+}
+
+@media(max-width: 810px) {									/*MEDIA QUERY DE Geral.css*/
+
+    .headerCabecalho {
+        height: 100px;
+    }
+
+    .cabEsq {
+        height: 100px;
+    }
+
+        .imgLogo {
+            height: 100px;
+        }
+
+    .divCentro {
+        height: 100px;
+    }
+
+        .divIndex {}
+
+            .aIndex, .aRegras, .aSuporte {
+                font-size: 14px;
+                margin-top: 40px;
+            }
+
+            .aIndex {margin-left: 20px;}
+            .aRegras, .aSuporte {margin-left: 30px;}
+
+    .cabDir {
+        height: 100px;
+    }
+
+        .divLogin {
+            height: 100px;
+            width: 90%;
+        }
+
+            .divLoginSub {
+                height: 100px;
+            }
+
+                .aLoginImg {
+                    margin-top: 20px;
+                }
+                    .imgLogin {
+                        height: 70px;
+                        /*margin-top: 20px;*/
+                    }
+
+            .divTextoLogin {
+                height: 100px;
+            }
+
+                .aLogin {
+                    margin-top: 16px;
+                    font-size: 12px;
+                    margin-left: 12px;
+                }
+
+                .pCadastro {
+                    margin-top: 15px;
+                    font-size: 10px;
+                    margin-left: 12px;
+                    line-height: 16px;
+                }
+
+                    .aCadastro {
+                        margin-top: 0;
+                    }
+
+            .aMenuHorizontal{
+                width:33%;
+                float:left;
+                text-align:center;
+                font-size:16px;
+                margin-top:10px;
+                color:white;
+                display:none;
+            }
+					
+					
+	.footerRodape {
+        width: 100%;
+        height: 85px;
+        background-color: #294385 /*#4c72ff #0e219e*/;
+        border-top: solid 1px #222;
+        float: left;
+    }
+
+        .footerRodape p {      
+            text-align: center;
+            font-size: 48px;
+            margin-top: 10px;
+            color: #fff;
+            font-style: italic;
+            font-weight: bold;
+            font-family: Arial;         
+        }
+}
+
+
+@media(max-width: 700px) {									/*MEDIA QUERY DE Geral.css*/
+
+    .headerCabecalho {
+        height: 100px;
+    }
+
+		.cabEsq {
+			height: 100px;
+            width:60%;
+		}
+
+			.imgLogo {
+				height: 100px;
+                width:60%;
+			}
+
+		.divCentro {
+			height: 100px;
+            display:none;
+		}
+
+			.divIndex {}
+
+				.aIndex, .aRegras, .aSuporte {
+					font-size: 14px;
+					margin-top: 40px;
+				}
+
+				.aIndex {margin-left: 20px;}
+				.aRegras, .aSuporte {margin-left: 30px;}
+
+		.cabDir {
+			height: 100px;
+            width:40%;
+		}
+
+			.divLogin {
+				height: 100px;
+				width: 90%;
+			}
+
+				.divLoginSub {
+					height: 100px;
+				}
+
+					.aLoginImg {
+						margin-top: 20px;
+					}
+
+						.imgLogin {
+							height: 70px;
+							/*margin-top: 20px;*/
+						}
+
+			.divTextoLogin {
+				height: 100px;
+			}
+
+				.aLogin {
+					margin-top: 16px;
+					font-size: 12px;
+					margin-left: 12px;
+				}
+
+				.pCadastro {
+					margin-top: 15px;
+					font-size: 10px;
+					margin-left: 12px;
+					line-height: 16px;
+				}
+
+					.aCadastro {
+						margin-top: 0;
+					}
+					
+
+		.divMenuHorizontal {
+			height: 40px;
+			width: 100%;
+			float: left;
+            background-color:#3680C9;
+			display: block;
+		}
+
+        .aMenuHorizontal{
+            width:33%;
+            float:left;
+            text-align:center;
+            font-size:16px;
+            margin-top:10px;
+            color:white;
+            display:block;
+        }
+	
+	
+	.footerRodape {
+        width: 100%;
+        height: 85px;
+        background-color: #294385 /*#4c72ff #0e219e*/;
+        border-top: solid 1px #222;
+        float: left;
+    }
+
+        .footerRodape p {      
+            text-align: center;
+            font-size: 46px;
+            margin-top: 10px;
+            color: #fff;
+            font-style: italic;
+            font-weight: bold;
+            font-family: Arial;         
+        }
+}
+
+@media(max-width: 600px) {									/*MEDIA QUERY DE Geral.css*/
+
+    .headerCabecalho {
+        height: 100px;
+    }
+
+		.cabEsq {
+			height: 100px;
+            width:55%;
+		}
+
+			.imgLogo {
+				height: 100px;
+                width:70%;
+			}
+
+		.divCentro {
+			height: 100px;
+            display:none;
+		}
+
+			.divIndex {}
+
+				.aIndex, .aRegras, .aSuporte {
+					font-size: 14px;
+					margin-top: 40px;
+				}
+
+				.aIndex {margin-left: 20px;}
+				.aRegras, .aSuporte {margin-left: 30px;}
+
+		.cabDir {
+			height: 100px;
+            width:45%;
+		}
+
+			.divLogin {
+				height: 100px;
+				width: 95%;
+			}
+
+				.divLoginSub {
+					height: 100px;
+				}
+
+					.aLoginImg {
+						margin-top: 20px;
+					}
+
+						.imgLogin {
+							height: 70px;
+							/*margin-top: 20px;*/
+						}
+
+			.divTextoLogin {
+				height: 100px;
+			}
+
+				.aLogin {
+					margin-top: 16px;
+					font-size: 12px;
+					margin-left: 12px;
+				}
+
+				.pCadastro {
+					margin-top: 15px;
+					font-size: 10px;
+					margin-left: 12px;
+					line-height: 16px;
+				}
+
+					.aCadastro {
+						margin-top: 0;
+					}
+					
+
+		.divMenuHorizontal {
+			height: 40px;
+			width: 100%;
+			float: left;
+            background-color:#3680C9;
+			display: block;
+		}
+
+        .aMenuHorizontal{
+            width:33%;
+            float:left;
+            text-align:center;
+            font-size:14px;
+            margin-top:10px;
+            color:white;
+            display:block;
+        }
+	
+	
+	.footerRodape {
+        width: 100%;
+        height: 85px;
+        background-color: #294385 /*#4c72ff #0e219e*/;
+        border-top: solid 1px #222;
+        float: left;
+    }
+
+        .footerRodape p {      
+            text-align: center;
+            font-size: 46px;
+            margin-top: 10px;
+            color: #fff;
+            font-style: italic;
+            font-weight: bold;
+            font-family: Arial;         
+        }
+}
+
+@media(max-width: 450px) {									/*MEDIA QUERY DE Geral.css*/
+
+    .headerCabecalho {
+        height: 100px;
+    }
+
+        .cabEsq {
+            height: 100px;
+            width:50%;
+        }
+
+            .imgLogo {
+                height: 100px;
+                width:70%;
+            }
+
+        .divCentro {
+            height: 100px;
+        }
+
+            .divIndex {}
+
+                .aIndex, .aRegras, .aSuporte {
+                    font-size: 14px;
+                    margin-top: 40px;
+                }
+
+                .aIndex {margin-left: 20px;}
+                .aRegras, .aSuporte {margin-left: 30px;}
+
+        .cabDir {
+            height: 100px;
+            width:50%;
+        }
+
+            .divLogin {
+                height: 100px;
+                width: 95%;
+            }
+
+                .divLoginSub {
+                    height: 100px;
+                }
+
+                    .aLoginImg {
+                        margin-top: 20px;
+                    }
+
+                        .imgLogin {
+                            height: 70px;
+                            /*margin-top: 20px;*/
+                        }
+
+            .divTextoLogin {
+                height: 100px;
+            }
+
+                .aLogin {
+                    margin-top: 16px;
+                    font-size: 12px;
+                    margin-left: 12px;
+                }
+
+                .pCadastro {
+                    margin-top: 15px;
+                    font-size: 10px;
+                    margin-left: 12px;
+                    line-height: 16px;
+                }
+
+                    .aCadastro {
+                        margin-top: 0;
+                    }
+					
+        .divMenuHorizontal {
+			height: 35px;
+			width: 100%;
+			float: left;
+            background-color:#3680C9;
+			display: block;
+		}
+
+        .aMenuHorizontal{
+            width:33%;
+            float:left;
+            text-align:center;
+            font-size:12px;
+            margin-top:10px;
+            color:white;
+            display:block;
+        }
+					
+	.footerRodape {
+        width: 100%;
+        height: 70px;
+        background-color: #294385 /*#4c72ff #0e219e*/;
+        border-top: solid 1px #222;
+        float: left;
+    }
+
+        .footerRodape p {      
+            text-align: center;
+            font-size: 36px;
+            margin-top: 10px;
+            color: #fff;
+            font-style: italic;
+            font-weight: bold;
+            font-family: Arial;         
+        }
+}

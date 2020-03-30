@@ -1,0 +1,4150 @@
+
+/*AreaParticipante*/
+
+.divCorpoAreaParticipante {
+    height: 1000px;
+    width: 100%;
+    float: left;
+    padding-bottom: 70px;
+    padding-top: 70px;
+}
+
+.divTituloAreaParticipante {
+    height: 230px;
+    width: 90%;
+    float: left;
+}
+
+.h1AreaParticante {
+    text-align: left;
+    font-size: 40px;
+    margin-left: 100px;
+    color: #444;
+    text-shadow: 2px 2px 2px #DDD;
+}
+
+.pBemVindo {
+    font-size: 26px;
+    text-align: justify;
+    margin-top: 50px;
+    margin-left: 130px;
+}
+
+.divImgSair {
+    height: 230px;
+    width: 6%;
+    float: left;
+}
+
+.aSair {
+    color: #000;
+    margin-top: 40px;
+    float: left;
+}
+
+.imgSair {
+    height: 90px;
+    width: 100%;
+    float: left;
+}
+
+.pSair {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+/*.divGrupoParticipante {
+    height: 500px;
+    width: 100%;
+    float: left;
+}
+
+.divTituloGrupo {
+    height: 50px;
+    width: 100%;
+    float: left;
+}
+
+.h1Grupo {
+    font-size: 26px;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 10px;
+}*/
+
+.divGrandeParticipante {
+    height: 800px;
+    width: 100%;
+    float: left;
+}
+
+.divMenusParticipante {
+    height: 71px;
+    width: 70%;
+    align-items: center;
+}
+
+.divSeusDados {
+    height: 70px;
+    width: 20%;
+    float: left;
+    border-left: 1px solid #444;
+    border-right: 1px solid #444;
+    border-top: 1px solid #444;
+    margin-left: 30px;
+    display: flex;
+    background-color: #fff;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    box-shadow: 1px 0px 1px #444;
+    cursor: pointer;
+}
+
+.divSeuGrupo {
+    height: 70px;
+    width: 20%;
+    float: left;
+    border-left: 1px solid #444;
+    border-right: 1px solid #444;
+    border-top: 1px solid #444;
+    margin-left: 30px;
+    display: flex;
+    background-color: #fff;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    box-shadow: 1px 0px 1px #444;
+    cursor: pointer;
+}
+
+.aSeusDados {
+    text-align: center;
+    text-decoration: none;
+    color: #444;
+    width: 100%;
+}
+
+.aSeusDados h1 {
+    font-size: 26px;
+    margin-top: 15px;
+}
+
+.divConteudoParticipante {
+    height: 600px;
+    width: 70%;
+    align-items: center;
+    border: 1px solid #444;
+    border-radius: 10px 10px;
+    background-color: #FFF;
+    position: relative;
+    box-shadow: 10px 10px 10px #DDD;
+}
+
+#divContDados {
+    height: 550px;
+    width: 90%;
+    align-items: center;
+    margin-top: 25px;
+    display: block;
+}
+
+.divSeusDadosParticipante {
+    height: 300px;
+    width: 60%;
+    float: left;
+}
+
+.divSeuNome {
+    height: 100px;
+    width: 100%;
+    float: left;
+}
+
+.divSeuNome p {
+    font-size: 22px;
+    text-align: left;
+    margin-top: 30px;
+    color: #444;
+    line-height: 34px;
+}
+
+.spanRetorno {
+    text-align: left;
+    margin-left: 5px;
+}
+
+.divImgDados {
+    height: 300px;
+    width: 40%;
+    float: left;
+}
+
+.imgDados {
+    height: 280px;
+    width: 100%;
+    float: left;
+}
+
+.divCriarEntrarGrupo {
+    height: 600px;
+    width: 90%;
+    align-items: center;
+    margin-top: 25px;
+    display: block;
+}
+
+.divTitCrieGrupo{
+    height:150px;
+    width:100%;
+    float:left;
+    margin-top:140px;
+}
+
+    .divTitCrieGrupo h1 {
+        font-size: 30px;
+        text-align: left;
+        margin-left: 30px;
+        margin-top: 10px;
+        color: #333;
+    }
+
+    .divTitCrieGrupo p{
+        font-size:16px;
+        text-align:justify;
+        margin-top:30px;
+        margin-left:25px;
+        margin-right:25px;
+        line-height:28px;
+    }
+
+.divBtnCriarGrupo{
+    height:130px;
+    width:100%;
+    float:left;
+}
+
+.btnCriarGrupo {
+    height: 45px;
+    width: 30%;
+    float: left;
+    margin-top: 10px;
+    margin-left: 35%;
+    margin-right: 35%;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+    border-style: none;
+    font-size: 16px;
+    background-color: #4c72ff;
+    font-weight: bold;
+}
+
+.txtConvite{
+    height:35px;
+    width:50%;
+    float:left;
+    margin-left:10px;
+    margin-top:10px;
+    padding-left:5px;
+    font-size:14px;
+}
+
+.btnEntrarGrupo {
+    height: 35px;
+    width: 20%;
+    float: left;
+    margin-left: 20px;
+    margin-top: 12px;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+    border-style: none;
+    font-size: 14px;
+    background-color: #0ac937;
+    font-weight: bold;
+}
+
+.btnRecusarGrupo {
+    height: 30px;
+    width: 20%;
+    float: left;
+    margin-left: 20px;
+    margin-top: 15px;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+    border-style: none;
+    font-size: 14px;
+    background-color: #ff5757;
+    font-weight: bold;
+}
+/*.divSeuRM {
+    height: 120px;
+    width: 100%;
+    float: left;
+}
+
+.divSeuRM p {
+    font-size: 22px;
+    text-align: left;
+    margin-top: 20px;
+    color: #444;
+}*/
+#divContGrupo {
+    height: 1300px;
+    width: 90%;
+    align-items: center;
+    margin-top: 25px;
+    display: none;
+}
+
+.divTitGerencieGrupo {
+    height: 100px;
+    width: 100%;
+    float: left;
+}
+
+.divTitGerencieGrupo h1 {
+    font-size: 30px;
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 10px;
+    color: #333;
+}
+
+.divNomeFraseGrupo {
+    height: 320px;
+    width: 50%;
+    float: left;
+}
+
+.divLblNomeGrupo {
+    height: 60px;
+    width: 100%;
+    float: left;
+}
+
+.divLblNomeGrupo p {
+    float: left;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+    text-align: left;
+    color: #444;
+}
+
+.divTxtNomeGrupo {
+    height: 80px;
+    width: 100%;
+    float: left;
+}
+
+.txtNomeGrupo {
+    float: left;
+    height: 25px;
+    width: 80%;
+    padding-left: 5px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    font-size: 14px;
+    margin-left: 20px;
+}
+
+.divCorGrupo {
+    height: 380px;
+    width: 50%;
+    float: left;
+}
+
+.divRadioCor {
+    height: 320px;
+    width: 100%;
+    float: left;
+}
+
+.fieldsetCor {
+    border: none;
+}
+
+.divRdoCor {
+    height: 35px;
+    width: 50%;
+    float: left;
+}
+
+.rdoCores {
+    float: left;
+    margin-top: 2px;
+}
+
+.fieldsetCor p {
+    float: left;
+    font-size: 14px;
+    text-align: left;
+    margin-left: 5px;
+}
+
+.pCores1 {color: #0a0791;}
+
+.pCores2 {color: #00360b;}
+
+.pCores3 {color: #f0f005;}
+
+.pCores4 {color: #fa0000;}
+
+.pCores5 {color: #ed7e00;}
+
+.pCores6 {color: #5000b8;}
+
+.pCores7 {color: #000;}
+
+.pCores8 {color: #45a2ff;}
+
+.pCores9 {color: #51ff45;}
+
+.pCores10 {color: #ff69f5;}
+
+.pCores11 {color: #53292a;}
+
+.pCores12 {color: #757575;}
+
+.pCores13 {color: #4b280a;}
+
+.pCores14 {color: #b666d2;}
+
+.pCores15 {color: #1fffec;}
+
+.divRadioCor2 {
+    height: 320px;
+    width: 50%;
+    float: left;
+}
+
+.rdoCor {
+    height: 30px;
+    width: 100%;    
+    float:left;
+    font-size: 14px;
+}
+
+.divTitParticipantes {
+    height: 80px;
+    width: 100%;
+    float: left;
+}
+
+.pParticipantes {
+    float: left;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    color: #444;
+}
+
+.divParticipantes {
+    height: 45px;
+    width: 100%;
+    float: left;
+}
+
+.divParticipanteRM {
+    height: 45px;
+    width: 20%;
+    float: left;
+}
+
+.lblRmParticipante {
+    float: left;
+    margin-left: 10px;
+    font-size: 16px;
+    text-align: left;
+    margin-top: 4px;
+}
+
+.txtParticipanteRM {
+    height: 25px;
+    width: 70%;
+    float: left;
+    margin-left: 10px;
+    font-size: 14px;
+    padding-left: 5px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+}
+
+.divParticipanteNome {
+    height: 45px;
+    width: 50%;
+    float: left;
+}
+
+.txtParticipanteNome {
+    height: 25px;
+    width: 70%;
+    float: left;
+    margin-left: 10px;
+    padding-left: 5px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    font-size: 14px;
+}
+
+.lblParticipanteNome {
+    float: left;
+    margin-left: 30px;
+    font-size: 16px;
+    text-align: left;
+    margin-top: 4px;
+}
+
+.divBtnExcluirParticipante {
+    height: 45px;
+    width: 20%;
+    float: left;    
+}
+
+.btnExcluirParticipante {
+    height: 30px;
+    width: 50%;
+    float: left;
+    margin-left: 10px;
+    font-size: 12px;
+    background-color: #ff5757;
+    text-align: center;
+    border-radius: 10px 10px;
+    cursor: pointer;
+    border-style:none;
+}
+
+.divAlertParticipante {
+    height: 30px;
+    width: 100%;
+    float: left;
+}
+
+.lblAlertParticipante {
+    font-size: 14px;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.divBtnAdicionarParticipantes {
+    height: 100px;
+    width: 100%;
+    float: left;
+}
+
+.btnAdicionarParticipantes {
+    height: 50px;
+    width: 26%;
+    float: left;
+    margin-left: 20px;
+    margin-top: 40px;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 10px;
+    cursor: pointer;
+    border-style: none;
+    background-color: #0ac937;
+    color: #FFF;
+    font-weight: bold;
+}
+
+.btnExcluirGrupo {
+    height: 50px;
+    width: 20%;
+    float: left;
+    margin-left: 50px;
+    margin-top: 40px;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 10px;
+    cursor: pointer;
+    border-style: none;
+    background-color: #ff5757;
+    color: #FFF;
+    font-weight: bold;
+}
+
+.btnGerenciarGrupo {
+    height: 50px;
+    width: 28%;
+    float: left;
+    margin-left: 50px;
+    margin-top: 40px;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 10px;
+    cursor: pointer;
+    border-style: none;
+    background-color: #4c72ff;
+    color: #FFF;
+    font-weight: bold;
+}
+
+@media(max-width: 1300px) {
+    .divCorpoAreaParticipante {
+        height: 1000px;
+        width: 100%;
+        float: left;
+        padding-bottom: 70px;
+        padding-top: 70px;
+    }
+
+    .divTituloAreaParticipante {
+        height: 220px;
+        width: 90%;
+        float: left;
+    }
+
+    .h1AreaParticante {
+        text-align: left;
+        font-size: 34px;
+        margin-left: 100px;
+        color: #444;
+        text-shadow: 2px 2px 2px #DDD;
+    }
+
+    .pBemVindo {
+        font-size: 22px;
+        text-align: justify;
+        margin-top: 50px;
+        margin-left: 130px;
+    }
+
+    .divImgSair {
+        height: 220px;
+        width: 6%;
+        float: left;
+    }
+
+    .aSair {
+        color: #000;
+        margin-top: 40px;
+        float: left;
+    }
+
+    .imgSair {
+        height: 90px;
+        width: 100%;
+        float: left;
+    }
+
+    .pSair {
+        text-align: center;
+        font-size: 14px;
+        margin-top: 5px;
+    }
+
+    /*.divGrupoParticipante {
+        height: 500px;
+        width: 100%;
+        float: left;
+    }
+
+    .divTituloGrupo {
+        height: 50px;
+        width: 100%;
+        float: left;
+    }
+
+    .h1Grupo {
+        font-size: 26px;
+        text-align: left;
+        margin-left: 50px;
+        margin-top: 10px;
+    }*/
+
+    .divGrandeParticipante {
+        height: 800px;
+        width: 100%;
+        float: left;
+    }
+
+    .divMenusParticipante {
+        height: 71px;
+        width: 80%;
+        align-items: center;
+    }
+
+    .divSeusDados {
+        height: 70px;
+        width: 20%;
+        float: left;
+        border-left: 1px solid #444;
+        border-right: 1px solid #444;
+        border-top: 1px solid #444;
+        margin-left: 30px;
+        display: flex;
+        background-color: #fff;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        box-shadow: 1px 0px 1px #444;
+        cursor: pointer;
+    }
+
+    .divSeuGrupo {
+        height: 70px;
+        width: 20%;
+        float: left;
+        border-left: 1px solid #444;
+        border-right: 1px solid #444;
+        border-top: 1px solid #444;
+        margin-left: 30px;
+        display: flex;
+        background-color: #fff;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        box-shadow: 1px 0px 1px #444;
+        cursor: pointer;
+    }
+
+    .aSeusDados {
+        text-align: center;
+        text-decoration: none;
+        color: #444;
+        width: 100%;
+    }
+
+    .aSeusDados h1 {
+        font-size: 24px;
+        margin-top: 15px;
+    }
+
+    .divConteudoParticipante {
+        height: 600px;
+        width: 80%;
+        align-items: center;
+        border: 1px solid #444;
+        border-radius: 10px 10px;
+        background-color: #FFF;
+        position: relative;
+        box-shadow: 10px 10px 10px #DDD;
+    }
+
+    #divContDados {
+        height: 550px;
+        width: 90%;
+        align-items: center;
+        margin-top: 25px;
+        display: block;
+    }
+
+    .divSeusDadosParticipante {
+        height: 300px;
+        width: 60%;
+        float: left;
+    }
+
+    .divSeuNome {
+        height: 100px;
+        width: 100%;
+        float: left;
+    }
+
+    .divSeuNome p {
+        font-size: 20px;
+        text-align: left;
+        margin-top: 30px;
+        color: #444;
+        line-height: 34px;
+    }
+
+    .spanRetorno {
+        text-align: left;
+        margin-left: 5px;
+    }
+
+    .divImgDados {
+        height: 300px;
+        width: 40%;
+        float: left;
+    }
+
+    .imgDados {
+        height: 280px;
+        width: 100%;
+        float: left;
+    }
+
+    .divCriarEntrarGrupo {
+        height: 600px;
+        width: 90%;
+        align-items: center;
+        margin-top: 25px;
+        display: block;
+    }
+
+    .divTitCrieGrupo {
+        height: 150px;
+        width: 100%;
+        float: left;
+    }
+
+        .divTitCrieGrupo h1 {
+            font-size: 26px;
+            text-align: left;
+            margin-left: 30px;
+            margin-top: 10px;
+            color: #333;
+        }
+
+        .divTitCrieGrupo p {
+            font-size: 14px;
+            text-align: justify;
+            margin-top: 30px;
+            margin-left: 25px;
+            margin-right: 25px;
+            line-height: 28px;
+        }
+
+    .divBtnCriarGrupo {
+        height: 130px;
+        width: 100%;
+        float: left;
+    }
+
+    .btnCriarGrupo {
+        height: 45px;
+        width: 30%;
+        float: left;
+        margin-top: 10px;
+        margin-left: 35%;
+        margin-right: 35%;
+        color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        font-size: 14px;
+        background-color: #4c72ff;
+        font-weight: bold;
+    }
+
+    .txtConvite {
+        height: 35px;
+        width: 50%;
+        float: left;
+        margin-left: 10px;
+        margin-top: 10px;
+        padding-left: 5px;
+        font-size: 14px;
+    }
+
+    .btnEntrarGrupo {
+        height: 35px;
+        width: 20%;
+        float: left;
+        margin-left: 20px;
+        margin-top: 12px;
+        color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        font-size: 14px;
+        background-color: #0ac937;
+        font-weight: bold;
+    }
+
+    .btnRecusarGrupo {
+        height: 30px;
+        width: 20%;
+        float: left;
+        margin-left: 20px;
+        margin-top: 15px;
+        color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        font-size: 14px;
+        background-color: #ff5757;
+        font-weight: bold;
+    }
+    /*.divSeuRM {
+        height: 120px;
+        width: 100%;
+        float: left;
+    }
+
+    .divSeuRM p {
+        font-size: 22px;
+        text-align: left;
+        margin-top: 20px;
+        color: #444;
+    }*/
+    #divContGrupo {
+        height: 1300px;
+        width: 90%;
+        align-items: center;
+        margin-top: 25px;
+        display: none;
+    }
+
+    .divTitGerencieGrupo {
+        height: 100px;
+        width: 100%;
+        float: left;
+    }
+
+    .divTitGerencieGrupo h1 {
+        font-size: 26px;
+        text-align: left;
+        margin-left: 30px;
+        margin-top: 10px;
+        color: #333;
+    }
+
+    .divNomeFraseGrupo {
+        height: 320px;
+        width: 50%;
+        float: left;
+    }
+
+    .divLblNomeGrupo {
+        height: 60px;
+        width: 100%;
+        float: left;
+    }
+
+    .divLblNomeGrupo p {
+        float: left;
+        font-size: 18px;
+        margin-left: 20px;
+        margin-top: 10px;
+        text-align: left;
+        color: #444;
+    }
+
+    .divTxtNomeGrupo {
+        height: 80px;
+        width: 100%;
+        float: left;
+    }
+
+    .txtNomeGrupo {
+        float: left;
+        height: 25px;
+        width: 80%;
+        padding-left: 5px;
+        padding-bottom: 2px;
+        padding-top: 2px;
+        font-size: 14px;
+        margin-left: 20px;
+    }
+
+    .divCorGrupo {
+        height: 360px;
+        width: 50%;
+        float: left;
+    }
+
+    .divRadioCor {
+        height: 320px;
+        width: 100%;
+        float: left;
+    }
+
+    .divRadioCor2 {
+        height: 300px;
+        width: 50%;
+        float: left;
+    }
+
+    .fieldsetCor {
+        border: none;
+    }
+
+    .divRdoCor {
+        height: 35px;
+        width: 50%;
+        float: left;
+    }
+
+    .rdoCores {
+        float: left;
+        margin-top: 2px;
+    }
+
+    .fieldsetCor p {
+        float: left;
+        font-size: 14px;
+        text-align: left;
+        margin-left: 5px;
+    }
+
+    .pCores1 {color: #0a0791;}
+
+    .pCores2 {color: #00360b;}
+
+    .pCores3 {color: #f0f005;}
+
+    .pCores4 {color: #fa0000;}
+
+    .pCores5 {color: #ed7e00;}
+
+    .pCores6 {color: #5000b8;}
+
+    .pCores7 {color: #000;}
+
+    .pCores8 {color: #45a2ff;}
+
+    .pCores9 {color: #51ff45;}
+
+    .pCores10 {color: #ff69f5;}
+
+    .pCores11 {color: #53292a;}
+
+    .pCores12 {color: #757575;}
+
+    .pCores13 {color: #4b280a;}
+
+    .pCores14 {color: #b666d2;}
+
+    .pCores15 {color: #1fffec;}
+
+    .rdoCor {
+        height: 30px;
+        width: 100%;
+        float: left;
+        font-size: 14px;
+    }
+
+    .divTitParticipantes {
+        height: 80px;
+        width: 100%;
+        float: left;
+    }
+
+    .pParticipantes {
+        float: left;
+        font-size: 18px;
+        text-align: left;
+        margin-left: 20px;
+        margin-top: 20px;
+        color: #444;
+    }
+
+    .divParticipantes {
+        height: 45px;
+        width: 100%;
+        float: left;
+    }
+
+    .divParticipanteRM {
+        height: 45px;
+        width: 25%;
+        float: left;
+    }
+
+    .lblRmParticipante {
+        float: left;
+        margin-left: 10px;
+        font-size: 16px;
+        text-align: left;
+        margin-top: 4px;
+    }
+
+    .txtParticipanteRM {
+        height: 25px;
+        width: 70%;
+        float: left;
+        margin-left: 10px;
+        font-size: 14px;
+        padding-left: 5px;
+        padding-bottom: 2px;
+        padding-top: 2px;
+    }
+
+    .divParticipanteNome {
+        height: 45px;
+        width: 50%;
+        float: left;
+    }
+
+    .txtParticipanteNome {
+        height: 25px;
+        width: 70%;
+        float: left;
+        margin-left: 10px;
+        padding-left: 5px;
+        padding-bottom: 2px;
+        padding-top: 2px;
+        font-size: 14px;
+    }
+
+    .lblParticipanteNome {
+        float: left;
+        margin-left: 30px;
+        font-size: 16px;
+        text-align: left;
+        margin-top: 4px;
+    }
+
+    .divBtnExcluirParticipante {
+        height: 45px;
+        width: 20%;
+        float: left;
+    }
+
+    .btnExcluirParticipante {
+        height: 30px;
+        width: 50%;
+        float: left;
+        margin-left: 10px;
+        font-size: 12px;
+        background-color: #ff5757;
+        text-align: center;
+        border-radius: 10px 10px;
+        cursor: pointer;
+        border-style:none;
+    }
+
+    .divAlertParticipante {
+        height: 30px;
+        width: 100%;
+        float: left;
+    }
+
+    .lblAlertParticipante {
+        font-size: 14px;
+        text-align: left;
+        margin-left: 20px;
+        margin-top: 5px;
+    }
+
+    .divBtnAdicionarParticipantes {
+        height: 100px;
+        width: 100%;
+        float: left;
+    }
+
+    .btnAdicionarParticipantes {
+        height: 50px;
+        width: 26%;
+        float: left;
+        margin-left: 20px;
+        margin-top: 40px;
+        font-size: 16px;
+        text-align: center;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #0ac937;
+        color: #FFF;
+        font-weight: bold;
+    }
+
+    .btnExcluirGrupo {
+        height: 50px;
+        width: 26%;
+        float: left;
+        margin-left: 50px;
+        margin-top: 40px;
+        font-size: 16px;
+        text-align: center;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #ff5757;
+        color: #FFF;
+        font-weight: bold;
+    }
+
+    .btnGerenciarGrupo {
+        height: 50px;
+        width: 30%;
+        float: left;
+        margin-left: 50px;
+        margin-top: 40px;
+        font-size: 16px;
+        text-align: center;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #4c72ff;
+        color: #FFF;
+        font-weight: bold;
+    }
+}
+
+@media(max-width: 1050px) {
+    .divCorpoAreaParticipante {
+        height: 1000px;
+        width: 100%;
+        float: left;
+        padding-bottom: 70px;
+        padding-top: 70px;
+    }
+
+    .divTituloAreaParticipante {
+        height: 220px;
+        width: 90%;
+        float: left;
+    }
+
+    .h1AreaParticante {
+        text-align: left;
+        font-size: 34px;
+        margin-left: 100px;
+        color: #444;
+        text-shadow: 2px 2px 2px #DDD;
+    }
+
+    .pBemVindo {
+        font-size: 22px;
+        text-align: justify;
+        margin-top: 50px;
+        margin-left: 130px;
+    }
+
+    .divImgSair {
+        height: 220px;
+        width: 6%;
+        float: left;
+    }
+
+    .aSair {
+        color: #000;
+        margin-top: 40px;
+        float: left;
+    }
+
+    .imgSair {
+        height: 90px;
+        width: 100%;
+        float: left;
+    }
+
+    .pSair {
+        text-align: center;
+        font-size: 14px;
+        margin-top: 5px;
+    }
+
+    /*.divGrupoParticipante {
+        height: 500px;
+        width: 100%;
+        float: left;
+    }
+
+    .divTituloGrupo {
+        height: 50px;
+        width: 100%;
+        float: left;
+    }
+
+    .h1Grupo {
+        font-size: 26px;
+        text-align: left;
+        margin-left: 50px;
+        margin-top: 10px;
+    }*/
+
+    .divGrandeParticipante {
+        height: 800px;
+        width: 100%;
+        float: left;
+    }
+
+    .divMenusParticipante {
+        height: 61px;
+        width: 80%;
+        align-items: center;
+    }
+
+    .divSeusDados {
+        height: 60px;
+        width: 25%;
+        float: left;
+        border-left: 1px solid #444;
+        border-right: 1px solid #444;
+        border-top: 1px solid #444;
+        margin-left: 30px;
+        display: flex;
+        background-color: #fff;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        box-shadow: 1px 0px 1px #444;
+        cursor: pointer;
+    }
+
+    .divSeuGrupo {
+        height: 60px;
+        width: 25%;
+        float: left;
+        border-left: 1px solid #444;
+        border-right: 1px solid #444;
+        border-top: 1px solid #444;
+        margin-left: 30px;
+        display: flex;
+        background-color: #fff;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        box-shadow: 1px 0px 1px #444;
+        cursor: pointer;
+    }
+
+    .aSeusDados {
+        text-align: center;
+        text-decoration: none;
+        color: #444;
+        width: 100%;
+    }
+
+    .aSeusDados h1 {
+        font-size: 20px;
+        margin-top: 15px;
+    }
+
+    .divConteudoParticipante {
+        height: 600px;
+        width: 80%;
+        align-items: center;
+        border: 1px solid #444;
+        border-radius: 10px 10px;
+        background-color: #FFF;
+        position: relative;
+        box-shadow: 10px 10px 10px #DDD;
+    }
+
+    #divContDados {
+        height: 550px;
+        width: 90%;
+        align-items: center;
+        margin-top: 25px;
+        display: block;
+    }
+
+    .divSeusDadosParticipante {
+        height: 300px;
+        width: 60%;
+        float: left;
+    }
+
+    .divSeuNome {
+        height: 100px;
+        width: 100%;
+        float: left;
+    }
+
+    .divSeuNome p {
+        font-size: 20px;
+        text-align: left;
+        margin-top: 30px;
+        color: #444;
+        line-height: 34px;
+    }
+
+    .spanRetorno {
+        text-align: left;
+        margin-left: 5px;
+    }
+
+    .divImgDados {
+        height: 300px;
+        width: 40%;
+        float: left;
+    }
+
+    .imgDados {
+        height: 280px;
+        width: 100%;
+        float: left;
+    }
+
+    .divCriarEntrarGrupo {
+        height: 600px;
+        width: 90%;
+        align-items: center;
+        margin-top: 25px;
+        display: block;
+    }
+
+    .divTitCrieGrupo {
+        height: 150px;
+        width: 100%;
+        float: left;
+    }
+
+        .divTitCrieGrupo h1 {
+            font-size: 26px;
+            text-align: left;
+            margin-left: 30px;
+            margin-top: 10px;
+            color: #333;
+        }
+
+        .divTitCrieGrupo p {
+            font-size: 14px;
+            text-align: justify;
+            margin-top: 30px;
+            margin-left: 25px;
+            margin-right: 25px;
+            line-height: 28px;
+        }
+
+    .divBtnCriarGrupo {
+        height: 130px;
+        width: 100%;
+        float: left;
+    }
+
+    .btnCriarGrupo {
+        height: 45px;
+        width: 30%;
+        float: left;
+        margin-top: 30px;
+        margin-left: 35%;
+        margin-right: 35%;
+        color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        font-size: 16px;
+        background-color: #4c72ff;
+        font-weight: bold;
+    }
+
+    .txtConvite {
+        height: 35px;
+        width: 45%;
+        float: left;
+        margin-left: 10px;
+        margin-top: 10px;
+        padding-left: 5px;
+        font-size: 14px;
+    }
+
+    .btnEntrarGrupo {
+        height: 35px;
+        width: 25%;
+        float: left;
+        margin-left: 20px;
+        margin-top: 12px;
+        color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        font-size: 14px;
+        background-color: #0ac937;
+        font-weight: bold;
+    }
+
+    .btnRecusarGrupo {
+        height: 30px;
+        width: 20%;
+        float: left;
+        margin-left: 20px;
+        margin-top: 15px;
+        color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        font-size: 14px;
+        background-color: #ff5757;
+        font-weight: bold;
+    }
+    /*.divSeuRM {
+        height: 120px;
+        width: 100%;
+        float: left;
+    }
+
+    .divSeuRM p {
+        font-size: 22px;
+        text-align: left;
+        margin-top: 20px;
+        color: #444;
+    }*/
+    #divContGrupo {
+        height: 1300px;
+        width: 90%;
+        align-items: center;
+        margin-top: 25px;
+        display: none;
+    }
+
+    .divTitGerencieGrupo {
+        height: 100px;
+        width: 100%;
+        float: left;
+    }
+
+    .divTitGerencieGrupo h1 {
+        font-size: 26px;
+        text-align: left;
+        margin-left: 30px;
+        margin-top: 10px;
+        color: #333;
+    }
+
+    .divNomeFraseGrupo {
+        height: 320px;
+        width: 50%;
+        float: left;
+    }
+
+    .divLblNomeGrupo {
+        height: 60px;
+        width: 100%;
+        float: left;
+    }
+
+    .divLblNomeGrupo p {
+        float: left;
+        font-size: 18px;
+        margin-left: 20px;
+        margin-top: 10px;
+        text-align: left;
+        color: #444;
+    }
+
+    .divTxtNomeGrupo {
+        height: 80px;
+        width: 100%;
+        float: left;
+    }
+
+    .txtNomeGrupo {
+        float: left;
+        height: 25px;
+        width: 80%;
+        padding-left: 5px;
+        padding-bottom: 2px;
+        padding-top: 2px;
+        font-size: 14px;
+        margin-left: 20px;
+    }
+
+    .divCorGrupo {
+        height: 360px;
+        width: 50%;
+        float: left;
+    }
+
+    .divRadioCor {
+        height: 320px;
+        width: 100%;
+        float: left;
+    }
+
+    .divRadioCor2 {
+        height: 300px;
+        width: 50%;
+        float: left;
+    }
+
+    .fieldsetCor {
+        border: none;
+    }
+
+    .divRdoCor {
+        height: 35px;
+        width: 50%;
+        float: left;
+    }
+
+    .rdoCores {
+        float: left;
+        margin-top: 2px;
+    }
+
+    .fieldsetCor p {
+        float: left;
+        font-size: 14px;
+        text-align: left;
+        margin-left: 5px;
+    }
+
+    .pCores1 {color: #0a0791;}
+
+    .pCores2 {color: #00360b;}
+
+    .pCores3 {color: #f0f005;}
+
+    .pCores4 {color: #fa0000;}
+
+    .pCores5 {color: #ed7e00;}
+
+    .pCores6 {color: #5000b8;}
+
+    .pCores7 {color: #000;}
+
+    .pCores8 {color: #45a2ff;}
+
+    .pCores9 {color: #51ff45;}
+
+    .pCores10 {color: #ff69f5;}
+
+    .pCores11 {color: #53292a;}
+
+    .pCores12 {color: #757575;}
+
+    .pCores13 {color: #4b280a;}
+
+    .pCores14 {color: #b666d2;}
+
+    .pCores15 {color: #1fffec;}
+
+    .rdoCor {
+        height: 30px;
+        width: 100%;
+        float: left;
+        font-size: 14px;
+    }
+
+    .divTitParticipantes {
+        height: 80px;
+        width: 100%;
+        float: left;
+    }
+
+    .pParticipantes {
+        float: left;
+        font-size: 18px;
+        text-align: left;
+        margin-left: 20px;
+        margin-top: 20px;
+        color: #444;
+    }
+
+    .divParticipantes {
+        height: 45px;
+        width: 100%;
+        float: left;
+    }
+
+    .divParticipanteRM {
+        height: 45px;
+        width: 30%;
+        float: left;
+    }
+
+    .lblRmParticipante {
+        float: left;
+        margin-left: 10px;
+        font-size: 16px;
+        text-align: left;
+        margin-top: 4px;
+    }
+
+    .txtParticipanteRM {
+        height: 25px;
+        width: 70%;
+        float: left;
+        margin-left: 10px;
+        font-size: 14px;
+        padding-left: 5px;
+        padding-bottom: 2px;
+        padding-top: 2px;
+    }
+
+    .divParticipanteNome {
+        height: 45px;
+        width: 50%;
+        float: left;
+    }
+
+    .txtParticipanteNome {
+        height: 25px;
+        width: 70%;
+        float: left;
+        margin-left: 10px;
+        padding-left: 5px;
+        padding-bottom: 2px;
+        padding-top: 2px;
+        font-size: 14px;
+    }
+
+    .lblParticipanteNome {
+        float: left;
+        margin-left: 30px;
+        font-size: 16px;
+        text-align: left;
+        margin-top: 4px;
+    }
+
+    .divBtnExcluirParticipante {
+        height: 45px;
+        width: 20%;
+        float: left;
+    }
+
+    .btnExcluirParticipante {
+        height: 30px;
+        width: 50%;
+        float: left;
+        margin-left: 10px;
+        font-size: 12px;
+        background-color: #ff5757;
+        text-align: center;
+        border-radius: 10px 10px;
+        cursor: pointer;
+        border-style:none;
+    }
+
+    .divAlertParticipante {
+        height: 30px;
+        width: 100%;
+        float: left;
+    }
+
+    .lblAlertParticipante {
+        font-size: 14px;
+        text-align: left;
+        margin-left: 20px;
+        margin-top: 5px;
+    }
+
+    .divBtnAdicionarParticipantes {
+        height: 100px;
+        width: 100%;
+        float: left;
+    }
+
+    .btnAdicionarParticipantes {
+        height: 50px;
+        width: 21%;
+        float: left;
+        margin-left: 20px;
+        margin-top: 40px;
+        font-size: 14px;
+        text-align: center;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #0ac937;
+        color: #FFF;
+        font-weight: bold;
+    }
+
+    .btnExcluirGrupo {
+        height: 50px;
+        width: 23%;
+        float: left;
+        margin-left: 35px;
+        margin-top: 40px;
+        font-size: 14px;
+        text-align: center;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #ff5757;
+        color: #FFF;
+        font-weight: bold;
+    }
+
+    .btnGerenciarGrupo {
+        height: 50px;
+        width: 34%;
+        float: left;
+        margin-left: 35px;
+        margin-top: 40px;
+        font-size: 14px;
+        text-align: center;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #4c72ff;
+        color: #FFF;
+        font-weight: bold;
+    }
+}
+
+@media(max-width: 810px) { 
+    .divCorpoAreaParticipante {
+        height: 1000px;
+        width: 100%;
+        float: left;
+        padding-bottom: 70px;
+        padding-top: 70px;
+    }
+
+    .divTituloAreaParticipante {
+        height: 220px;
+        width: 80%;
+        float: left;
+    }
+
+    .h1AreaParticante {
+        text-align: left;
+        font-size: 26px;
+        margin-left: 70px;
+        color: #444;
+        text-shadow: 2px 2px 2px #DDD;
+    }
+
+    .pBemVindo {
+        font-size: 18px;
+        text-align: justify;
+        margin-top: 50px;
+        margin-left: 100px;
+    }
+
+    .divImgSair {
+        height: 220px;
+        width: 16%;
+        float: left;
+    }
+
+    .aSair {
+        color: #000;
+        margin-top: 40px;
+        float: left;
+    }
+
+    .imgSair {
+        height: 90px;
+        width: 100%;
+        float: left;
+    }
+
+    .pSair {
+        text-align: center;
+        font-size: 14px;
+        margin-top: 5px;
+    }
+
+    /*.divGrupoParticipante {
+        height: 500px;
+        width: 100%;
+        float: left;
+    }
+
+    .divTituloGrupo {
+        height: 50px;
+        width: 100%;
+        float: left;
+    }
+
+    .h1Grupo {
+        font-size: 26px;
+        text-align: left;
+        margin-left: 50px;
+        margin-top: 10px;
+    }*/
+
+    .divGrandeParticipante {
+        height: 800px;
+        width: 100%;
+        float: left;
+    }
+
+    .divMenusParticipante {
+        height: 61px;
+        width: 90%;
+        align-items: center;
+    }
+
+    .divSeusDados {
+        height: 60px;
+        width: 25%;
+        float: left;
+        border-left: 1px solid #444;
+        border-right: 1px solid #444;
+        border-top: 1px solid #444;
+        margin-left: 30px;
+        display: flex;
+        background-color: #fff;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        box-shadow: 1px 0px 1px #444;
+        cursor: pointer;
+    }
+
+    .divSeuGrupo {
+        height: 60px;
+        width: 25%;
+        float: left;
+        border-left: 1px solid #444;
+        border-right: 1px solid #444;
+        border-top: 1px solid #444;
+        margin-left: 30px;
+        display: flex;
+        background-color: #fff;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        box-shadow: 1px 0px 1px #444;
+        cursor: pointer;
+    }
+
+    .aSeusDados {
+        text-align: center;
+        text-decoration: none;
+        color: #444;
+        width: 100%;
+    }
+
+    .aSeusDados h1 {
+        font-size: 18px;
+        margin-top: 15px;
+    }
+
+    .divConteudoParticipante {
+        height: 600px;
+        width: 90%;
+        align-items: center;
+        border: 1px solid #444;
+        border-radius: 10px 10px;
+        background-color: #FFF;
+        position: relative;
+        box-shadow: 10px 10px 10px #DDD;
+    }
+
+    #divContDados {
+        height: 550px;
+        width: 95%;
+        align-items: center;
+        margin-top: 25px;
+        display: block;
+    }
+
+    .divSeusDadosParticipante {
+        height: 300px;
+        width: 60%;
+        float: left;
+    }
+
+    .divSeuNome {
+        height: 100px;
+        width: 100%;
+        float: left;
+    }
+
+    .divSeuNome p {
+        font-size: 16px;
+        text-align: left;
+        margin-top: 30px;
+        color: #444;
+        line-height: 34px;
+    }
+
+    .spanRetorno {
+        text-align: left;
+        margin-left: 5px;
+    }
+
+    .divImgDados {
+        height: 300px;
+        width: 40%;
+        float: left;
+    }
+
+    .imgDados {
+        height: 280px;
+        width: 100%;
+        float: left;
+    }
+
+    .divCriarEntrarGrupo {
+        height: 600px;
+        width: 90%;
+        align-items: center;
+        margin-top: 25px;
+        display: block;
+    }
+
+    .divTitCrieGrupo {
+        height: 150px;
+        width: 100%;
+        float: left;
+    }
+
+        .divTitCrieGrupo h1 {
+            font-size: 22px;
+            text-align: left;
+            margin-left: 30px;
+            margin-top: 10px;
+            color: #333;
+        }
+
+        .divTitCrieGrupo p {
+            font-size: 12px;
+            text-align: justify;
+            margin-top: 22px;
+            margin-left: 25px;
+            margin-right: 25px;
+            line-height: 26px;
+        }
+
+    .divBtnCriarGrupo {
+        height: 150px;
+        width: 100%;
+        float: left;
+    }
+
+    .btnCriarGrupo {
+        height: 45px;
+        width: 30%;
+        float: left;
+        margin-top: 30px;
+        margin-left: 35%;
+        margin-right: 35%;
+        color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        font-size: 12px;
+        background-color: #4c72ff;
+        font-weight: bold;
+    }
+
+    .txtConvite {
+        height: 35px;
+        width: 45%;
+        float: left;
+        margin-left: 10px;
+        margin-top: 10px;
+        padding-left: 5px;
+        font-size: 12px;
+    }
+
+    .btnEntrarGrupo {
+        height: 35px;
+        width: 25%;
+        float: left;
+        margin-left: 20px;
+        margin-top: 12px;
+        color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        font-size: 12px;
+        background-color: #0ac937;
+        font-weight: bold;
+    }
+
+    .btnRecusarGrupo {
+        height: 30px;
+        width: 18%;
+        float: left;
+        margin-left: 20px;
+        margin-top: 15px;
+        color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        font-size: 12px;
+        background-color: #ff5757;
+        font-weight: bold;
+    }
+    /*.divSeuRM {
+        height: 120px;
+        width: 100%;
+        float: left;
+    }
+
+    .divSeuRM p {
+        font-size: 22px;
+        text-align: left;
+        margin-top: 20px;
+        color: #444;
+    }*/
+    #divContGrupo {
+        height: 1300px;
+        width: 95%;
+        align-items: center;
+        margin-top: 25px;
+        display: none;
+    }
+
+    .divTitGerencieGrupo {
+        height: 100px;
+        width: 100%;
+        float: left;
+    }
+
+    .divTitGerencieGrupo h1 {
+        font-size: 22px;
+        text-align: left;
+        margin-left: 30px;
+        margin-top: 10px;
+        color: #333;
+    }
+
+    .divNomeFraseGrupo {
+        height: 320px;
+        width: 50%;
+        float: left;
+    }
+
+    .divLblNomeGrupo {
+        height: 60px;
+        width: 100%;
+        float: left;
+    }
+
+    .divLblNomeGrupo p {
+        float: left;
+        font-size: 14px;
+        margin-left: 20px;
+        margin-top: 10px;
+        text-align: left;
+        color: #444;
+    }
+
+    .divTxtNomeGrupo {
+        height: 80px;
+        width: 100%;
+        float: left;
+    }
+
+    .txtNomeGrupo {
+        float: left;
+        height: 25px;
+        width: 80%;
+        padding-left: 5px;
+        padding-bottom: 2px;
+        padding-top: 2px;
+        font-size: 12px;
+        margin-left: 20px;
+    }
+
+    .divCorGrupo {
+        height: 360px;
+        width: 50%;
+        float: left;
+    }
+
+    .divRadioCor {
+        height: 320px;
+        width: 100%;
+        float: left;
+    }
+
+    .divRadioCor2 {
+        height: 300px;
+        width: 50%;
+        float: left;
+    }
+
+    .fieldsetCor {
+        border: none;
+    }
+
+    .divRdoCor {
+        height: 35px;
+        width: 50%;
+        float: left;
+    }
+
+    .rdoCores {
+        float: left;
+        margin-top: 2px;
+    }
+
+    .fieldsetCor p {
+        float: left;
+        font-size: 12px;
+        text-align: left;
+        margin-left: 5px;
+    }
+
+    .pCores1 {color: #0a0791;}
+
+    .pCores2 {color: #00360b;}
+
+    .pCores3 {color: #f0f005;}
+
+    .pCores4 {color: #fa0000;}
+
+    .pCores5 {color: #ed7e00;}
+
+    .pCores6 {color: #5000b8;}
+
+    .pCores7 {color: #000;}
+
+    .pCores8 {color: #45a2ff;}
+
+    .pCores9 {color: #51ff45;}
+
+    .pCores10 {color: #ff69f5;}
+
+    .pCores11 {color: #53292a;}
+
+    .pCores12 {color: #757575;}
+
+    .pCores13 {color: #4b280a;}
+
+    .pCores14 {color: #b666d2;}
+
+    .pCores15 {color: #1fffec;}
+
+    .rdoCor {
+        height: 30px;
+        width: 100%;
+        float: left;
+        font-size: 12px;
+    }
+
+    .divTitParticipantes {
+        height: 70px;
+        width: 100%;
+        float: left;
+    }
+
+    .pParticipantes {
+        float: left;
+        font-size: 14px;
+        text-align: left;
+        margin-left: 20px;
+        margin-top: 20px;
+        color: #444;
+    }
+
+    .divParticipantes {
+        height: 45px;
+        width: 100%;
+        float: left;
+    }
+
+    .divParticipanteRM {
+        height: 45px;
+        width: 30%;
+        float: left;
+    }
+
+    .lblRmParticipante {
+        float: left;
+        margin-left: 10px;
+        font-size: 12px;
+        text-align: left;
+        margin-top: 6px;
+    }
+
+    .txtParticipanteRM {
+        height: 25px;
+        width: 70%;
+        float: left;
+        margin-left: 10px;
+        font-size: 12px;
+        padding-left: 5px;
+        padding-bottom: 2px;
+        padding-top: 2px;
+    }
+
+    .divParticipanteNome {
+        height: 45px;
+        width: 50%;
+        float: left;
+    }
+
+    .txtParticipanteNome {
+        height: 25px;
+        width: 70%;
+        float: left;
+        margin-left: 10px;
+        padding-left: 5px;
+        padding-bottom: 2px;
+        padding-top: 2px;
+        font-size: 12px;
+    }
+
+    .lblParticipanteNome {
+        float: left;
+        margin-left: 20px;
+        font-size: 12px;
+        text-align: left;
+        margin-top: 6px;
+    }
+
+    .divBtnExcluirParticipante {
+        height: 45px;
+        width: 20%;
+        float: left;
+    }
+
+    .btnExcluirParticipante {
+        height: 30px;
+        width: 70%;
+        float: left;
+        margin-left: 10px;
+        font-size: 12px;
+        background-color: #ff5757;
+        text-align: center;
+        border-radius: 10px 10px;
+        cursor: pointer;
+        border-style:none;
+    }
+
+    .divAlertParticipante {
+        height: 30px;
+        width: 100%;
+        float: left;
+    }
+
+    .lblAlertParticipante {
+        font-size: 14px;
+        text-align: left;
+        margin-left: 20px;
+        margin-top: 5px;
+    }
+
+    .divBtnAdicionarParticipantes {
+        height: 100px;
+        width: 100%;
+        float: left;
+    }
+
+    .btnAdicionarParticipantes {
+        height: 50px;
+        width: 22%;
+        float: left;
+        margin-left: 15px;
+        margin-top: 40px;
+        font-size: 12px;
+        text-align: center;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #0ac937;
+        color: #FFF;
+        font-weight: bold;
+    }
+
+    .btnExcluirGrupo {
+        height: 50px;
+        width: 23%;
+        float: left;
+        margin-left: 30px;
+        margin-top: 40px;
+        font-size: 12px;
+        text-align: center;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #ff5757;
+        color: #FFF;
+        font-weight: bold;
+    }
+
+    .btnGerenciarGrupo {
+        height: 50px;
+        width: 34%;
+        float: left;
+        margin-left: 30px;
+        margin-top: 40px;
+        font-size: 12px;
+        text-align: center;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #4c72ff;
+        color: #FFF;
+        font-weight: bold;
+    }
+}
+
+@media(max-width:630px){
+    .divTitParticipantes {
+        height: 50px;
+        width: 100%;
+        float: left;
+    }
+
+    .pParticipantes {
+        float: left;
+        font-size: 10px;
+        text-align: left;
+        margin-left: 20px;
+        margin-top: 15px;
+        color: #444;
+    }
+
+    .divParticipantes {
+        height: 150px;
+        width: 100%;
+        float: left;
+    }
+
+    .divParticipanteRM {
+        height: 50px;
+        width: 50%;
+        float: left;
+    }
+
+    .lblRmParticipante {
+        float: left;
+        margin-left: 10px;
+        font-size: 10px;
+        text-align: left;
+        margin-top: 6px;
+    }
+
+    .txtParticipanteRM {
+        height: 20px;
+        width: 70%;
+        float: left;
+        margin-left: 10px;
+        font-size: 10px;
+        padding-left: 5px;
+        padding-bottom: 0px;
+        padding-top: 0px;
+    }
+
+    .divParticipanteNome {
+        height: 50px;
+        width: 80%;
+        float: left;
+    }
+
+    .txtParticipanteNome {
+        height: 20px;
+        width: 70%;
+        float: left;
+        margin-left: 10px;
+        padding-left: 5px;
+        padding-bottom: 0px;
+        padding-top: 0px;
+        font-size: 10px;
+    }
+
+    .lblParticipanteNome {
+        float: left;
+        margin-left: 10px;
+        font-size: 10px;
+        text-align: left;
+        margin-top: 6px;
+    }
+
+    .divBtnExcluirParticipante {
+        height: 50px;
+        width: 30%;
+        float: left;
+    }
+
+    .btnExcluirParticipante {
+        height: 30px;
+        width: 70%;
+        float: left;
+        margin-left: 10px;
+        font-size: 10px;
+        background-color: #ff5757;
+        text-align: center;
+        border-radius: 10px 10px;
+        cursor: pointer;
+        border-style: none;
+    }
+
+    .divAlertParticipante {
+        height: 30px;
+        width: 100%;
+        float: left;
+    }
+
+    .lblAlertParticipante {
+        font-size: 10px;
+        text-align: left;
+        margin-left: 20px;
+        margin-top: 5px;
+    }
+}
+
+@media(max-width: 600px) { 
+    .divCorpoAreaParticipante {
+        height: 1000px;
+        width: 100%;
+        float: left;
+        padding-bottom: 70px;
+        padding-top: 70px;
+    }
+
+    .divTituloAreaParticipante {
+        height: 220px;
+        width: 80%;
+        float: left;
+    }
+
+    .h1AreaParticante {
+        text-align: left;
+        font-size: 26px;
+        margin-left: 70px;
+        margin-right:40px;
+        color: #444;
+        text-shadow: 2px 2px 2px #DDD;
+    }
+
+    .pBemVindo {
+        font-size: 18px;
+        text-align: justify;
+        margin-top: 50px;
+        margin-left: 100px;
+    }
+
+    .divImgSair {
+        height: 220px;
+        width: 16%;
+        float: left;
+    }
+
+    .aSair {
+        color: #000;
+        margin-top: 40px;
+        float: left;
+    }
+
+    .imgSair {
+        height: 90px;
+        width: 100%;
+        float: left;
+    }
+
+    .pSair {
+        text-align: center;
+        font-size: 14px;
+        margin-top: 5px;
+    }
+
+    /*.divGrupoParticipante {
+        height: 500px;
+        width: 100%;
+        float: left;
+    }
+
+    .divTituloGrupo {
+        height: 50px;
+        width: 100%;
+        float: left;
+    }
+
+    .h1Grupo {
+        font-size: 26px;
+        text-align: left;
+        margin-left: 50px;
+        margin-top: 10px;
+    }*/
+
+    .divGrandeParticipante {
+        height: 800px;
+        width: 100%;
+        float: left;
+    }
+
+    .divMenusParticipante {
+        height: 51px;
+        width: 90%;
+        align-items: center;
+    }
+
+    .divSeusDados {
+        height: 50px;
+        width: 35%;
+        float: left;
+        border-left: 1px solid #444;
+        border-right: 1px solid #444;
+        border-top: 1px solid #444;
+        margin-left: 30px;
+        display: flex;
+        background-color: #fff;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        box-shadow: 1px 0px 1px #444;
+        cursor: pointer;
+    }
+
+    .divSeuGrupo {
+        height: 50px;
+        width: 35%;
+        float: left;
+        border-left: 1px solid #444;
+        border-right: 1px solid #444;
+        border-top: 1px solid #444;
+        margin-left: 30px;
+        display: flex;
+        background-color: #fff;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        box-shadow: 1px 0px 1px #444;
+        cursor: pointer;
+    }
+
+    .aSeusDados {
+        text-align: center;
+        text-decoration: none;
+        color: #444;
+        width: 100%;
+    }
+
+    .aSeusDados h1 {
+        font-size: 16px;
+        margin-top: 15px;
+    }
+
+    .divConteudoParticipante {
+        height: 600px;
+        width: 90%;
+        align-items: center;
+        border: 1px solid #444;
+        border-radius: 10px 10px;
+        background-color: #FFF;
+        position: relative;
+        box-shadow: 10px 10px 10px #DDD;
+    }
+
+    #divContDados {
+        height: 550px;
+        width: 95%;
+        align-items: center;
+        margin-top: 25px;
+        display: block;
+    }
+
+    .divSeusDadosParticipante {
+        height: 300px;
+        width: 60%;
+        float: left;
+    }
+
+    .divSeuNome {
+        height: 100px;
+        width: 100%;
+        float: left;
+    }
+
+    .divSeuNome p {
+        font-size: 16px;
+        text-align: left;
+        margin-top: 30px;
+        color: #444;
+        line-height: 34px;
+    }
+
+    .spanRetorno {
+        text-align: left;
+        margin-left: 5px;
+    }
+
+    .divImgDados {
+        height: 300px;
+        width: 40%;
+        float: left;
+    }
+
+    .imgDados {
+        height: 280px;
+        width: 100%;
+        float: left;
+    }
+
+    .divCriarEntrarGrupo {
+        height: 600px;
+        width: 90%;
+        align-items: center;
+        margin-top: 25px;
+        display: block;
+    }
+
+    .divTitCrieGrupo {
+        height: 120px;
+        width: 100%;
+        float: left;
+        margin-top: 50px;
+    }
+
+        .divTitCrieGrupo h1 {
+            font-size: 20px;
+            text-align: left;
+            margin-left: 30px;
+            margin-top: 10px;
+            color: #333;
+        }
+
+        .divTitCrieGrupo p {
+            font-size: 12px;
+            text-align: justify;
+            margin-top: 20px;
+            margin-left: 20px;
+            margin-right: 25px;
+            line-height: 24px;
+        }
+
+    .divBtnCriarGrupo {
+        height: 150px;
+        width: 100%;
+        float: left;
+    }
+
+    .btnCriarGrupo {
+        height: 40px;
+        width: 28%;
+        float: left;
+        margin-top: 30px;
+        margin-left: 35%;
+        margin-right: 35%;
+        color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        font-size: 12px;
+        background-color: #4c72ff;
+        font-weight: bold;
+    }
+
+    .txtConvite {
+        height: 35px;
+        width: 80%;
+        float: left;
+        margin-left: 8%;
+        margin-right:10%;
+        margin-top: 10px;
+        padding-left: 5px;
+        font-size: 12px;
+    }
+
+    .btnEntrarGrupo {
+        height: 40px;
+        width: 36%;
+        float: left;
+        margin-left: 28%;
+        margin-right: 32%;
+        margin-top: 20px;
+        color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        font-size: 12px;
+        background-color: #0ac937;
+        font-weight: bold;
+    }
+
+    .btnRecusarGrupo {
+        height: 30px;
+        width: 35%;
+        float: left;
+        margin-left: 20px;
+        margin-top: 15px;
+        color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        font-size: 12px;
+        background-color: #ff5757;
+        font-weight: bold;
+    }
+    /*.divSeuRM {
+        height: 120px;
+        width: 100%;
+        float: left;
+    }
+
+    .divSeuRM p {
+        font-size: 22px;
+        text-align: left;
+        margin-top: 20px;
+        color: #444;
+    }*/
+    #divContGrupo {
+        height: 1300px;
+        width: 95%;
+        align-items: center;
+        margin-top: 25px;
+        display: none;
+    }
+
+    .divTitGerencieGrupo {
+        height: 80px;
+        width: 100%;
+        float: left;
+    }
+
+        .divTitGerencieGrupo h1 {
+            font-size: 18px;
+            text-align: left;
+            margin-left: 30px;
+            margin-top: 10px;
+            color: #333;
+        }
+
+    .divNomeFraseGrupo {
+        height: 270px;
+        width: 100%;
+        float: left;
+    }
+
+    .divLblNomeGrupo {
+        height: 50px;
+        width: 100%;
+        float: left;
+    }
+
+        .divLblNomeGrupo p {
+            float: left;
+            font-size: 12px;
+            margin-left: 20px;
+            margin-top: 10px;
+            text-align: left;
+            color: #444;
+        }
+
+    .divTxtNomeGrupo {
+        height: 70px;
+        width: 100%;
+        float: left;
+    }
+
+    .txtNomeGrupo {
+        float: left;
+        height: 25px;
+        width: 80%;
+        padding-left: 5px;
+        padding-bottom: 0px;
+        padding-top: 0px;
+        font-size: 10px;
+        margin-left: 20px;
+    }
+
+    .divCorGrupo {
+        height: 340px;
+        width: 100%;
+        float: left;
+    }
+
+    .divRadioCor {
+        height: 300px;
+        width: 100%;
+        float: left;
+    }
+
+    .divRadioCor2 {
+        height: 280px;
+        width: 50%;
+        float: left;
+    }
+
+    .fieldsetCor {
+        border: none;
+    }
+
+    .divRdoCor {
+        height: 35px;
+        width: 50%;
+        float: left;
+    }
+
+    .rdoCores {
+        float: left;
+        margin-top: 1px;
+        margin-left: 5px;
+    }
+
+    .fieldsetCor p {
+        float: left;
+        font-size: 10px;
+        text-align: left;
+        margin-left: 8px;
+    }
+
+    .pCores1 {
+        color: #0a0791;
+    }
+
+    .pCores2 {
+        color: #00360b;
+    }
+
+    .pCores3 {
+        color: #f0f005;
+    }
+
+    .pCores4 {
+        color: #fa0000;
+    }
+
+    .pCores5 {
+        color: #ed7e00;
+    }
+
+    .pCores6 {
+        color: #5000b8;
+    }
+
+    .pCores7 {
+        color: #000;
+    }
+
+    .pCores8 {
+        color: #45a2ff;
+    }
+
+    .pCores9 {
+        color: #51ff45;
+    }
+
+    .pCores10 {
+        color: #ff69f5;
+    }
+
+    .pCores11 {
+        color: #53292a;
+    }
+
+    .pCores12 {
+        color: #757575;
+    }
+
+    .pCores13 {
+        color: #4b280a;
+    }
+
+    .pCores14 {
+        color: #b666d2;
+    }
+
+    .pCores15 {
+        color: #1fffec;
+    }
+
+    .rdoCor {
+        height: 30px;
+        width: 100%;
+        float: left;
+        font-size: 10px;
+        margin-left:20px;
+    }
+
+    .divBtnAdicionarParticipantes {
+        height: 100px;
+        width: 100%;
+        float: left;
+    }
+
+    .btnAdicionarParticipantes {
+        height: 40px;
+        width: 21%;
+        float: left;
+        margin-left: 10px;
+        margin-top: 20px;
+        font-size: 10px;
+        text-align: center;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #0ac937;
+        color: #FFF;
+        font-weight: bold;
+    }
+
+    .btnExcluirGrupo {
+        height: 40px;
+        width: 25%;
+        float: left;
+        margin-left: 20px;
+        margin-top: 20px;
+        font-size: 10px;
+        text-align: center;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #ff5757;
+        color: #FFF;
+        font-weight: bold;
+    }
+
+    .btnGerenciarGrupo {
+        height: 40px;
+        width: 38%;
+        float: left;
+        margin-left: 20px;
+        margin-top: 20px;
+        font-size: 10px;
+        text-align: center;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #4c72ff;
+        color: #FFF;
+        font-weight: bold;
+    }
+}
+
+@media(max-width: 450px) {
+    .divCorpoAreaParticipante {
+        height: 800px;
+        width: 100%;
+        float: left;
+        padding-bottom: 70px;
+        padding-top: 70px;
+    }
+
+    .divTituloAreaParticipante {
+        height: 200px;
+        width: 76%;
+        float: left;
+    }
+
+    .h1AreaParticante {
+        text-align: left;
+        font-size: 20px;
+        margin-left: 30px;
+        margin-right:30px;
+        color: #444;
+        text-shadow: 2px 2px 2px #DDD;
+    }
+
+    .pBemVindo {
+        font-size: 14px;
+        text-align: justify;
+        margin-top: 40px;
+        margin-left: 60px;
+    }
+
+    .divImgSair {
+        height: 200px;
+        width: 16%;
+        float: left;
+    }
+
+    .aSair {
+        color: #000;
+        margin-top: 40px;
+        float: left;
+    }
+
+    .imgSair {
+        height: 70px;
+        width: 100%;
+        float: left;
+    }
+
+    .pSair {
+        text-align: center;
+        font-size: 12px;
+        margin-top: 5px;
+    }
+
+    /*.divGrupoParticipante {
+        height: 500px;
+        width: 100%;
+        float: left;
+    }
+
+    .divTituloGrupo {
+        height: 50px;
+        width: 100%;
+        float: left;
+    }
+
+    .h1Grupo {
+        font-size: 26px;
+        text-align: left;
+        margin-left: 50px;
+        margin-top: 10px;
+    }*/
+
+    .divGrandeParticipante {
+        height: 600px;
+        width: 100%;
+        float: left;
+    }
+
+    .divMenusParticipante {
+        height: 46px;
+        width: 90%;
+        align-items: center;
+    }
+
+    .divSeusDados {
+        height: 45px;
+        width: 30%;
+        float: left;
+        border-left: 1px solid #444;
+        border-right: 1px solid #444;
+        border-top: 1px solid #444;
+        margin-left: 20px;
+        display: flex;
+        background-color: #fff;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        box-shadow: 1px 0px 1px #444;
+        cursor: pointer;
+    }
+
+    .divSeuGrupo {
+        height: 45px;
+        width: 30%;
+        float: left;
+        border-left: 1px solid #444;
+        border-right: 1px solid #444;
+        border-top: 1px solid #444;
+        margin-left: 20px;
+        display: flex;
+        background-color: #fff;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        box-shadow: 1px 0px 1px #444;
+        cursor: pointer;
+    }
+
+    .aSeusDados {
+        text-align: center;
+        text-decoration: none;
+        color: #444;
+        width: 100%;
+    }
+
+        .aSeusDados h1 {
+            font-size: 12px;
+            margin-top: 15px;
+        }
+
+    .divConteudoParticipante {
+        height: 400px;
+        width: 90%;
+        align-items: center;
+        border: 1px solid #444;
+        border-radius: 10px 10px;
+        background-color: #FFF;
+        position: relative;
+        box-shadow: 10px 10px 10px #DDD;
+    }
+
+    #divContDados {
+        height: 350px;
+        width: 95%;
+        align-items: center;
+        margin-top: 25px;
+        display: block;
+    }
+
+    .divSeusDadosParticipante {
+        height: 210px;
+        width: 100%;
+        float: left;
+    }
+
+    .divSeuNome {
+        height: 70px;
+        width: 100%;
+        float: left;
+    }
+
+        .divSeuNome p {
+            font-size: 12px;
+            text-align: left;
+            margin-top: 20px;
+            color: #444;
+            line-height: 30px;
+        }
+
+    .spanRetorno {
+        text-align: left;
+        margin-left: 5px;
+    }
+
+    .divImgDados {
+        height: 100px;
+        width: 40%;
+        float: left;
+        display: none;
+    }
+
+    .imgDados {
+        height: 80px;
+        width: 100%;
+        float: left;
+    }
+
+    .divCriarEntrarGrupo {
+        height: 600px;
+        width: 90%;
+        align-items: center;
+        margin-top: 25px;
+        display: block;
+    }
+
+    .divTitCrieGrupo {
+        height: 120px;
+        width: 100%;
+        float: left;
+    }
+
+        .divTitCrieGrupo h1 {
+            font-size: 18px;
+            text-align: left;
+            margin-left: 30px;
+            margin-top: 10px;
+            color: #333;
+        }
+
+        .divTitCrieGrupo p {
+            font-size: 10px;
+            text-align: justify;
+            margin-top: 20px;
+            margin-left: 15px;
+            margin-right: 15px;
+            line-height: 20px;
+        }
+
+    .divBtnCriarGrupo {
+        height: 160px;
+        width: 100%;
+        float: left;
+    }
+
+    .btnCriarGrupo {
+        height: 35px;
+        width: 30%;
+        float: left;
+        margin-top: 40px;
+        margin-left: 35%;
+        margin-right: 35%;
+        color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        font-size: 10px;
+        background-color: #4c72ff;
+        font-weight: bold;
+    }
+
+    .txtConvite {
+        height: 25px;
+        width: 80%;
+        float: left;
+        margin-left: 6%;
+        margin-right: 10%;
+        margin-top: 10px;
+        padding-left: 5px;
+        font-size: 10px;
+    }
+
+    .btnEntrarGrupo {
+        height: 35px;
+        width: 36%;
+        float: left;
+        margin-left: 26%;
+        margin-right: 32%;
+        margin-top: 20px;
+        color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        font-size: 10px;
+        background-color: #0ac937;
+        font-weight: bold;
+    }
+
+    .btnRecusarGrupo {
+        height: 30px;
+        width: 35%;
+        float: left;
+        margin-left: 20px;
+        margin-top: 15px;
+        color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        font-size: 10px;
+        background-color: #ff5757;
+        font-weight: bold;
+    }
+
+    #divContGrupo {
+        height: 1300px;
+        width: 95%;
+        align-items: center;
+        margin-top: 25px;
+        display: none;
+    }
+
+    .divTitGerencieGrupo {
+        height: 80px;
+        width: 100%;
+        float: left;
+    }
+
+        .divTitGerencieGrupo h1 {
+            font-size: 18px;
+            text-align: left;
+            margin-left: 30px;
+            margin-top: 10px;
+            color: #333;
+        }
+
+    .divNomeFraseGrupo {
+        height: 270px;
+        width: 100%;
+        float: left;
+    }
+
+    .divLblNomeGrupo {
+        height: 50px;
+        width: 100%;
+        float: left;
+    }
+
+        .divLblNomeGrupo p {
+            float: left;
+            font-size: 12px;
+            margin-left: 20px;
+            margin-top: 10px;
+            text-align: left;
+            color: #444;
+        }
+
+    .divTxtNomeGrupo {
+        height: 70px;
+        width: 100%;
+        float: left;
+    }
+
+    .txtNomeGrupo {
+        float: left;
+        height: 25px;
+        width: 80%;
+        padding-left: 5px;
+        padding-bottom: 0px;
+        padding-top: 0px;
+        font-size: 10px;
+        margin-left: 20px;
+    }
+
+    .divCorGrupo {
+        height: 340px;
+        width: 100%;
+        float: left;
+    }
+
+    .divRadioCor {
+        height: 320px;
+        width: 100%;
+        float: left;
+    }
+
+    .divRadioCor2 {
+        height: 280px;
+        width: 50%;
+        float: left;
+    }
+
+    .fieldsetCor {
+        border: none;
+    }
+
+    .divRdoCor {
+        height: 35px;
+        width: 50%;
+        float: left;
+    }
+
+    .rdoCores {
+        float: left;
+        margin-top: 1px;
+        margin-left: 5px;
+    }
+
+    .fieldsetCor p {
+        float: left;
+        font-size: 10px;
+        text-align: left;
+        margin-left: 8px;
+    }
+
+    .pCores1 {
+        color: #0a0791;
+    }
+
+    .pCores2 {
+        color: #00360b;
+    }
+
+    .pCores3 {
+        color: #f0f005;
+    }
+
+    .pCores4 {
+        color: #fa0000;
+    }
+
+    .pCores5 {
+        color: #ed7e00;
+    }
+
+    .pCores6 {
+        color: #5000b8;
+    }
+
+    .pCores7 {
+        color: #000;
+    }
+
+    .pCores8 {
+        color: #45a2ff;
+    }
+
+    .pCores9 {
+        color: #51ff45;
+    }
+
+    .pCores10 {
+        color: #ff69f5;
+    }
+
+    .pCores11 {
+        color: #53292a;
+    }
+
+    .pCores12 {
+        color: #757575;
+    }
+
+    .pCores13 {
+        color: #4b280a;
+    }
+
+    .pCores14 {
+        color: #b666d2;
+    }
+
+    .pCores15 {
+        color: #1fffec;
+    }
+
+    .rdoCor {
+        height: 30px;
+        width: 100%;
+        float: left;
+        font-size: 10px;
+    }
+
+    .divTitParticipantes {
+        height: 50px;
+        width: 100%;
+        float: left;
+    }
+
+    .pParticipantes {
+        float: left;
+        font-size: 10px;
+        text-align: left;
+        margin-left: 20px;
+        margin-top: 15px;
+        color: #444;
+    }
+
+    .divParticipantes {
+        height: 150px;
+        width: 100%;
+        float: left;
+    }
+
+    .divParticipanteRM {
+        height: 50px;
+        width: 50%;
+        float: left;
+    }
+
+    .lblRmParticipante {
+        float: left;
+        margin-left: 10px;
+        font-size: 10px;
+        text-align: left;
+        margin-top: 6px;
+    }
+
+    .txtParticipanteRM {
+        height: 20px;
+        width: 70%;
+        float: left;
+        margin-left: 10px;
+        font-size: 10px;
+        padding-left: 5px;
+        padding-bottom: 0px;
+        padding-top: 0px;
+    }
+
+    .divParticipanteNome {
+        height: 50px;
+        width: 80%;
+        float: left;
+    }
+
+    .txtParticipanteNome {
+        height: 20px;
+        width: 70%;
+        float: left;
+        margin-left: 10px;
+        padding-left: 5px;
+        padding-bottom: 0px;
+        padding-top: 0px;
+        font-size: 10px;
+    }
+
+    .lblParticipanteNome {
+        float: left;
+        margin-left: 10px;
+        font-size: 10px;
+        text-align: left;
+        margin-top: 6px;
+    }
+
+    .divBtnExcluirParticipante {
+        height: 50px;
+        width: 30%;
+        float: left;
+    }
+
+    .btnExcluirParticipante {
+        height: 30px;
+        width: 70%;
+        float: left;
+        margin-left: 10px;
+        font-size: 10px;
+        background-color: #ff5757;
+        text-align: center;
+        border-radius: 10px 10px;
+        cursor: pointer;
+        border-style:none;
+    }
+
+    .divAlertParticipante {
+        height: 30px;
+        width: 100%;
+        float: left;
+    }
+
+    .lblAlertParticipante {
+        font-size: 14px;
+        text-align: left;
+        margin-left: 20px;
+        margin-top: 5px;
+    }
+
+    .divBtnAdicionarParticipantes {
+        height: 150px;
+        width: 100%;
+        float: left;
+    }
+
+    .btnAdicionarParticipantes {
+        height: 35px;
+        width: 35%;
+        float: left;
+        margin-left: 10px;
+        margin-top: 10px;
+        font-size: 10px;
+        text-align: center;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #0ac937;
+        color: #FFF;
+        font-weight: bold;
+    }
+
+    .btnExcluirGrupo {
+        height: 35px;
+        width: 35%;
+        float: left;
+        margin-left: 15px;
+        margin-top: 10px;
+        font-size: 10px;
+        text-align: center;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #ff5757;
+        color: #FFF;
+        font-weight: bold;
+    }
+
+    .btnGerenciarGrupo {
+        height: 35px;
+        width: 50%;
+        float: left;
+        margin-left: 15%;
+        margin-top: 30px;
+        font-size: 10px;
+        text-align: center;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #4c72ff;
+        color: #FFF;
+        font-weight: bold;
+    }
+}
+
+
+@media(max-width: 350px) {
+    .divCorpoAreaParticipante {
+        height: 800px;
+        width: 100%;
+        float: left;
+        padding-bottom: 70px;
+        padding-top: 70px;
+    }
+
+    .divTituloAreaParticipante {
+        height: 200px;
+        width: 76%;
+        float: left;
+    }
+
+    .h1AreaParticante {
+        text-align: left;
+        font-size: 20px;
+        margin-left: 20px;
+        margin-right:20px;
+        color: #444;
+        text-shadow: 2px 2px 2px #DDD;
+    }
+
+    .pBemVindo {
+        font-size: 14px;
+        text-align: justify;
+        margin-top: 40px;
+        margin-left: 45px;
+    }
+
+    .divImgSair {
+        height: 200px;
+        width: 16%;
+        float: left;
+    }
+
+    .aSair {
+        color: #000;
+        margin-top: 40px;
+        float: left;
+    }
+
+    .imgSair {
+        height: 70px;
+        width: 100%;
+        float: left;
+    }
+
+    .pSair {
+        text-align: center;
+        font-size: 12px;
+        margin-top: 5px;
+    }
+
+    .divGrandeParticipante {
+        height: 600px;
+        width: 100%;
+        float: left;
+    }
+
+    .divMenusParticipante {
+        height: 46px;
+        width: 90%;
+        align-items: center;
+    }
+
+    .divSeusDados {
+        height: 45px;
+        width: 35%;
+        float: left;
+        border-left: 1px solid #444;
+        border-right: 1px solid #444;
+        border-top: 1px solid #444;
+        margin-left: 15px;
+        display: flex;
+        background-color: #fff;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        box-shadow: 1px 0px 1px #444;
+        cursor: pointer;
+    }
+
+    .divSeuGrupo {
+        height: 45px;
+        width: 35%;
+        float: left;
+        border-left: 1px solid #444;
+        border-right: 1px solid #444;
+        border-top: 1px solid #444;
+        margin-left: 15px;
+        display: flex;
+        background-color: #fff;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        box-shadow: 1px 0px 1px #444;
+        cursor: pointer;
+    }
+
+    .aSeusDados {
+        text-align: center;
+        text-decoration: none;
+        color: #444;
+        width: 100%;
+    }
+
+        .aSeusDados h1 {
+            font-size: 12px;
+            margin-top: 15px;
+        }
+
+    .divConteudoParticipante {
+        height: 400px;
+        width: 90%;
+        align-items: center;
+        border: 1px solid #444;
+        border-radius: 10px 10px;
+        background-color: #FFF;
+        position: relative;
+        box-shadow: 10px 10px 10px #DDD;
+    }
+
+    #divContDados {
+        height: 350px;
+        width: 95%;
+        align-items: center;
+        margin-top: 25px;
+        display: block;
+    }
+
+    .divSeusDadosParticipante {
+        height: 210px;
+        width: 100%;
+        float: left;
+    }
+
+    .divSeuNome {
+        height: 70px;
+        width: 100%;
+        float: left;
+    }
+
+        .divSeuNome p {
+            font-size: 12px;
+            text-align: left;
+            margin-top: 20px;
+            color: #444;
+            line-height: 30px;
+        }
+
+    .spanRetorno {
+        text-align: left;
+        margin-left: 5px;
+    }
+
+    .divImgDados {
+        height: 100px;
+        width: 40%;
+        float: left;
+        display: none;
+    }
+
+    .imgDados {
+        height: 80px;
+        width: 100%;
+        float: left;
+    }
+
+    .divCriarEntrarGrupo {
+        height: 600px;
+        width: 90%;
+        align-items: center;
+        margin-top: 25px;
+        display: block;
+    }
+
+    .divTitCrieGrupo {
+        height: 120px;
+        width: 100%;
+        float: left;
+    }
+
+        .divTitCrieGrupo h1 {
+            font-size: 18px;
+            text-align: left;
+            margin-left: 30px;
+            margin-top: 10px;
+            color: #333;
+        }
+
+        .divTitCrieGrupo p {
+            font-size: 10px;
+            text-align: justify;
+            margin-top: 15px;
+            margin-left: 15px;
+            margin-right: 15px;
+            line-height: 20px;
+        }
+
+    .divBtnCriarGrupo {
+        height: 150px;
+        width: 100%;
+        float: left;
+    }
+
+    .btnCriarGrupo {
+        height: 30px;
+        width: 30%;
+        float: left;
+        margin-top: 45px;
+        margin-left: 35%;
+        margin-right: 35%;
+        color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        font-size: 10px;
+        background-color: #4c72ff;
+        font-weight: bold;
+    }
+
+    .txtConvite {
+        height: 25px;
+        width: 80%;
+        float: left;
+        margin-left: 6%;
+        margin-top: 10px;
+        padding-left: 5px;
+        font-size: 10px;
+    }
+
+    .btnEntrarGrupo {
+        height: 35px;
+        width: 40%;
+        float: left;
+        margin-left: 26%;
+        margin-right:30%;
+        margin-top: 15px;
+        color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        font-size: 10px;
+        background-color: #0ac937;
+        font-weight: bold;
+    }
+
+    .btnRecusarGrupo {
+        height: 25px;
+        width: 30%;
+        float: left;
+        margin-left: 10px;
+        margin-top: 15px;
+        color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        font-size: 10px;
+        background-color: #ff5757;
+        font-weight: bold;
+    }
+
+    #divContGrupo {
+        height: 1300px;
+        width: 95%;
+        align-items: center;
+        margin-top: 25px;
+        display: none;
+    }
+
+    .divTitGerencieGrupo {
+        height: 80px;
+        width: 100%;
+        float: left;
+    }
+
+        .divTitGerencieGrupo h1 {
+            font-size: 18px;
+            text-align: left;
+            margin-left: 30px;
+            margin-top: 10px;
+            color: #333;
+        }
+
+    .divNomeFraseGrupo {
+        height: 270px;
+        width: 100%;
+        float: left;
+    }
+
+    .divLblNomeGrupo {
+        height: 50px;
+        width: 100%;
+        float: left;
+    }
+
+        .divLblNomeGrupo p {
+            float: left;
+            font-size: 12px;
+            margin-left: 20px;
+            margin-top: 10px;
+            text-align: left;
+            color: #444;
+        }
+
+    .divTxtNomeGrupo {
+        height: 70px;
+        width: 100%;
+        float: left;
+    }
+
+    .txtNomeGrupo {
+        float: left;
+        height: 25px;
+        width: 80%;
+        padding-left: 5px;
+        padding-bottom: 0px;
+        padding-top: 0px;
+        font-size: 10px;
+        margin-left: 20px;
+    }
+
+    .divCorGrupo {
+        height: 340px;
+        width: 100%;
+        float: left;
+    }
+
+    .divRadioCor {
+        height: 320px;
+        width: 100%;
+        float: left;
+    }
+
+    .fieldsetCor {
+        border: none;
+    }
+
+    .divRdoCor {
+        height: 35px;
+        width: 50%;
+        float: left;
+    }
+
+    .rdoCores {
+        float: left;
+        margin-top: 1px;
+        margin-left: 5px;
+    }
+
+    .fieldsetCor p {
+        float: left;
+        font-size: 10px;
+        text-align: left;
+        margin-left: 8px;
+    }
+
+    .pCores1 {
+        color: #0a0791;
+    }
+
+    .pCores2 {
+        color: #00360b;
+    }
+
+    .pCores3 {
+        color: #f0f005;
+    }
+
+    .pCores4 {
+        color: #fa0000;
+    }
+
+    .pCores5 {
+        color: #ed7e00;
+    }
+
+    .pCores6 {
+        color: #5000b8;
+    }
+
+    .pCores7 {
+        color: #000;
+    }
+
+    .pCores8 {
+        color: #45a2ff;
+    }
+
+    .pCores9 {
+        color: #51ff45;
+    }
+
+    .pCores10 {
+        color: #ff69f5;
+    }
+
+    .pCores11 {
+        color: #53292a;
+    }
+
+    .pCores12 {
+        color: #757575;
+    }
+
+    .pCores13 {
+        color: #4b280a;
+    }
+
+    .pCores14 {
+        color: #b666d2;
+    }
+
+    .pCores15 {
+        color: #1fffec;
+    }
+
+    .rdoCor {
+        height: 30px;
+        width: 100%;
+        float: left;
+        font-size: 10px;
+    }
+
+    .divTitParticipantes {
+        height: 50px;
+        width: 100%;
+        float: left;
+    }
+
+    .pParticipantes {
+        float: left;
+        font-size: 10px;
+        text-align: left;
+        margin-left: 20px;
+        margin-top: 15px;
+        color: #444;
+    }
+
+    .divParticipantes {
+        height: 150px;
+        width: 100%;
+        float: left;
+    }
+
+    .divParticipanteRM {
+        height: 50px;
+        width: 60%;
+        float: left;
+    }
+
+    .lblRmParticipante {
+        float: left;
+        margin-left: 10px;
+        font-size: 10px;
+        text-align: left;
+        margin-top: 6px;
+    }
+
+    .txtParticipanteRM {
+        height: 20px;
+        width: 70%;
+        float: left;
+        margin-left: 10px;
+        font-size: 10px;
+        padding-left: 5px;
+        padding-bottom: 0px;
+        padding-top: 0px;
+    }
+
+    .divParticipanteNome {
+        height: 50px;
+        width: 80%;
+        float: left;
+    }
+
+    .txtParticipanteNome {
+        height: 20px;
+        width: 70%;
+        float: left;
+        margin-left: 10px;
+        padding-left: 5px;
+        padding-bottom: 0px;
+        padding-top: 0px;
+        font-size: 10px;
+    }
+
+    .lblParticipanteNome {
+        float: left;
+        margin-left: 10px;
+        font-size: 10px;
+        text-align: left;
+        margin-top: 6px;
+    }
+
+    .divBtnExcluirParticipante {
+        height: 50px;
+        width: 30%;
+        float: left;
+    }
+
+    .btnExcluirParticipante {
+        height: 30px;
+        width: 70%;
+        float: left;
+        margin-left: 10px;
+        font-size: 10px;
+        background-color: #ff5757;
+        text-align: center;
+        border-radius: 10px 10px;
+        cursor: pointer;
+        border-style:none;
+    }
+
+    .divAlertParticipante {
+        height: 30px;
+        width: 100%;
+        float: left;
+    }
+
+    .lblAlertParticipante {
+        font-size: 14px;
+        text-align: left;
+        margin-left: 20px;
+        margin-top: 5px;
+    }
+
+    .divBtnAdicionarParticipantes {
+        height: 130px;
+        width: 100%;
+        float: left;
+    }
+
+    .btnAdicionarParticipantes {
+        height: 35px;
+        width: 35%;
+        float: left;
+        margin-left: 20px;
+        margin-top: 20px;
+        font-size: 10px;
+        text-align: center;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #0ac937;
+        color: #FFF;
+        font-weight: bold;
+    }
+
+    .btnExcluirGrupo {
+        height: 35px;
+        width: 35%;
+        float: left;
+        margin-left: 20px;
+        margin-top: 20px;
+        font-size: 10px;
+        text-align: center;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #ff5757;
+        color: #FFF;
+        font-weight: bold;
+    }
+
+    .btnGerenciarGrupo {
+        height: 35px;
+        width: 55%;
+        float: left;
+        margin-left: 20%;
+        margin-top: 20px;
+        font-size: 10px;
+        text-align: center;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        background-color: #4c72ff;
+        color: #FFF;
+        font-weight: bold;
+    }
+}

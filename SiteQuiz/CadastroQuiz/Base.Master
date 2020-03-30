@@ -1,0 +1,84 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Base.master.cs" Inherits="CadastroQuiz.Base" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title> ETESP Quiz </title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <link type="text/css" rel="stylesheet" href="CSS/Geral.css" />
+    <link type="text/css" rel="stylesheet" href="CSS/Index.css" />
+    <link type="text/css" rel="stylesheet" href="CSS/Regras.css" />
+    <link type="text/css" rel="stylesheet" href="CSS/Cadastro.css" />
+    <link type="text/css" rel="stylesheet" href="CSS/Login.css" />
+    <link type="text/css" rel="stylesheet" href="CSS/AreaParticipante.css" />
+    <link type="text/css" rel="stylesheet" href="CSS/VerificationEmail.css" />
+    <link type="text/css" rel="stylesheet" href="CSS/RedefinirSenha.css" />
+    <link type="text/css" rel="stylesheet" href="CSS/Suporte.css"/>
+    <link type="text/css" rel="stylesheet" href="CSS/GerenciarGrupo.css"/>
+    <link type="text/css" rel="stylesheet" href="CSS/Verifica.css" />
+
+    <script type="text/javascript" src="Cadastro.js"></script>
+    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+
+
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <header class="headerCabecalho">
+            <div class="cabEsq">
+                <a href="Index.aspx">
+                    <img src="Imagens/etespQuiz.png" class="imgLogo" />
+                </a>
+            </div>
+
+            <div class="divCentro">
+                <div class="divIndex">
+                    <a href="Index.aspx" class="aIndex"><b>Página inicial </b></a>
+                    <a href="Regras.aspx" class="aRegras"><b>Regras</b></a>
+                    <a href="Suporte.aspx" class="aSuporte"><b>Suporte </b></a>
+                </div>
+            </div>
+
+            <div class="cabDir">
+                <div class="divLogin">
+                    <div class="divLoginSub">
+                        <a class="aLoginImg" id="aLoginImg" runat="server" href="Login.aspx"><img src="Imagens/imgAvatar.svg" class="imgLogin"/></a>
+                    </div>
+
+                    <div class="divTextoLogin">
+                        <asp:Label ID="lblNParticipante" runat="server" Text=""></asp:Label>
+                        <a class="aLogin" id="aLogin" runat="server" href="Login.aspx"> <b>Faça seu login</b></a>
+                        <p class="pCadastro"><b>Ainda não se inscreveu? <br /> <a href="Cadastro.aspx" id="aCadastro" runat="server" class="aCadastro"><i>Inscreva-se </i></a></b></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="divMenuHorizontal" id="menuHorizontal">
+                <a href="Index.aspx" class="aMenuHorizontal"><b>Página inicial </b></a>
+                <a href="Regras.aspx" class="aMenuHorizontal"><b>Regras</b></a>
+                <a href="Suporte.aspx" class="aMenuHorizontal"> <b>Suporte </b></a>
+            </div>
+        </header>
+
+
+
+        <div class="divCorpo">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolderCorpo" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+
+
+        <footer class="footerRodape">
+                <p> ETESP </p>
+        </footer>
+    </div>
+    </form>
+</body>
+</html>

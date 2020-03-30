@@ -1,0 +1,325 @@
+
+/*VerificationEmail.aspx*/
+
+.divCorpoVerificarEmail {
+    height: 600px;
+    width: 100%;
+    float: left;
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+.divTextoVerificarEmail {
+    height: 600px;
+    width: 60%;
+    float: left;
+}
+
+.h1VerificarEmail {
+    font-size: 30px;
+    text-align: left;
+    margin-left: 50px;
+    margin-bottom: 35px;
+    margin-top: 50px;
+    color: #444;
+}
+
+.pVerificarEmail {
+    font-size: 20px;
+    text-align: justify;
+    line-height: 36px;
+    margin-left: 40px;
+    margin-right: 30px;
+}
+
+.divImgVerificarEmail {
+    height: 600px;
+    width: 40%;
+    float: left;
+}
+
+.imgCorreio {
+    height: 600px;
+    width: 100%;
+    float: left;
+}
+
+
+
+@media(max-width: 1300px) {
+
+    .divCorpoVerificarEmail {
+        height: 580px;
+        width: 100%;
+        float: left;
+        padding-top: 90px;
+        padding-bottom: 90px;
+    }
+
+    .divTextoVerificarEmail {
+        height: 580px;
+        width: 60%;
+        float: left;
+    }
+
+    .h1VerificarEmail {
+        font-size: 24px;
+        text-align: left;
+        margin-left: 50px;
+        margin-bottom: 35px;
+        margin-top: 50px;
+        color: #444;
+    }
+
+    .pVerificarEmail {
+        font-size: 14px;
+        text-align: justify;
+        line-height: 32px;
+        margin-left: 40px;
+        margin-right: 30px;
+    }
+
+    .divImgVerificarEmail {
+        height: 580px;
+        width: 40%;
+        float: left;
+    }
+
+    .imgCorreio {
+        height: 580px;
+        width: 100%;
+        float: left;
+    }
+}
+
+
+
+@media(max-width: 810px) {									/*MEDIA QUERY DE VerificationEmail.css*/
+
+    .divCorpoVerificarEmail {
+        height: 450px;
+        width: 100%;
+        float: left;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .divTextoVerificarEmail {
+        height: 450px;
+        width: 60%;
+        float: left;
+    }
+
+    .h1VerificarEmail {
+        font-size: 18px;
+        text-align: left;
+        margin-left: 50px;
+        margin-bottom: 35px;
+        margin-top: 50px;
+        color: #444;
+    }
+
+    .pVerificarEmail {
+        font-size: 12px;
+        text-align: justify;
+        line-height: 28px;
+        margin-left: 25px;
+        margin-right: 20px;
+    }
+
+    .divImgVerificarEmail {
+        height: 450px;
+        width: 40%;
+        float: left;
+    }
+
+    .imgCorreio {
+        height: 450px;
+        width: 100%;
+        float: left;
+    }
+}
+
+@media(max-width: 700px) { /*MEDIA QUERY DE VerificationEmail.css*/
+
+    .divCorpoVerificarEmail {
+        height: 420px;
+        width: 100%;
+        float: left;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .divTextoVerificarEmail {
+        height: 420px;
+        width: 60%;
+        float: left;
+    }
+
+    .h1VerificarEmail {
+        font-size: 16px;
+        text-align: left;
+        margin-left: 50px;
+        margin-bottom: 35px;
+        margin-top: 70px;
+        color: #444;
+    }
+
+    .pVerificarEmail {
+        font-size: 10px;
+        text-align: justify;
+        line-height: 28px;
+        margin-left: 30px;
+        margin-right: 20px;
+    }
+
+    .divImgVerificarEmail {
+        height: 420px;
+        width: 40%;
+        float: left;
+    }
+
+    .imgCorreio {
+        height: 420px;
+        width: 100%;
+        float: left;
+    }
+}
+
+@media(max-width: 600px) { /*MEDIA QUERY DE VerificationEmail.css*/
+
+    .divCorpoVerificarEmail {
+        height: 400px;
+        width: 100%;
+        float: left;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .divTextoVerificarEmail {
+        height: 400px;
+        width: 60%;
+        float: left;
+    }
+
+    .h1VerificarEmail {
+        font-size: 16px;
+        text-align: left;
+        margin-left: 50px;
+        margin-bottom: 35px;
+        margin-top: 70px;
+        color: #444;
+    }
+
+    .pVerificarEmail {
+        font-size: 10px;
+        text-align: justify;
+        line-height: 28px;
+        margin-left: 30px;
+        margin-right: 20px;
+    }
+
+    .divImgVerificarEmail {
+        height: 400px;
+        width: 40%;
+        float: left;
+    }
+
+    .imgCorreio {
+        height: 400px;
+        width: 100%;
+        float: left;
+    }
+}
+
+@media(max-width: 450px) {									/*MEDIA QUERY DE VerificationEmail.css*/
+
+    .divCorpoVerificarEmail {
+        height: 320px;
+        width: 100%;
+        float: left;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .divTextoVerificarEmail {
+        height: 320px;
+        width: 60%;
+        float: left;
+    }
+
+    .h1VerificarEmail {
+        font-size: 10px;
+        text-align: left;
+        margin-left: 20px;
+        margin-bottom: 25px;
+        margin-top: 20px;
+        color: #444;
+    }
+
+    .pVerificarEmail {
+        font-size: 10px;
+        text-align: justify;
+        line-height: 22px;
+        margin-left: 10px;
+        margin-right: 20px;
+    }
+
+    .divImgVerificarEmail {
+        height: 320px;
+        width: 40%;
+        float: left;
+    }
+
+    .imgCorreio {
+        height: 320px;
+        width: 100%;
+        float: left;
+    }
+}
+
+@media(max-width: 350px) {									/*MEDIA QUERY DE VerificationEmail.css*/
+
+    .divCorpoVerificarEmail {
+        height: 320px;
+        width: 100%;
+        float: left;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .divTextoVerificarEmail {
+        height: 320px;
+        width: 60%;
+        float: left;
+    }
+
+    .h1VerificarEmail {
+        font-size: 10px;
+        text-align: left;
+        margin-left: 15px;
+        margin-bottom: 25px;
+        margin-top: 20px;
+        color: #444;
+    }
+
+    .pVerificarEmail {
+        font-size: 9px;
+        text-align: justify;
+        line-height: 20px;
+        margin-left: 10px;
+        margin-right: 20px;
+    }
+
+    .divImgVerificarEmail {
+        height: 320px;
+        width: 40%;
+        float: left;
+    }
+
+    .imgCorreio {
+        height: 320px;
+        width: 100%;
+        float: left;
+    }
+}

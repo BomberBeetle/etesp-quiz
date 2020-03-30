@@ -1,0 +1,411 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E1B94FAD-743C-417A-AB5A-B4BCB1B3BA5A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ETESP_Quiz</RootNamespace>
+    <AssemblyName>ETESPQuiz</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.0</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>EB49C47F4B6D5191D9C4E8A933DE0AAF883D16ED</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>ETESP_Quiz_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CircularProgressBar, Version=2.7.0.7, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\CircularProgressBar.2.7.0.7\lib\net40\CircularProgressBar.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WinFormAnimation, Version=1.6.0.4, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinFormAnimation.1.6.0.4\lib\net40\WinFormAnimation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAddDificuldade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddDificuldade.Designer.cs">
+      <DependentUpon>frmAddDificuldade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddTopico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddTopico.Designer.cs">
+      <DependentUpon>frmAddTopico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDebug.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDebug.Designer.cs">
+      <DependentUpon>frmDebug.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditAlts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditAlts.Designer.cs">
+      <DependentUpon>frmEditAlts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditDificuldade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditDificuldade.Designer.cs">
+      <DependentUpon>frmEditDificuldade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditTopico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditTopico.Designer.cs">
+      <DependentUpon>frmEditTopico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGroups.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGroups.Designer.cs">
+      <DependentUpon>frmGroups.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmJogoMostrarResposta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmJogoMostrarResposta.Designer.cs">
+      <DependentUpon>frmJogoMostrarResposta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmJogoPergunta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmJogoPergunta.Designer.cs">
+      <DependentUpon>frmJogoPergunta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmJogoRanking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmJogoRanking.Designer.cs">
+      <DependentUpon>frmJogoRanking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmJogoResposta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmJogoResposta.Designer.cs">
+      <DependentUpon>frmJogoResposta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmJogoTelaFinal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmJogoTelaFinal.Designer.cs">
+      <DependentUpon>frmJogoTelaFinal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPerguntasTopicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPerguntasTopicos.Designer.cs">
+      <DependentUpon>frmPerguntasTopicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddGroup.Designer.cs">
+      <DependentUpon>frmAddGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddPart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddPart.Designer.cs">
+      <DependentUpon>frmAddPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditGroup.Designer.cs">
+      <DependentUpon>frmEditGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditPart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditPart.Designer.cs">
+      <DependentUpon>frmEditPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditPerguntas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditPerguntas.Designer.cs">
+      <DependentUpon>frmEditPerguntas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenu.Designer.cs">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmParticipantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmParticipantes.Designer.cs">
+      <DependentUpon>frmParticipantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQuizConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQuizConfig.Designer.cs">
+      <DependentUpon>frmQuizConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRepescagem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRepescagem.Designer.cs">
+      <DependentUpon>frmRepescagem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRoleta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRoleta.Designer.cs">
+      <DependentUpon>frmRoleta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTopQuiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTopQuiz.Designer.cs">
+      <DependentUpon>frmTopQuiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JogoStatic.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="frmAddPergunta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddPergunta.Designer.cs">
+      <DependentUpon>frmAddPergunta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuizDBConnect.cs" />
+    <Compile Include="QuizExceptions.cs" />
+    <Compile Include="Round Button.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RoundedButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="frmAddDificuldade.resx">
+      <DependentUpon>frmAddDificuldade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddTopico.resx">
+      <DependentUpon>frmAddTopico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDebug.resx">
+      <DependentUpon>frmDebug.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditAlts.resx">
+      <DependentUpon>frmEditAlts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditDificuldade.resx">
+      <DependentUpon>frmEditDificuldade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditPerguntas.resx">
+      <DependentUpon>frmEditPerguntas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditTopico.resx">
+      <DependentUpon>frmEditTopico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGroups.resx">
+      <DependentUpon>frmGroups.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJogoMostrarResposta.resx">
+      <DependentUpon>frmJogoMostrarResposta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJogoPergunta.resx">
+      <DependentUpon>frmJogoPergunta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJogoRanking.resx">
+      <DependentUpon>frmJogoRanking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJogoResposta.resx">
+      <DependentUpon>frmJogoResposta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJogoTelaFinal.resx">
+      <DependentUpon>frmJogoTelaFinal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPerguntasTopicos.resx">
+      <DependentUpon>frmPerguntasTopicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddGroup.resx">
+      <DependentUpon>frmAddGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddPart.resx">
+      <DependentUpon>frmAddPart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditGroup.resx">
+      <DependentUpon>frmEditGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditPart.resx">
+      <DependentUpon>frmEditPart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenu.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParticipantes.resx">
+      <DependentUpon>frmParticipantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQuizConfig.resx">
+      <DependentUpon>frmQuizConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRepescagem.resx">
+      <DependentUpon>frmRepescagem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRoleta.resx">
+      <DependentUpon>frmRoleta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTopQuiz.resx">
+      <DependentUpon>frmTopQuiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddPergunta.resx">
+      <DependentUpon>frmAddPergunta.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ETESP_Quiz_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\etesp quiz %28logo%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backbutt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editar_quiz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jogar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\participantes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sair.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6ob.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\confetti.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\confetti2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dark Mode V1-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dark Mode V1-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoQuiz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spin.wav" />
+    <None Include="Resources\win.wav" />
+    <None Include="Resources\ring.wav" />
+    <None Include="Resources\tense.wav" />
+    <None Include="Resources\Congetti_Paper-UmC4_ou8Y.gif" />
+    <None Include="Resources\cU3A0ff.gif" />
+    <None Include="Resources\6k2.gif" />
+    <Content Include="Resources\backbutt2.png" />
+    <Content Include="Resources\cbt.ico" />
+    <None Include="Resources\cuck.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

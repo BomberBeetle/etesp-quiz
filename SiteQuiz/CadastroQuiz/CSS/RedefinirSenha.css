@@ -1,0 +1,1040 @@
+
+/*RedefinirSenha.aspx*/
+
+.divCorpoRedefinir {
+    height: 700px;
+    width: 100%;
+    float: left;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.divEsqRedefinir {
+    height: 700px;
+    width: 60%;
+    float: left;
+}
+
+.h1RedefinirSenha {
+    font-size: 36px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    color: #444;
+}
+
+.pRedefinirSenha {
+    font-size: 24px;
+    text-align: left;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+
+.divLblRedefinir {
+    height: 50px;
+    width: 30%;
+    float: left;
+}
+
+.lblRedSenha {
+    text-align: right;
+    margin-right: 20px;
+    margin-top: 5px;
+    float: right;
+    font-size:16px;
+}
+
+.divTxtRedefinir {
+    height: 50px;
+    width: 70%;
+    float: left;
+}
+
+.txtRedefinirSenha {
+    width: 35%;
+    height: 35px;
+    /*margin: 0 47%;*/
+    padding-left: 5px;
+    border: 1px solid #aaa;
+    float: left;
+    margin-left: 30px;
+    border-radius: 2px 2px;
+    font-size: 16px;
+    box-shadow: #aaa 1px 1px 1px;
+    position: static;
+}
+
+    .txtRedefinirSenha:hover {
+        border: 2px solid #4c72ff;
+    }
+
+        .txtRedefinirSenha:hover + #olho2 {
+            border-right: 2px solid #4c72ff;
+            border-top: 2px solid #4c72ff;
+            border-bottom: 2px solid #4c72ff;
+        }
+
+#olho2 {
+    height: 37px;
+    width: 8%;
+    float: left;
+    border-right: 1px solid #aaa;
+    border-top: 1px solid #aaa;
+    border-bottom: 1px solid #aaa;
+    box-shadow: #aaa 1px 1px 1px;
+    position: static;
+    cursor: pointer;
+    background-color: #FFF;
+}
+
+.txtConfirmarRedefinirSenha {
+    width: 42%;
+    height: 35px;
+    /*margin: 0 47%;*/
+    /*padding: 0 0.5%;*/
+    padding-left: 5px;
+    border: solid 1px #aaa;
+    float: left;
+    margin-left: 30px;
+    border-radius: 2px 2px;
+    font-size: 16px;
+    box-shadow: #aaa 1px 1px 1px;
+}
+
+    .txtConfirmarRedefinirSenha:hover {
+        border: 2px solid #4c72ff;
+    }
+
+#btnRevelar2 {
+    height: 37px;
+    width: 100%;
+    float: left;
+    background-image: url("../Imagens/olho2.png");
+    background-size: 100% 100%;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    /*margin-left: 10px;*/
+}
+.divBtnRedefinirSenha {
+    height: 60px;
+    width: 100%;
+    float: left;
+}
+
+.btnRedefinirSenha {
+    height: 45px;
+    width: 20%;
+    float:left;
+    margin-top:10px;
+    margin-left: 40%;    
+    margin-right: 40%; 
+    /*background-image: linear-gradient(to bottom, #EEE, #FFF);*/
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+    border-style: none;
+    font-size: 14px;
+    background-color: #4c72ff;
+    font-weight:bold;
+}
+
+.btnRedefinirSenha:hover{
+
+}
+
+.divDirRedefinir {
+    height: 700px;
+    width: 38%;
+    float: left;
+}
+
+.imgRedefinir {
+    height: 700px;
+    width: 100%;
+    float: left;
+}
+
+@media(max-width:1300px){
+
+    .divCorpoRedefinir {
+        height: 650px;
+        width: 100%;
+        float: left;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .divEsqRedefinir {
+        height: 650px;
+        width: 60%;
+        float: left;
+    }
+
+    .h1RedefinirSenha {
+        font-size: 34px;
+        text-align: center;
+        margin-top: 90px;
+        margin-bottom: 20px;
+        color: #444;
+    }
+
+    .pRedefinirSenha {
+        font-size: 24px;
+        text-align: left;
+        margin-top: 40px;
+        margin-left: 70px;
+    }
+
+    .divLblRedefinir {
+        height: 50px;
+        width: 30%;
+        float: left;
+    }
+
+    .lblRedSenha {
+        text-align: right;
+        margin-right: 20px;
+        margin-top: 5px;
+        float: right;
+        font-size:16px;
+    }
+
+    .divTxtRedefinir {
+        height: 50px;
+        width: 70%;
+        float: left;
+    }
+
+    .txtRedefinirSenha {
+        width: 35%;
+        height: 35px;
+        /*margin: 0 47%;*/
+        padding-left: 5px;
+        border: 1px solid #aaa;
+        float: left;
+        margin-left: 30px;
+        border-radius: 2px 2px;
+        font-size: 16px;
+        box-shadow: #aaa 1px 1px 1px;
+        position: static;
+    }
+
+        .txtRedefinirSenha:hover {
+            border: 2px solid #4c72ff;
+        }
+
+            .txtRedefinirSenha:hover + #olho2 {
+                border-right: 2px solid #4c72ff;
+                border-top: 2px solid #4c72ff;
+                border-bottom: 2px solid #4c72ff;
+            }
+
+    #olho2 {
+        height: 37px;
+        width: 8%;
+        float: left;
+        border-right: 1px solid #aaa;
+        border-top: 1px solid #aaa;
+        border-bottom: 1px solid #aaa;
+        box-shadow: #aaa 1px 1px 1px;
+        position: static;
+        cursor: pointer;
+        background-color: #FFF;
+    }
+
+    .txtConfirmarRedefinirSenha {
+        width: 42%;
+        height: 35px;
+        /*margin: 0 47%;*/
+        /*padding: 0 0.5%;*/
+        padding-left: 5px;
+        border: solid 1px #aaa;
+        float: left;
+        margin-left: 30px;
+        border-radius: 2px 2px;
+        font-size: 16px;
+        box-shadow: #aaa 1px 1px 1px;
+    }
+
+        .txtConfirmarRedefinirSenha:hover {
+            border: 2px solid #4c72ff;
+        }
+
+    .divBtnRedefinirSenha {
+        height: 60px;
+        width: 100%;
+        float: left;
+    }
+
+    .btnRedefinirSenha {
+        height: 45px;
+        width: 30%;
+        float:left;
+        margin-top:10px;
+        margin-left: 35%;    
+        margin-right: 35%;       
+        /*background-image: linear-gradient(to bottom, #EEE, #FFF);*/
+        color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        font-size: 14px;
+        background-color: #4c72ff;
+        font-weight:bold;
+    }
+
+    .btnRedefinirSenha:hover{
+
+    }
+
+    .divDirRedefinir {
+        height: 650px;
+        width: 38%;
+        float: left;
+    }
+
+    .imgRedefinir {
+        height: 650px;
+        width: 100%;
+        float: left;
+    }
+}
+
+@media(max-width:810px) {
+
+    .divCorpoRedefinir {
+        height: 550px;
+        width: 100%;
+        float: left;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .divEsqRedefinir {
+        height: 550px;
+        width: 60%;
+        float: left;
+    }
+
+    .h1RedefinirSenha {
+        font-size: 30px;
+        text-align: center;
+        margin-top: 85px;
+        margin-bottom: 20px;
+        color: #444;
+    }
+
+    .pRedefinirSenha {
+        font-size: 24px;
+        text-align: left;
+        margin-top: 40px;
+        margin-left: 70px;
+    }
+
+    .divLblRedefinir {
+        height: 50px;
+        width: 25%;
+        float: left;
+    }
+
+    .lblRedSenha {
+        text-align: right;
+        margin-right: 10px;
+        margin-top: 5px;
+        float: right;
+        font-size: 14px;
+    }
+
+    .divTxtRedefinir {
+        height: 50px;
+        width: 75%;
+        float: left;
+    }
+
+    .txtRedefinirSenha {
+        width: 40%;
+        height: 35px;
+        /*margin: 0 47%;*/
+        padding-left: 5px;
+        border: 1px solid #aaa;
+        float: left;
+        margin-left: 30px;
+        border-radius: 2px 2px;
+        font-size: 14px;
+        box-shadow: #aaa 1px 1px 1px;
+        position: static;
+    }
+
+        .txtRedefinirSenha:hover {
+            border: 2px solid #4c72ff;
+        }
+
+            .txtRedefinirSenha:hover + #olho2 {
+                border-right: 2px solid #4c72ff;
+                border-top: 2px solid #4c72ff;
+                border-bottom: 2px solid #4c72ff;
+            }
+
+    #olho2 {
+        height: 37px;
+        width: 8%;
+        float: left;
+        border-right: 1px solid #aaa;
+        border-top: 1px solid #aaa;
+        border-bottom: 1px solid #aaa;
+        box-shadow: #aaa 1px 1px 1px;
+        position: static;
+        cursor: pointer;
+        background-color: #FFF;
+    }
+
+    .txtConfirmarRedefinirSenha {
+        width: 47%;
+        height: 35px;
+        /*margin: 0 47%;*/
+        /*padding: 0 0.5%;*/
+        padding-left: 5px;
+        border: solid 1px #aaa;
+        float: left;
+        margin-left: 30px;
+        border-radius: 2px 2px;
+        font-size: 14px;
+        box-shadow: #aaa 1px 1px 1px;
+    }
+
+        .txtConfirmarRedefinirSenha:hover {
+            border: 2px solid #4c72ff;
+        }
+
+    .divBtnRedefinirSenha {
+        height: 60px;
+        width: 100%;
+        float: left;
+    }
+
+    .btnRedefinirSenha {
+        height: 45px;
+        width: 34%;
+        float: left;
+        margin-top: 10px;
+        margin-left: 33%;
+        margin-right: 33%;
+        /*background-image: linear-gradient(to bottom, #EEE, #FFF);*/
+        color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        font-size: 14px;
+        background-color: #4c72ff;
+        font-weight: bold;
+    }
+
+        .btnRedefinirSenha:hover {
+        }
+
+    .divDirRedefinir {
+        height: 550px;
+        width: 38%;
+        float: left;
+    }
+
+    .imgRedefinir {
+        height: 550px;
+        width: 100%;
+        float: left;
+    }
+}
+
+@media(max-width:700px) {
+
+    .divCorpoRedefinir {
+        height: 550px;
+        width: 100%;
+        float: left;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .divEsqRedefinir {
+        height: 550px;
+        width: 65%;
+        float: left;
+    }
+
+    .h1RedefinirSenha {
+        font-size: 30px;
+        text-align: center;
+        margin-top: 85px;
+        margin-bottom: 20px;
+        color: #444;
+    }
+
+    .pRedefinirSenha {
+        font-size: 24px;
+        text-align: left;
+        margin-top: 40px;
+        margin-left: 70px;
+    }
+
+    .divLblRedefinir {
+        height: 50px;
+        width: 25%;
+        float: left;
+    }
+
+    .lblRedSenha {
+        text-align: right;
+        margin-right: 10px;
+        margin-top: 5px;
+        float: right;
+        font-size: 14px;
+    }
+
+    .divTxtRedefinir {
+        height: 50px;
+        width: 75%;
+        float: left;
+    }
+
+    .txtRedefinirSenha {
+        width: 43%;
+        height: 35px;
+        /*margin: 0 47%;*/
+        padding-left: 5px;
+        border: 1px solid #aaa;
+        float: left;
+        margin-left: 20px;
+        border-radius: 2px 2px;
+        font-size: 14px;
+        box-shadow: #aaa 1px 1px 1px;
+        position: static;
+    }
+
+        .txtRedefinirSenha:hover {
+            border: 2px solid #4c72ff;
+        }
+
+            .txtRedefinirSenha:hover + #olho2 {
+                border-right: 2px solid #4c72ff;
+                border-top: 2px solid #4c72ff;
+                border-bottom: 2px solid #4c72ff;
+            }
+
+    #olho2 {
+        height: 37px;
+        width: 10%;
+        float: left;
+        border-right: 1px solid #aaa;
+        border-top: 1px solid #aaa;
+        border-bottom: 1px solid #aaa;
+        box-shadow: #aaa 1px 1px 1px;
+        position: static;
+        cursor: pointer;
+        background-color: #FFF;
+    }
+
+    .txtConfirmarRedefinirSenha {
+        width: 52%;
+        height: 35px;
+        /*margin: 0 47%;*/
+        /*padding: 0 0.5%;*/
+        padding-left: 5px;
+        border: solid 1px #aaa;
+        float: left;
+        margin-left: 20px;
+        border-radius: 2px 2px;
+        font-size: 14px;
+        box-shadow: #aaa 1px 1px 1px;
+    }
+
+        .txtConfirmarRedefinirSenha:hover {
+            border: 2px solid #4c72ff;
+        }
+
+    .divBtnRedefinirSenha {
+        height: 60px;
+        width: 100%;
+        float: left;
+    }
+
+    .btnRedefinirSenha {
+        height: 45px;
+        width: 35%;
+        float: left;
+        margin-top: 10px;
+        margin-left: 35%;
+        margin-right: 35%;
+        /*background-image: linear-gradient(to bottom, #EEE, #FFF);*/
+        color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        font-size: 14px;
+        background-color: #4c72ff;
+        font-weight: bold;
+    }
+
+        .btnRedefinirSenha:hover {
+        }
+
+    .divDirRedefinir {
+        height: 550px;
+        width: 33%;
+        float: left;
+    }
+
+    .imgRedefinir {
+        height: 550px;
+        width: 100%;
+        float: left;
+    }
+}
+
+@media(max-width:600px) {
+
+    .divCorpoRedefinir {
+        height: 500px;
+        width: 100%;
+        float: left;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .divEsqRedefinir {
+        height: 500px;
+        width: 100%;
+        float: left;
+    }
+
+    .h1RedefinirSenha {
+        font-size: 30px;
+        text-align: center;
+        margin-top: 85px;
+        margin-bottom: 20px;
+        color: #444;
+    }
+
+    .pRedefinirSenha {
+        font-size: 24px;
+        text-align: left;
+        margin-top: 40px;
+        margin-left: 70px;
+    }
+
+    .divLblRedefinir {
+        height: 50px;
+        width: 25%;
+        float: left;
+    }
+
+    .lblRedSenha {
+        text-align: right;
+        margin-right: 10px;
+        margin-top: 5px;
+        float: right;
+        font-size: 14px;
+    }
+
+    .divTxtRedefinir {
+        height: 50px;
+        width: 75%;
+        float: left;
+    }
+
+    .txtRedefinirSenha {
+        width: 43%;
+        height: 35px;
+        /*margin: 0 47%;*/
+        padding-left: 5px;
+        border: 1px solid #aaa;
+        float: left;
+        margin-left: 20px;
+        border-radius: 2px 2px;
+        font-size: 14px;
+        box-shadow: #aaa 1px 1px 1px;
+        position: static;
+    }
+
+        .txtRedefinirSenha:hover {
+            border: 2px solid #4c72ff;
+        }
+
+            .txtRedefinirSenha:hover + #olho2 {
+                border-right: 2px solid #4c72ff;
+                border-top: 2px solid #4c72ff;
+                border-bottom: 2px solid #4c72ff;
+            }
+
+    #olho2 {
+        height: 37px;
+        width: 10%;
+        float: left;
+        border-right: 1px solid #aaa;
+        border-top: 1px solid #aaa;
+        border-bottom: 1px solid #aaa;
+        box-shadow: #aaa 1px 1px 1px;
+        position: static;
+        cursor: pointer;
+        background-color: #FFF;
+    }
+
+    .txtConfirmarRedefinirSenha {
+        width: 52%;
+        height: 35px;
+        /*margin: 0 47%;*/
+        /*padding: 0 0.5%;*/
+        padding-left: 5px;
+        border: solid 1px #aaa;
+        float: left;
+        margin-left: 20px;
+        border-radius: 2px 2px;
+        font-size: 14px;
+        box-shadow: #aaa 1px 1px 1px;
+    }
+
+        .txtConfirmarRedefinirSenha:hover {
+            border: 2px solid #4c72ff;
+        }
+
+    .divBtnRedefinirSenha {
+        height: 60px;
+        width: 100%;
+        float: left;
+    }
+
+    .btnRedefinirSenha {
+        height: 45px;
+        width: 34%;
+        float: left;
+        margin-top: 10px;
+        margin-left: 33%;
+        margin-right: 33%;
+        /*background-image: linear-gradient(to bottom, #EEE, #FFF);*/
+        color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        font-size: 14px;
+        background-color: #4c72ff;
+        font-weight: bold;
+        position:absolute;
+    }
+
+        .btnRedefinirSenha:hover {
+        }
+
+    .divDirRedefinir {
+        height: 550px;
+        width: 0%;
+        float: left;
+    }
+
+    .imgRedefinir {
+        height: 550px;
+        width: 100%;
+        float: left;
+    }
+}
+
+@media(max-width:450px) {
+
+    .divCorpoRedefinir {
+        height: 450px;
+        width: 100%;
+        float: left;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .divEsqRedefinir {
+        height: 450px;
+        width: 100%;
+        float: left;
+    }
+
+    .h1RedefinirSenha {
+        font-size: 24px;
+        text-align: center;
+        margin-top: 35px;
+        margin-bottom: 20px;
+        color: #444;
+    }
+
+    .pRedefinirSenha {
+        font-size: 24px;
+        text-align: left;
+        margin-top: 40px;
+        margin-left: 70px;
+    }
+
+    .divLblRedefinir {
+        height: 50px;
+        width: 25%;
+        float: left;
+    }
+
+    .lblRedSenha {
+        text-align: right;
+        margin-right: 10px;
+        margin-top: 5px;
+        float: right;
+        font-size: 12px;
+    }
+
+    .divTxtRedefinir {
+        height: 50px;
+        width: 75%;
+        float: left;
+    }
+
+    .txtRedefinirSenha {
+        width: 48%;
+        height: 35px;
+        /*margin: 0 47%;*/
+        padding-left: 5px;
+        border: 1px solid #aaa;
+        float: left;
+        margin-left: 20px;
+        border-radius: 2px 2px;
+        font-size: 12px;
+        box-shadow: #aaa 1px 1px 1px;
+        position: static;
+    }
+
+        .txtRedefinirSenha:hover {
+            border: 2px solid #4c72ff;
+        }
+
+            .txtRedefinirSenha:hover + #olho2 {
+                border-right: 2px solid #4c72ff;
+                border-top: 2px solid #4c72ff;
+                border-bottom: 2px solid #4c72ff;
+            }
+
+    #olho2 {
+        height: 37px;
+        width: 10%;
+        float: left;
+        border-right: 1px solid #aaa;
+        border-top: 1px solid #aaa;
+        border-bottom: 1px solid #aaa;
+        box-shadow: #aaa 1px 1px 1px;
+        position: static;
+        cursor: pointer;
+        background-color: #FFF;
+    }
+
+    .txtConfirmarRedefinirSenha {
+        width: 57%;
+        height: 35px;
+        /*margin: 0 47%;*/
+        /*padding: 0 0.5%;*/
+        padding-left: 5px;
+        border: solid 1px #aaa;
+        float: left;
+        margin-left: 20px;
+        border-radius: 2px 2px;
+        font-size: 12px;
+        box-shadow: #aaa 1px 1px 1px;
+    }
+
+        .txtConfirmarRedefinirSenha:hover {
+            border: 2px solid #4c72ff;
+        }
+
+    .divBtnRedefinirSenha {
+        height: 60px;
+        width: 100%;
+        float: left;
+    }
+
+    .btnRedefinirSenha {
+        height: 45px;
+        width: 36%;
+        float: left;
+        margin-top: 10px;
+        margin-left: 32%;
+        margin-right: 32%;
+        /*background-image: linear-gradient(to bottom, #EEE, #FFF);*/
+        color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        font-size: 12px;
+        background-color: #4c72ff;
+        font-weight: bold;
+    }
+
+        .btnRedefinirSenha:hover {
+        }
+
+    .divDirRedefinir {
+        height: 450px;
+        width: 0%;
+        float: left;
+    }
+
+    .imgRedefinir {
+        height: 550px;
+        width: 100%;
+        float: left;
+    }
+}
+
+@media(max-width:350px) {
+
+    .divCorpoRedefinir {
+        height: 450px;
+        width: 100%;
+        float: left;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .divEsqRedefinir {
+        height: 450px;
+        width: 100%;
+        float: left;
+    }
+
+    .h1RedefinirSenha {
+        font-size: 22px;
+        text-align: center;
+        margin-top: 35px;
+        margin-bottom: 20px;
+        color: #444;
+    }
+
+    .pRedefinirSenha {
+        font-size: 24px;
+        text-align: left;
+        margin-top: 40px;
+        margin-left: 70px;
+    }
+
+    .divLblRedefinir {
+        height: 50px;
+        width: 25%;
+        float: left;
+    }
+
+    .lblRedSenha {
+        text-align: right;
+        margin-right: 10px;
+        margin-top: 5px;
+        float: right;
+        font-size: 12px;
+    }
+
+    .divTxtRedefinir {
+        height: 50px;
+        width: 75%;
+        float: left;
+    }
+
+    .txtRedefinirSenha {
+        width: 58%;
+        height: 30px;
+        /*margin: 0 47%;*/
+        padding-left: 5px;
+        border: 1px solid #aaa;
+        float: left;
+        margin-left: 10px;
+        border-radius: 2px 2px;
+        font-size: 12px;
+        box-shadow: #aaa 1px 1px 1px;
+        position: static;
+    }
+
+        .txtRedefinirSenha:hover {
+            border: 2px solid #4c72ff;
+        }
+
+            .txtRedefinirSenha:hover + #olho2 {
+                border-right: 2px solid #4c72ff;
+                border-top: 2px solid #4c72ff;
+                border-bottom: 2px solid #4c72ff;
+            }
+
+    #olho2 {
+        height: 32px;
+        width: 10%;
+        float: left;
+        border-right: 1px solid #aaa;
+        border-top: 1px solid #aaa;
+        border-bottom: 1px solid #aaa;
+        box-shadow: #aaa 1px 1px 1px;
+        position: static;
+        cursor: pointer;
+        background-color: #FFF;
+    }
+
+    .txtConfirmarRedefinirSenha {
+        width: 67%;
+        height: 30px;
+        /*margin: 0 47%;*/
+        /*padding: 0 0.5%;*/
+        padding-left: 5px;
+        border: solid 1px #aaa;
+        float: left;
+        margin-left: 10px;
+        border-radius: 2px 2px;
+        font-size: 12px;
+        box-shadow: #aaa 1px 1px 1px;
+    }
+
+        .txtConfirmarRedefinirSenha:hover {
+            border: 2px solid #4c72ff;
+        }
+
+    #btnRevelar2 {
+        height: 32px;
+        width: 100%;
+        float: left;
+        background-image: url("../Imagens/olho2.png");
+        background-size: 100% 100%;
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+        /*margin-left: 10px;*/
+    }
+
+    .divBtnRedefinirSenha {
+        height: 60px;
+        width: 100%;
+        float: left;
+    }
+
+    .btnRedefinirSenha {
+        height: 45px;
+        width: 40%;
+        float: left;
+        margin-top: 10px;
+        margin-left: 30%;
+        margin-right: 30%;
+        /*background-image: linear-gradient(to bottom, #EEE, #FFF);*/
+        color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        border-style: none;
+        font-size: 12px;
+        background-color: #4c72ff;
+        font-weight: bold;
+    }
+
+        .btnRedefinirSenha:hover {
+        }
+
+    .divDirRedefinir {
+        height: 450px;
+        width: 0%;
+        float: left;
+    }
+
+    .imgRedefinir {
+        height: 550px;
+        width: 100%;
+        float: left;
+    }
+}
